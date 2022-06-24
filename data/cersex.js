@@ -2,205 +2,205 @@ var post = [
     {
         "title": "Cerita Dewasa Pelajar Wanita Perawan Diperkosa Di Gubuk Sepi",
         "kategori": "Pemerkosaan",
-        "konten": "<iframe src=\"cersex/cersex10.txt\" id=\"frame\">",
-        "poster": "http://54.36.246.81/wp-content/uploads/2017/09/ce65f7fe-0f27-4c91-88fe-bc012296dc0c-1582-000001f5720b1454-1-194x300.jpg",
-        "id": "10"
+        "konten": "<iframe src=\"cersex/029.txt\" id=\"frame\">",
+        "poster": "cersex/thumb/029.jpg",
+        "id": "29"
     },
     {
         "title": "Cerita Sex Sekretaris Perawan Diperkosa Atasan",
         "kategori": "Pemerkosaan",
-        "konten": "<iframe src=\"cersex/cersex11.txt\" id=\"frame\">",
-        "poster": "http://54.36.246.81/wp-content/uploads/2017/09/img_0603-1-300x221.jpg",
-        "id": "11"
+        "konten": "<iframe src=\"cersex/028.txt\" id=\"frame\">",
+        "poster": "cersex/thumb/028.jpg",
+        "id": "28"
     },
     {
         "title": "KUPERKOSA DAN KUAMBIL KEPERAWANAN ANAK TETANGGAKU",
         "kategori": "Pemerkosaan",
-        "konten": "<iframe src=\"cersex/cersex12.txt\" id=\"frame\">",
-        "poster": "http://54.36.246.81/wp-content/uploads/2017/09/img_0652-223x300.jpg",
-        "id": "12"
+        "konten": "<iframe src=\"cersex/027.txt\" id=\"frame\">",
+        "poster": "cersex/thumb/027.jpg",
+        "id": "27"
     },
     {
         "title": "CERITA MEMPERKOSA WANITA YANG DULU PERNAH MENOLAKKU",
         "kategori": "Pemerkosaan",
-        "konten": "<iframe src=\"cersex/cersex13.txt\" id=\"frame\">",
-        "poster": "http://54.36.246.81/wp-content/uploads/2017/09/10c7c230-d5c7-41e3-aeca-ea3d856f403b-1402-000001fe34ce871a-1-240x300.jpg",
-        "id": "13"
+        "konten": "<iframe src=\"cersex/026.txt\" id=\"frame\">",
+        "poster": "cersex/thumb/026.jpg",
+        "id": "26"
     },
     {
         "title": "CERITA SELINGKUH DENGAN ISTRI TEMAN YG MENGAJAK BERSENANG-SENANG",
         "kategori": "Pemerkosaan",
-        "konten": "<iframe src=\"cersex/cersex14.txt\" id=\"frame\">",
-        "poster": "http://54.36.246.81/wp-content/uploads/2017/09/eaa1635f-cb77-4bc5-9419-2ff95765bbf9-1402-000001fe01b31e0a-1-300x300.jpg",
-        "id": "14"
+        "konten": "<iframe src=\"cersex/025.txt\" id=\"frame\">",
+        "poster": "cersex/thumb/025.jpg",
+        "id": "25"
     },
     {
         "title": "CERITA SEX KUPERKOSA ISTRI TETANGGAKU SETELAH NGINTIP MEREKA BERCUMBU",
         "kategori": "Pemerkosaan",
-        "konten": "<iframe src=\"cersex/cersex15.txt\" id=\"frame\">",
-        "poster": "http://54.36.246.81/wp-content/uploads/2017/09/59bf4963-b052-423a-a30f-a0fbe61e7eae-1369-00000283af872b0f-1-251x300.jpg",
-        "id": "15"
+        "konten": "<iframe src=\"cersex/024.txt\" id=\"frame\">",
+        "poster": "cersex/thumb/024.jpg",
+        "id": "24"
     },
     {
         "title": "BERBEKAL OBAT BIUS, KUPERKOSA WANITA HAMIL",
         "kategori": "Pemerkosaan",
-        "konten": "<iframe src=\"cersex/cersex16.txt\" id=\"frame\">",
-        "poster": "http://54.36.246.81/wp-content/uploads/2017/09/bee3f8da-f99b-4bb6-a7f6-bc929dd71a1a-1977-0000035b134dd951-1-1-300x182.jpg",
-        "id": "16"
+        "konten": "<iframe src=\"cersex/023.txt\" id=\"frame\">",
+        "poster": "cersex/thumb/023.jpg",
+        "id": "23"
     },
     {
         "title": "KUSETUBUHI PASIENKU YANG SEDANG TAK SADAR DIRI",
         "kategori": "Pemerkosaan",
-        "konten": "<iframe src=\"cersex/cersex17.txt\" id=\"frame\">",
-        "poster": "http://54.36.246.81/wp-content/uploads/2017/09/e4e345bd-a2c3-400a-ab35-ba9e02948863-3816-000005fd87f4517e-1-300x224.jpg",
-        "id": "17"
+        "konten": "<iframe src=\"cersex/022.txt\" id=\"frame\">",
+        "poster": "cersex/thumb/022.jpg",
+        "id": "22"
     },
     {
         "title": "CERITA DEWASA KUPERKOSA DAN KUAMBIL KEPERAWANAN ANAK TETANGGAKU",
         "kategori": "Pemerkosaan",
-        "konten": "<iframe src=\"cersex/cersex18.txt\" id=\"frame\">",
-        "poster": "http://54.36.246.81/wp-content/uploads/2017/09/img_0609-242x300.jpg",
-        "id": "18"
+        "konten": "<iframe src=\"cersex/021.txt\" id=\"frame\">",
+        "poster": "cersex/thumb/021.jpg",
+        "id": "21"
     },
     {
         "title": "KISAH BOKEP PERKOSAAN BERGILIR",
         "kategori": "Pemerkosaan",
-        "konten": "<iframe src=\"cersex/cersex19.txt\" id=\"frame\">",
-        "poster": "http://54.36.246.81/wp-content/uploads/2017/09/518fbd85-1e52-49cc-aca8-6dd8248a4c5c-8243-00000da1ab4ea811-1.jpg",
-        "id": "19"
+        "konten": "<iframe src=\"cersex/020.txt\" id=\"frame\">",
+        "poster": "cersex/thumb/020.jpg",
+        "id": "20"
     },
     {
         "title": "Lumatan Gadis SMU Bikin Sange",
         "kategori": "Cerita Sex ABG",
-        "konten": "<iframe src=\"cersex/cersex2.txt\" id=\"frame\">",
-        "poster": "https://telegra.ph/file/f388df3497b7c39999d28.jpg",
-        "id": "2"
+        "konten": "<iframe src=\"cersex/019.txt\" id=\"frame\">",
+        "poster": "cersex/thumb/019.jpg",
+        "id": "19"
     },
     {
         "title": "CERITA SEKS ,MEMPERKOSA ISTRI BOSKU SEBAGAI PELAMPIASAN KARENA LAMA TAK DIGAJI",
         "kategori": "Pemerkosaan",
-        "konten": "<iframe src=\"cersex/cersex20.txt\" id=\"frame\">",
-        "poster": "http://54.36.246.81/wp-content/uploads/2017/10/115ca705-79d0-4811-8923-0003f7506a44-257-0000000fd7f3f98f-1-226x300.jpg",
-        "id": "20"
+        "konten": "<iframe src=\"cersex/018.txt\" id=\"frame\">",
+        "poster": "cersex/thumb/018.jpg",
+        "id": "18"
     },
     {
         "title": "MEMBIUS DAN MEMPERKOSA GADIS YANG PERNAH MENOLAK CINTAKU",
         "kategori": "Pemerkosaan",
-        "konten": "<iframe src=\"cersex/cersex21.txt\" id=\"frame\">",
-        "poster": "http://54.36.246.81/wp-content/uploads/2017/10/d33b863b-8396-4c4b-be62-421fc0cbab63-6796-0000044ad633a079-1-244x300.jpg",
-        "id": "21"
+        "konten": "<iframe src=\"cersex/017.txt\" id=\"frame\">",
+        "poster": "cersex/thumb/017.jpg",
+        "id": "17"
     },
     {
         "title": "MEMPERKOSA SEPUPUKU SAMPAI HAMIL",
         "kategori": "Pemerkosaan",
-        "konten": "<iframe src=\"cersex/cersex22.txt\" id=\"frame\">",
-        "poster": "http://54.36.246.81/wp-content/uploads/2017/10/img_1586-1-211x300.jpg",
-        "id": "22"
+        "konten": "<iframe src=\"cersex/016.txt\" id=\"frame\">",
+        "poster": "cersex/thumb/016.jpg",
+        "id": "16"
     },
     {
         "title": "AKU DIPERKOSA ANAKKU",
         "kategori": "Pemerkosaan",
-        "konten": "<iframe src=\"cersex/cersex23.txt\" id=\"frame\">",
-        "poster": "http://54.36.246.81/wp-content/uploads/2017/10/fde67e49-84ce-48ce-a11e-a9aa38f69e76-1873-000001eabae32a9e-1-204x300.jpg",
-        "id": "23"
+        "konten": "<iframe src=\"cersex/015.txt\" id=\"frame\">",
+        "poster": "cersex/thumb/015.jpg",
+        "id": "15"
     },
     {
         "title": "PEMERKOSAAN SADIS GADIS BELIA",
         "kategori": "Pemerkosaan",
-        "konten": "<iframe src=\"cersex/cersex24.txt\" id=\"frame\">",
-        "poster": "http://54.36.246.81/wp-content/uploads/2017/10/img_2621-1-212x300.jpg",
-        "id": "24"
+        "konten": "<iframe src=\"cersex/014.txt\" id=\"frame\">",
+        "poster": "cersex/thumb/014.jpg",
+        "id": "14"
     },
     {
         "title": "GURU PERKOSA SISWI DIPERPUSTAKAAN SEKOLAH",
         "kategori": "Pemerkosaan",
-        "konten": "<iframe src=\"cersex/cersex25.txt\" id=\"frame\">",
-        "poster": "http://54.36.246.81/wp-content/uploads/2017/10/bb416359-31fd-46d4-ad97-1a6733a5aa65-6014-00000539c4c3d7e1-1-205x300.jpg",
-        "id": "25"
+        "konten": "<iframe src=\"cersex/013.txt\" id=\"frame\">",
+        "poster": "cersex/thumb/013.jpg",
+        "id": "13"
     },
     {
         "title": "KEPERGOK ML,CEWEK SMA DIPERKOSA 2 COWOK DIHUTAN",
         "kategori": "Pemerkosaan",
-        "konten": "<iframe src=\"cersex/cersex26.txt\" id=\"frame\">",
-        "poster": "http://54.36.246.81/wp-content/uploads/2017/11/img_2790-1-225x300.jpg",
-        "id": "26"
+        "konten": "<iframe src=\"cersex/012.txt\" id=\"frame\">",
+        "poster": "cersex/thumb/012.jpg",
+        "id": "12"
     },
     {
         "title": "CERITA SEX DIPERKOSA MERTUA SAAT MANDI",
         "kategori": "Pemerkosaan",
-        "konten": "<iframe src=\"cersex/cersex27.txt\" id=\"frame\">",
-        "poster": "http://54.36.246.81/wp-content/uploads/2017/11/789254b3-a69a-4508-92d3-07f2d86b4ae8-1300-00000119644bc62c-1-200x300.jpg",
-        "id": "27"
+        "konten": "<iframe src=\"cersex/011.txt\" id=\"frame\">",
+        "poster": "cersex/thumb/011.jpg",
+        "id": "11"
     },
     {
         "title": "CERITA SEX CEWEK CANTIK & SEMOK DI PERKOSA 3 PRIA DALAM LIFT KAMPUS",
         "kategori": "Pemerkosaan",
-        "konten": "<iframe src=\"cersex/cersex28.txt\" id=\"frame\">",
-        "poster": "http://54.36.246.81/wp-content/uploads/2017/11/159fb02c-e425-4d14-8fa9-28d62c46e7f9-1593-000001821cfc60c3-1-300x280.jpg",
-        "id": "28"
+        "konten": "<iframe src=\"cersex/010.txt\" id=\"frame\">",
+        "poster": "cersex/thumb/010.jpg",
+        "id": "10"
     },
     {
         "title": "CERITA SEX KUPERKOSA ADIK KANDUNGKU KARNA SUDAH DIKUASAI NAFSU SEX",
         "kategori": "Pemerkosaan",
-        "konten": "<iframe src=\"cersex/cersex29.txt\" id=\"frame\">",
-        "poster": "http://54.36.246.81/wp-content/uploads/2017/11/fc14ca1f-9a2a-41e0-b446-83158d6b3f7d-1593-000001827168c5f7-1-300x300.jpg",
-        "id": "29"
+        "konten": "<iframe src=\"cersex/009.txt\" id=\"frame\">",
+        "poster": "cersex/thumb/009.jpg",
+        "id": "9"
     },
     {
         "title": "Cerita Sex Perawan Hilang Hutang Ibu Lunas",
         "kategori": "Cerita Sex ABG",
-        "konten": "<iframe src=\"cersex/cersex3.txt\" id=\"frame\">",
-        "poster": "https://telegra.ph/file/57bbea969e5f5e044408e.jpg",
-        "id": "3"
+        "konten": "<iframe src=\"cersex/008.txt\" id=\"frame\">",
+        "poster": "cersex/thumb/008.jpg",
+        "id": "8"
     },
     {
         "title": "CERITA ABG DIPERKOSA MALAH KETAGIHAN",
         "kategori": "Pemerkosaan",
-        "konten": "<iframe src=\"cersex/cersex30.txt\" id=\"frame\">",
-        "poster": "http://54.36.246.81/wp-content/uploads/2017/11/img_3093-1-236x300.jpg",
-        "id": "30"
+        "konten": "<iframe src=\"cersex/007.txt\" id=\"frame\">",
+        "poster": "cersex/thumb/007.jpg",
+        "id": "7"
     },
     {
         "title": "Cerita Dewasa Gadis Polos Menjadi Maniak Sex",
         "kategori": "Cerita Sex ABG",
-        "konten": "<iframe src=\"cersex/cersex4.txt\" id=\"frame\">",
-        "poster": "https://telegra.ph/file/db4bbaac83539329f6a8f.jpg",
-        "id": "4"
+        "konten": "<iframe src=\"cersex/006.txt\" id=\"frame\">",
+        "poster": "cersex/thumb/006.jpg",
+        "id": "6"
     },
     {
         "title": "Cewek SMA yang Penuh Nafsu",
         "kategori": "Cerita Sex ABG",
-        "konten": "<iframe src=\"cersex/cersex5.txt\" id=\"frame\">",
-        "poster": "https://telegra.ph/file/a6dac1520e1d14d8caf5c.jpg",
+        "konten": "<iframe src=\"cersex/005.txt\" id=\"frame\">",
+        "poster": "cersex/thumb/005.jpg",
         "id": "5"
     },
     {
         "title": "Cerita Dewasa Dengan Anak Sekolah Primadona SMU",
         "kategori": "Cerita Sex ABG",
-        "konten": "<iframe src=\"cersex/cersex6.txt\" id=\"frame\">",
-        "poster": "https://telegra.ph/file/8edbfc2f08c1b9cac6349.jpg",
-        "id": "6"
+        "konten": "<iframe src=\"cersex/004.txt\" id=\"frame\">",
+        "poster": "cersex/thumb/004.jpg",
+        "id": "4"
     },
     {
         "title": "Belajar Sex Dengan Pacar Masih SMP",
         "kategori": "Cerita Sex ABG",
-        "konten": "<iframe src=\"cersex/cersex7.txt\" id=\"frame\">",
-        "poster": "https://telegra.ph/file/c305547396b27370d540d.jpg",
-        "id": "7"
+        "konten": "<iframe src=\"cersex/003.txt\" id=\"frame\">",
+        "poster": "cersex/thumb/003.jpg",
+        "id": "3"
     },
     {
         "title": "Cerita Pesta Sex Kelulusan SMA",
         "kategori": "Cerita Sex ABG",
-        "konten": "<iframe src=\"cersex/cersex8.txt\" id=\"frame\">",
-        "poster": "https://telegra.ph/file/ec44e0e92284b8540beae.jpg",
-        "id": "8"
+        "konten": "<iframe src=\"cersex/002.txt\" id=\"frame\">",
+        "poster": "cersex/thumb/002.jpg",
+        "id": "2"
     },
     {
         "title": "Ditantang Gadis ABG Ngewe",
         "kategori": "Cerita Sex ABG",
-        "konten": "<iframe src=\"cersex/cersex9.txt\" id=\"frame\">",
-        "poster": "https://telegra.ph/file/5b04d6986e91f8f0a328a.jpg",
-        "id": "9"
+        "konten": "<iframe src=\"cersex/001.txt\" id=\"frame\">",
+        "poster": "cersex/thumb/001.jpg",
+        "id": "1"
     }
 ];
 	

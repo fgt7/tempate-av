@@ -79,7 +79,7 @@
       <a class="navbar-brand" href="#" >
         <button class="navbar-toggler custom-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar2" aria-controls="offcanvasNavbar2" >
           <span class="text-white navbar-toggler-icon"></span>
-          <span style="padding-left:30px;margin-left:-25px;color:white;font-family: 'Source Sans Pro', sans-serif;font-size:18pt">Ruang Imajinasi</span>
+          <span style="padding-left:10px;color:white;font-family: 'Source Sans Pro', sans-serif;font-size:18pt">Ruang Imajinasi</span>
         </button>
       </a>
       <span class="material-symbols-outlined" id="bokep-click">search</span>
@@ -140,7 +140,7 @@
           <a class="nav-link link-secondary active text-white" id="vibokep-tab" data-bs-toggle="tab" data-bs-target="#vibokep" href="#">BOKEP</a>
           <a class="nav-link link-secondary text-white" id="randompap-tab" data-bs-toggle="tab" data-bs-target="#randompap" href="#">BUGIL</a>
           <a class="nav-link link-secondary text-white" id="desah-tab" data-bs-toggle="tab" data-bs-target="#desah" href="#">DESAH</a>
-          <a class="nav-link link-secondary text-white" id="cersex-tab" data-bs-toggle="tab" data-bs-target="#cersex" href="#" style="display:none">CERSEX</a>
+          <a class="nav-link link-secondary text-white" id="cersex-tab" data-bs-toggle="tab" data-bs-target="#cersex" href="#">CERSEX</a>
           <a class="nav-link link-secondary text-white" id="komik-tab" data-bs-toggle="tab" data-bs-target="#komik" href="#" style="display:none">KOMIK</a>
           <a class="nav-link link-secondary text-white" id="live-tab" data-bs-toggle="tab" data-bs-target="#live" href="#">LIVE</a>
           <a class="nav-link link-secondary text-white" id="apk-tab" data-bs-toggle="tab" data-bs-target="#apk" href="#" style="display:none">APK</a>
@@ -152,11 +152,18 @@
 <div class="container" style="background-color:#2d2c4d">
   <div class="container" id="bokep-wrap">
     <div id="hidden-div">
-      <div class="form-group" style="padding:10px;">
-        <input type="text" id="search" onkeyup="changeInput(this.value)" class="form-control form-control-lg" placeholder="Cari bokep...">
+      <div class="form-group mb-2" style="padding-bottom:10px;padding-top:10px">
+        <form id="search-form" action="" method="POST" enctype="multipart/form-data" style="display:grid;grid-template-rows: 20px;grid-template-columns: 84% auto;grid-row-gap: 30px;grid-column-gap: 10px;padding-bottom:20px">
+          <div class="form-group">
+    				<input class="form-control" type="text" placeholder="Cari bokep..." id="search-bokep"/>
+    			</div>
+    			<div class="form-group">
+    				<button type="submit" class="btn btn-block btn-primary">Cari</button>
+    			</div>
         <!--<div class="list-group mt-2" id="result">
           
         </div>-->
+        </form>
       </div>
     </div>
   </div>
@@ -177,7 +184,6 @@
        <div class="tab-content" id="tabContent">
         <div class="tab-pane fade show active" id="vibokep" role="tabpanel" aria-labelledby="vibokep-tab">
           <div style="display:none;">
-            <h1 id="judul-awal">Koleksi Bokep Random</h1>
             <div class="container-sm" align="center">
               <div id="video"></div>
               <div id="bokep"></div>
@@ -186,23 +192,47 @@
           </div>
           <hr style="visibility: hidden">
           <div class="bokep-main" style="margin-top:-22px">
-            <h1 id="judul-awal">Koleksi Bokep Terbaru</h1>
-            <div class="container md-12" style="margin-right:-4px;margin-bottom:-60px">
-              <ul class="list-group" id="data-bokep">
-                
-              </ul>
+            <div class="container" style="margin-bottom:-60px">
+            	<div class="row mt-2" id="filter">
+            		<form>
+            			<div class="form-group">
+            				<select data-filter="kategori" class="filter-kategori filter form-control form-select">
+            					<option value="">Kategori</option>
+            				</select>
+            			</div>
+            		</form>
+            	</div>
+            	<hr style="visibility: hidden">
+              <div id="list-bokep">
+                    
+              </div>
               <hr style="visibility: hidden">
-              <div id="menupage">
-                <div id="pagination0"></div>
+              <div class="container md-12" align="center"><button class="tombol2" id="bokep-lainnya">Bokep Lainnya</button>
+              </div>
+              <hr style="color:white;visibility: hidden">
+              <div id="detail-video" style="display:none;margin-top:-35px;margin-bottom:-80px">
+                <div>
+                  <h1 class="inner-title-bokep"></h1>
+                  <h6 class="inner-kategori-bokep"></h6>
+                </div>
+                <hr style="visibility:hidden">
+                <div style="--aspect-ratio: 16/9;">
+                  <embed type="text/html" class="inner-link-bokep" src="" width="1600" height="900" frameborder="0"></embed>
+                </div>
+                <hr style="color:white;display:none">
+                <div>
+                  <div class="button-info">
+                    <button class="tombol prev-bokep">Previous</button>
+                    <button class="tombol close-bokep">Close</button>
+                    <button class="tombol next-bokep">Next</button>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
         </div>
-        <hr style="visibility: hidden">
         <div class="tab-pane fade" id="randompap" role="tabpanel" aria-labelledby="randompap-tab">
-          <h1 id="judul-awal" style="margin-top:-20px">Koleksi Pap Bugil</h1>
-          <hr style="visibility: hidden">
-          <div style="margin-top:-20px;margin-bottom:-60px">
+          <div style="margin-bottom:-60px">
             <div class="container" align="center">
               <div id="photo"></div>
               <div id="pap"></div>
@@ -220,8 +250,6 @@
         </div>
         <hr style="visibility: hidden">
         <div class="tab-pane fade" id="desah" role="tabpanel" aria-labelledby="desah-tab">
-          <h1 id="judul-awal" style="margin-top:-40px">Koleksi Desahan</h1>
-          <hr style="visibility: hidden">
           <div style="margin-top:-10px;margin-bottom:-50px">
             <div id="menupage">
               <div id="pagination1"></div>
@@ -236,10 +264,8 @@
           </div>
         </div>
         <hr style="visibility: hidden">
-        <div class="tab-pane fade" id="cersex" role="tabpanel" aria-labelledby="cersex-tab" style="display:none">
-          <h1 class="mb-2" id="judul-awal" style="margin-top:-55px">Koleksi Cerita Sex</h1>
-          <hr style="visibility: hidden">
-          <div style="margin-top:-10px;margin-bottom:-40px">
+        <div class="tab-pane fade" id="cersex" role="tabpanel" aria-labelledby="cersex-tab">
+          <div style="margin-top:-25px;margin-bottom:-20px">
             <div id="search-bar" align="center">
         	   <input type="text" class="form-control" id="cariCersex" placeholder="Cari cerita..." onkeyup="mySearch()"/>
         	  </div>
@@ -250,7 +276,7 @@
               <div class="container md-12" align="center">
                 <button class="tombol-cersex" id="cersex-lainnya">Cerita Lainnya</button>
               </div>
-            <div id="post-blog" style="display:none;margin-top:-40px">
+            <div id="post-blog" style="display:none;margin-top:-50px">
                 <h1 align="center" class="inner-title"></h1>
                 <hr style="visibility: hidden">
                 <div class="poster-info">
@@ -278,9 +304,7 @@
         </div>
         <hr style="visibility: hidden">
         <div class="tab-pane fade" id="live" role="tabpanel" aria-labelledby="live-tab">
-          <h1 id="judul-awal" style="margin-top:-72px">Koleksi Livestream Hot</h1>
-          <hr style="visibility: hidden">
-          <div style="margin-top:-10px">
+          <div style="margin-top:-45px">
               <div id="menupage">
               <div id="pagination3"></div>
               </div>
@@ -295,8 +319,6 @@
         </div>
         <hr style="visibility: hidden">
         <div class="tab-pane fade" id="komik" role="tabpanel" aria-labelledby="komik-tab" style="display:none">
-          <h1 id="judul-awal" style="margin-top:-90px">Koleksi Komik Dewasa</h1>
-          <hr style="visibility: hidden">
           <div id="search-bar" align="center">
         	 <input type="text" class="form-control" id="cariKomik" placeholder="Cari komik..." onkeyup="mySearchKomik()"/>
         	</div>
@@ -310,8 +332,6 @@
         </div>
         <hr style="visibility: hidden">
         <div class="tab-pane fade" id="apk" role="tabpanel" aria-labelledby="apk-tab" style="display:none">
-          <h1 id="judul-awal" style="margin-top:-107px">Koleksi Aplikasi Dewasa</h1>
-          <hr style="visibility: hidden">
             <div class="row" style="margin-top:-20px">
             		<div class="blocks-header">
             			<h3><b>Aplikasi Pilihan Editor</b></h3>
@@ -631,14 +651,14 @@
     <script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/173252/jquery.scrollTo.min.js"></script>
     <script defer="defer" src="https://use.fontawesome.com/releases/v5.0.13/js/all.js" integrity="sha384-xymdQtn1n3lH2wcu0qhcdaOpQwyoarkgLVxC/wZ5q7h9gHtxICrpcaSUfygqZGOe" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/3.0.0/handlebars.min.js"></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/2.2.2/isotope.pkgd.min.js'></script>
   
-    <script src="data/komik.js"></script>
     <script src="data/cersex.js"></script>
     <script src="data/desah.js"></script>
     <script src="data/bugil.js"></script>
-    <script src="data/video.js"></script>
     <script src="data/live.js"></script>
     <script src="data/bokep.js"></script>
+    
     
      <script>
       var btn = $('#button');
