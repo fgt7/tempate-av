@@ -10499,7 +10499,7 @@ $((function() {
 		callback: function(t, e) {
 			var s = "";
 			$.each(t, (function(t, e) {
-				s += '<li class="card bokep-list"><a href="http://adf.ly/19888345/' + e.link + '" target="_blank"><img id="poster1" src="' + e.poster + '" width="100%" height="120px"></a><div id="judul-bokep" align="center"><h7 style="color:black;"><b>' + e.title + "</b></h7></li>"
+				s += '<li class="card bokep-list"><a href="' + e.link + '" target="_blank"><img id="poster1" src="' + e.poster + '" width="100%" height="120px"></a><div id="judul-bokep" align="center"><h7 style="color:black;"><b>' + e.title + "</b></h7></li>"
 			})), s += $("#data-bokep").html(s)
 		}
 	})
