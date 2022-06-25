@@ -47,26 +47,6 @@ $(function () {
         "link": "https://dood.la/e/6ekmqsx3i17m"
     },
     {
-        "title": "Adik Sange Melihat Kakak Ga Pake BH Sampe Gakk Sadar Udah Keluar Ajaa [hj83]",
-        "poster": "https://img.doodcdn.co/snaps/36esv5whie6vbipy.jpg",
-        "link": "https://dood.la/e/5jnovn76wd02"
-    },
-    {
-        "title": "Ngentot Paksa Dengan Teman Kuliah [6w76]",
-        "poster": "https://img.doodcdn.co/snaps/o6tcfjllsdr1o34k.jpg",
-        "link": "https://dood.la/e/j1drbd5rprga"
-    },
-    {
-        "title": "Cewenya Cuma Bisa Pasrah Pas Di Ewe Kakinya Diikat [7r3h]",
-        "poster": "https://img.doodcdn.co/snaps/3iviedfvcxm4nmfd.jpg",
-        "link": "https://dood.la/e/xa5jxc1zapje"
-    },
-    {
-        "title": "Malam Sangean Langsung Main Ke Kos Ayang Minta Jatah [opjx]",
-        "poster": "https://img.doodcdn.co/snaps/nle6jwbvv3048jl7.jpg",
-        "link": "https://dood.la/e/hrz7fbnl285r"
-    },
-    {
         "title": "Hijab colmek ampe banjir",
         "link": "https://dood.la/e/dlii6c7w6jg1",
         "poster": "https://img.doodcdn.co/snaps/owligrlt0me4zth4.jpg"
