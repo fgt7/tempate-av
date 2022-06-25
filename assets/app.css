@@ -11,7 +11,7 @@ a {
   width:20px;
   height:20px;
   margin-top:-2px;
-  margin-left:0px;
+  margin-left:-10px;
 }
 .material-symbols-outlined {
   font-variation-settings:
@@ -79,9 +79,6 @@ a {
   text-align:center;
   display:block;
   padding:0 5px;
-}
-.offcanvas {
-  background-color:#2d2c4d;
 }
 
 .nav-scroller {
@@ -1239,3 +1236,23 @@ p {
   }  
 }
 
+*{padding:0;margin:0;}
+
+
+.float{
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:20px;
+	right:350px;
+	background-color:#2d2c4d;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+	box-shadow: 2px 2px 3px #999;
+}
+
+.my-float{
+	margin-top:17px;
+	font-size:20pt;
+}
