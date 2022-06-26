@@ -260,7 +260,7 @@ div.dark {
   background:#212529;
   padding:10px;
   color:white;
-  margin-top:10px;
+  margin-top:20px;
   border-radius:5px;
   text-align: center;
 }
@@ -444,14 +444,23 @@ video::-webkit-media-controls-timeline {
   display: none !important;
   opacity: 1 !important;}
 #judul {
+  padding-top:10px;
+  width:90%;
+}
+#judulsatu {
   margin-top: 10px;
+  display:flex;
+  width:100%;
+}
+#juduldua {
+  margin-left: 30px;
   margin-right: 30px;
-  width:95%;
+  padding-top:5px;
+  width:90%;
 }
 .fa-download {
-  font-size:18pt;
+  font-size:16pt;
   color:#2d2c4d;
-  margin-top: 10px;
 }
 #menupage {
   margin-top: 10px;
