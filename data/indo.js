@@ -2159,3 +2159,9 @@ for (i=0; i<viralLength; i++) {
     '</div>';
   $("#list-viral").append(listItem);
 };
+
+var overlay = document.getElementById("overlay");
+
+window.addEventListener('load', function(){
+  overlay.style.display = 'none';
+})
