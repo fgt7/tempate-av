@@ -2031,7 +2031,7 @@ $(function () {
   callback: function (data, pagination) {
       var dataHtml = '';
       $.each(data, function (index, item) {
-          dataHtml += '<tr><td><div class="row sort-item"><a href="https://dood.la/e/' + item.link + '" target="_blank" style="color:black"><img id="poster1" src="' + item.poster + '" width="100%" height="223" style="object-fit: cover;"></div></a><div id="judulsatu"><img src="img/icon.jpg" alt="" width="25px" height="25px" style="border-radius:50%;">&nbsp;<b style="width:85%;font-size:14pt;margin-top:-2px">Ruang Bokep</b><a href="https://droplink.co/st?api=8b8315c6bc13a8684492a125284cd883e95e6373&url=https://dood.la/d/' + item.link + '" target="_blank" style="color:black"><div><i class="fa fa-download" aria-hidden="true"></i></div></div></a></div><div id="juduldua"><a href="https://dood.la/e/' + item.link + '" target="_blank" style="color:black"><h6>' + item.title + '</h6></a></div><br></td><tr>';
+          dataHtml += '<tr><td><div class="row sort-item"><a href="https://dood.la/e/' + item.link + '" target="_blank" style="color:black"><img id="poster1" src="' + item.poster + '" width="100%" height="223" style="object-fit: cover;"></div></a><div id="judulsatu"><img src="img/icon.jpg" alt="" width="25px" height="25px" style="border-radius:50%;">&nbsp;&nbsp;<b style="width:85%;font-size:14pt;margin-top:-2px">Ruang Bokep</b><a href="https://droplink.co/st?api=8b8315c6bc13a8684492a125284cd883e95e6373&url=https://dood.la/d/' + item.link + '" target="_blank" style="color:black"><div><i class="fa fa-download" aria-hidden="true"></i></div></div></a></div><div id="juduldua"><a href="https://dood.la/e/' + item.link + '" target="_blank"><h6 class="text-black">' + item.title + '</h6></a></div><br></td><tr>';
           });
           dataHtml += '<tr>';
 
@@ -2040,3 +2040,122 @@ $(function () {
     })
   })
   
+  
+var viral = [
+    {
+        "title": "Bokepin Chandrika Chika TikTok Full",
+        "poster": "https://img.doodcdn.co/snaps/say37yylhdl5pvl6.jpg",
+        "link": "xkw7j642kgxf"
+    },
+    {
+        "title": "Anak SMA Belajar Ngeue Fantasi Ngeue Nya Liar Banget [sika]",
+        "poster": "https://img.doodcdn.co/snaps/5thsr2k9n6sc3v06.jpg",
+        "link": "u73kdwa23cod"
+    },
+    {
+        "title": "Sama Kaka Tiri [vwhl]",
+        "poster": "https://img.doodcdn.co/snaps/cwl90rf07ywlb5nb.jpg",
+        "link": "rz0hs8ehf3s6"
+    },
+    {
+        "title": "Bokepin Viral Video Chandrika Chika TikTok",
+        "poster": "https://img.doodcdn.co/snaps/s3r5j4wefntg9ekx.jpg",
+        "link": "vwhjm05z3kap"
+    },
+    {
+        "title": "Seragam Pramuka",
+        "poster": "https://img.doodcdn.co/snaps/xdr1blvf5vl0vm33.jpg",
+        "link": "r94v4hrwiei3"
+    },
+    {
+        "title": "Mekinya Itu Loh Masi Sempit [hhnf]",
+        "poster": "https://img.doodcdn.co/snaps/xot8r8adw5r3ehyv.jpg",
+        "link": "skjms091ivfq"
+    },
+    {
+        "title": "Xbokep Viral Chika Tiktok 20 Juta ??",
+        "poster": "https://img.doodcdn.co/snaps/8p107o9vdwuxgn77.jpg",
+        "link": "c89e52ry4iup"
+    },
+    {
+        "title": "Kelakuan Anak Jaman Sekarang [dyt9]",
+        "poster": "https://img.doodcdn.co/snaps/9uvuo37uc3fiedm0.jpg",
+        "link": "p257fzpjm0me"
+    },
+    {
+        "title": "Ukhti Ngentot Yuk Sama Aku [4oa1]",
+        "poster": "https://img.doodcdn.co/snaps/xzrzfix7o16ndw08.jpg",
+        "link": "pcpnvvi37xn0"
+    },
+    {
+        "title": "Ketauan Colyy Sama ART Tapi Malah di Temanin Colyy [44l0]",
+        "poster": "https://img.doodcdn.co/snaps/utubzqypvry8193o.jpg",
+        "link": "muofdwqtdxpq"
+    },
+    {
+        "title": "Tante Udah Nafs Banget Akhirnya Kluar Didalem Deh [71uc]",
+        "poster": "https://img.doodcdn.co/snaps/88zikbg536et2icb.jpg",
+        "link": "cdcltd3ro3ir"
+    },
+    {
+        "title": "Temen Main Ke Kos Eh Malah Nawarin Ngewe [s78e]",
+        "poster": "https://img.doodcdn.co/snaps/vhjc4m00nr22l2yq.jpg",
+        "link": "4y7v52rwh0bp"
+    },
+    {
+        "title": "Ngewe Berdiri Susunya Kenceng Banget [lslk]",
+        "poster": "https://img.doodcdn.co/snaps/01rgolndw2lt6yp1.jpg",
+        "link": "0szk7y8zppmg"
+    },
+    {
+        "title": "Pasrah di Ewe Sama Ayang [eggv]",
+        "poster": "https://img.doodcdn.co/snaps/a1jwnxekcoup18pn.jpg",
+        "link": "tjcgmm4f0ny2"
+    },
+    {
+        "title": "Lagi Nyuci Malah Diewe Dari Belakang [apld]",
+        "poster": "https://img.doodcdn.co/snaps/3s57qzqnl2o2rcns.jpg",
+        "link": "sliafhvl7pxc"
+    },
+    {
+        "title": "Sayang Sange Banget Desahannya [i0w1]",
+        "poster": "https://img.doodcdn.co/snaps/1q7xwkq48e91tr49.jpg",
+        "link": "lubxh36diixk"
+    },
+    {
+        "title": "Gilaa Hoki Banget Ini Ojol Di Prank Cewe Super Cantik [uxn4]",
+        "poster": "https://img.doodcdn.co/snaps/rmnwhahf6362qeoj.jpg",
+        "link": "e69vlatf9hcp"
+    },
+    {
+        "title": "SMA Ngentot Di Mobil Sama Om Takut Kalo Goyang2 Mobilnya Digerebeg Dari Belakang [hdyj]",
+        "poster": "https://img.doodcdn.co/snaps/og2tkpov9q4pz1a9.jpg",
+        "link": "grmrae9yrki4"
+    },
+    {
+        "title": "Diewe Kaka Ipar Sendiri",
+        "poster": "https://img.doodcdn.co/snaps/m1b93au6k3i6r11o.jpg",
+        "link": "qiw6tsdtsyof"
+    },
+    {
+        "title": "Dipijet Mbak Cantik [esfe]",
+        "poster": "https://img.doodcdn.co/snaps/jic9jr3np5ofz0q3.jpg",
+        "link": "ddhntyluqp4j"
+    }
+];
+	
+var viralLength = viral.length;
+//Empty container:
+$("#list-viral").empty();
+//Loop:
+for (i=0; i<viralLength; i++) {
+  //Create thumb structure:
+  var listItem =
+    '<div class="block2">'+
+    		'<a href="https://dood.la/e/'+viral[i].link+'" target="_blank">'+
+    			'<img id="poster1" src="'+viral[i].poster+'" alt="" class="block__image2" width="100%" height="120px"/>'+
+    			'<h7 class="block__title2 text-black">'+viral[i].title+'</h7>'+
+    		'</a>'+
+    '</div>';
+  $("#list-viral").append(listItem);
+};
