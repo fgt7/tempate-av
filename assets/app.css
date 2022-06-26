@@ -445,8 +445,13 @@ video::-webkit-media-controls-timeline {
   opacity: 1 !important;}
 #judul {
   margin-top: 10px;
-  margin-left: 40px;
-  margin-right: 40px;
+  margin-right: 30px;
+  width:95%;
+}
+.fa-download {
+  font-size:18pt;
+  color:#2d2c4d;
+  margin-top: 10px;
 }
 #menupage {
   margin-top: 10px;
