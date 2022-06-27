@@ -1333,3 +1333,7 @@ p {
   left:0;
   top:0;
  }
+ 
+ iframe {
+   color:black;
+ }
