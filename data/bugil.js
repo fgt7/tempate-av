@@ -35234,11 +35234,21 @@ $(function () {
   callback: function (data, pagination) {
       var dataHtml = '';
       $.each(data, function (index, item) {
-          dataHtml += '<tr><td><div class="grid__item"><img id="poster2" width="100%" height="100%" src="' + item.link +'"></img></div></div><br></td><tr>';
+          dataHtml += '<li style="padding-top:10px"><img width="100%" height="100%" src="' + item.link +'"></img><li>';
           });
-          dataHtml += '<tr>';
 
           $("#data-bugil").html(dataHtml);
+          var grd = $('#data-bugil');
+          var imgs = grd.children();
+          
+          // Page Refresh to run script below
+          imgs.sort(function(){
+            return (Math.round(Math.random()) - 0.5);
+          });
+          grd.remove('li');
+          for(var i=0; i < imgs.length; i++)grd.append(imgs[i]);
         }
     })
   })
+
+

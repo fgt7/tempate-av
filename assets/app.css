@@ -1324,3 +1324,8 @@ p {
  iframe {
    color:black;
  }
+ 
+#data-bugil {
+   list-style: none;
+   padding:10px;
+}
