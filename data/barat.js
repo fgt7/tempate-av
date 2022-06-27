@@ -9911,7 +9911,7 @@ $(function () {
   callback: function (data, pagination) {
       var dataHtml = '';
       $.each(data, function (index, item) {
-          dataHtml += '<tr><td><div class="row"><a href="http://adf.ly/19888345/' + item.link + '" target="_blank" style="color:black"><img id="poster1" src="' + item.poster + '" width="100%" height="223" style="object-fit: cover;"></a></div><h6 class="mt-2">' + item.title + '</h6></td><tr>';
+          dataHtml += '<tr><td><div class="row"><a href="https://droplink.co/st?api=8b8315c6bc13a8684492a125284cd883e95e6373&url=' + item.link + '" target="_blank" style="color:black"><img id="poster1" src="' + item.poster + '" width="100%" height="223" style="object-fit: cover;"></a></div><h6 class="mt-2">' + item.title + '</h6></td><tr>';
           });
           dataHtml += '<tr>';
 
