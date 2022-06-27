@@ -83,10 +83,10 @@ a {
 .nav-scroller {
   position: relative;
   overflow-x: scroll;
-  z-index: 2;
-  height: 2.8rem;
-  margin-top:-16px;
   overflow-y: hidden;
+  z-index: 2;
+  height: 3rem;
+  margin-top:-16px;
   background-color: #2d2c4d;
 }
 .nav-scroller .nav {
@@ -100,6 +100,7 @@ a {
 }
 .navbar-brand {
   color:white;
+  margin-left:-5px;
 }
 
 h1 {
@@ -257,8 +258,6 @@ div.dark {
   background:#212529;
   padding:10px;
   color:white;
-  margin-top:20px;
-  border-radius:5px;
   text-align: center;
 }
 .btn-download {
@@ -479,20 +478,9 @@ video::-webkit-media-controls-timeline {
 }
 .menu {
   margin-top:-10px;
-  padding-right: 10px;
-  margin-left: 3px;
-}
-.menu2 {
-  margin-top:-10px;
   padding-right: 15px;
   padding-left: 15px;
 }
-.menu3 {
-  margin-top:-10px;
-  padding-right: 10px;
-  padding-left: 10px;
-}
-
 h6 {
   font-weight: normal;
   font-size: 13pt;
@@ -1088,12 +1076,8 @@ p {
 
 
 .iklan1 {
-  margin-top:-25px;
+  margin-top:-15px;
   margin-bottom:-20px;
-}
-.iklan2 {
-  margin-top:5px;
-  margin-bottom:-25px;
 }
 
 .title-komik {

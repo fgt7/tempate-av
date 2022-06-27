@@ -2126,7 +2126,7 @@ $(function () {
   callback: function (data, pagination) {
       var dataHtml = '';
       $.each(data, function (index, item) {
-          dataHtml += '<tr><td><div class="row sort-item"><a href="https://dood.la/e/' + item.link + '" target="_blank" style="color:black"><img id="poster1" src="' + item.poster + '" width="100%" height="223" style="object-fit: cover;"></div></a><div id="judulsatu"><img src="img/icon.jpg" alt="" width="25px" height="25px" style="border-radius:50%;">&nbsp;&nbsp;<b style="width:85%;font-size:14pt;margin-top:-2px">Ruang Bokep</b><a href="https://droplink.co/st?api=8b8315c6bc13a8684492a125284cd883e95e6373&url=https://dood.la/d/' + item.link + '" target="_blank" style="color:black"><div><i class="fa fa-download" aria-hidden="true"></i></div></div></a></div><div id="juduldua"><h6>' + item.title + '</h6></div></td><tr>';
+          dataHtml += '<tr><td><div class="row sort-item"><a href="https://dood.la/e/' + item.link + '" target="_blank" style="color:black"><img id="poster1" src="' + item.poster + '" width="100%" height="223" style="object-fit: cover;"></div></a><div id="judulsatu"><img src="img/icon.jpg" alt="" width="25px" height="25px" style="border-radius:50%;">&nbsp;&nbsp;<b style="width:85%;font-size:14pt;margin-top:-2px" align="left">Ruang Bokep</b><a href="https://droplink.co/st?api=8b8315c6bc13a8684492a125284cd883e95e6373&url=https://dood.la/d/' + item.link + '" target="_blank" style="color:black"><div><i class="fa fa-download" aria-hidden="true"></i></div></div></a></div><div id="juduldua"><h6 align="left">' + item.title + '</h6></div></td><tr>';
           });
           dataHtml += '<tr>';
 
