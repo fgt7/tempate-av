@@ -13071,7 +13071,7 @@ $(function () {
   callback: function (data, pagination) {
       var dataHtml = '';
       $.each(data, function (index, item) {
-          dataHtml += '<tr><td><div class="row sort-item"><a href="' + item.link + '" target="_blank" style="color:black"><img id="poster1" src="' + item.poster + '" width="100%" height="223" style="object-fit: cover;"></a></div><h6 class="mt-2">' + item.title + '</h6></td><tr>';
+          dataHtml += '<tr><td><div class="row sort-item"><a href="http://adf.ly/19888345/' + item.link + '" target="_blank" style="color:black"><img id="poster1" src="' + item.poster + '" width="100%" height="223" style="object-fit: cover;"></a></div><h6 class="mt-2">' + item.title + '</h6></td><tr>';
           });
           dataHtml += '<tr>';
 
