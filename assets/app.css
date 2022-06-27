@@ -23,9 +23,7 @@ a {
 .smartbanner {
   width:100%;
   font-family: "Helvetica Neue", helvetica, arial, sans-serif;
-  background:#fff;
   overflow:hidden;
-  background-color: white;
 }
 .smartbanner-icon{
   position:absolute;
@@ -465,6 +463,11 @@ video::-webkit-media-controls-timeline {
   margin-top: 10px;
   padding-bottom: 0px;
   padding-left: 60px;
+}
+#menupage2 {
+  margin-top: 10px;
+  padding-bottom: 0px;
+  padding-left: 28px;
 }
 #konten {
   width: 100%;
