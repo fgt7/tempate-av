@@ -776,7 +776,7 @@ p {
      -webkit-box-orient: vertical;
 }
 
-.form-control {
+.search-custom {
   width: 100%;
   font-size: 16px;
   border: 1px solid #ddd;
@@ -791,10 +791,10 @@ p {
   margin-top:6px;
   padding: .5em 2.5em .5em 2.5em;
 } 
-.form-control::placeholder{
+.search-custom::placeholder{
   color: #838D99;
 }
-.form-control:focus {
+.search-custom:focus {
   outline: none;
   background-color: #FFF;
   border: 1px solid #84A2FA;
