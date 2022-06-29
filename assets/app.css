@@ -106,11 +106,6 @@ a {
   margin-left:-5px;
 }
 
-h1 {
-  text-transform: capitalize;
-  font-size:16pt;
-  font-style:bold;
-}
 .navbar {
   background-color: #2d2c4d;
   height: 55px;
