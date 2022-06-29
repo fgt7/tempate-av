@@ -10416,7 +10416,7 @@ $(function () {
   callback: function (data, pagination) {
       var dataHtml = '';
       $.each(data, function (index, item) {
-          dataHtml += '<div class="row sort-item"><a href="http://adf.ly/19888345/' + item.link + '" target="_blank" style="color:black"><img id="poster1" src="' + item.poster + '" width="100%" height="120" style="object-fit: cover;"></a><h6 id="judulsatu" align="left">' + item.title + '</h6></div>';
+          dataHtml += '<div class="row sort-item"><a href="http://adf.ly/19888345/' + item.link + '" target="_blank" style="color:black"><img id="poster" src="' + item.poster + '" width="100%" height="120" style="object-fit: cover;"></a><p id="judulsatu" align="left">' + item.title + '</p></div>';
           });
 
           $("#data-barat").html(dataHtml);

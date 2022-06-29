@@ -216,8 +216,7 @@ for (i=0; i<postLength; i++) {
       '<div class="card" style="width:100%">'+
       '<img src="'+post[i].poster+'" class="card-img-top" width="100%" height="130px" alt="">'+
       '<div class="card-body">'+
-      '<div class="judul-post"><h7><b>'+ post[i].title+'</b></h7>'+
-      '</div>'+
+      '<div class="judul-cersex">'+ post[i].title+'</div>'+
       '</a>' +
     '</div>';
   $("#list-cerita").append(listItem);

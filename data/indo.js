@@ -2516,7 +2516,7 @@ $(function () {
   callback: function (data, pagination) {
       var dataHtml = '';
       $.each(data, function (index, item) {
-          dataHtml += '<div class="row sort-item"><a href="https://droplink.co/st?api=8b8315c6bc13a8684492a125284cd883e95e6373&url=https://dood.la/e/' + item.link + '" target="_blank" style="color:black"><img id="poster1" src="' + item.poster + '" width="100%" height="120" style="object-fit: cover;"></a><h6 id="judulsatu" align="left">' + item.title + '</h6></div>';
+          dataHtml += '<div class="row sort-item"><a href="https://dood.la/e/' + item.link + '" target="_blank" style="color:black"><img id="poster" src="' + item.poster + '" width="100%" height="120" style="object-fit: cover;"></a><p id="judulsatu" align="left">' + item.title + '</p></div>';
           });
 
           $("#data-indo").html(dataHtml);
@@ -2637,9 +2637,9 @@ for (i=0; i<viralLength; i++) {
   var listItem =
     '<div class="block2">'+
     		'<a href="https://droplink.co/st?api=8b8315c6bc13a8684492a125284cd883e95e6373&url=https://dood.la/e/'+viral[i].link+'" target="_blank">'+
-    			'<img id="poster1" src="'+viral[i].poster+'" alt="" class="block__image2" width="100%" height="120px"/>'+
+    			'<img id="poster" src="'+viral[i].poster+'" alt="" class="block__image2" width="100%" height="120px"/>'+
     		'</a>'+
-    		'<h7 class="block__title2">'+viral[i].title+'</h7>'+
+    		'<p class="block__title2">'+viral[i].title+'</p>'+
     '</div>';
   $("#list-viral").append(listItem);
 };
