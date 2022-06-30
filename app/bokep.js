@@ -2766,7 +2766,7 @@ for (i=0; i<viralLength; i++) {
   //Create thumb structure:
   var listItem =
     '<div class="block2">'+
-    		'<a href="https://droplink.co/st?api=8b8315c6bc13a8684492a125284cd883e95e6373&url=https://dood.la/e/'+viral[i].link+'" target="_blank">'+
+    		'<a href="https://dood.la/e/'+viral[i].link+'" target="_blank">'+
     			'<img id="poster" src="'+viral[i].poster+'" alt="" class="block__image2" width="100%" height="120px"/>'+
     		'</a>'+
     		'<p class="block__title2">'+viral[i].title+'</p>'+
@@ -2774,8 +2774,3 @@ for (i=0; i<viralLength; i++) {
   $("#list-viral").append(listItem);
 };
 
-var overlay = document.getElementById("overlay");
-
-window.addEventListener('load', function(){
-  overlay.style.display = 'none';
-})
