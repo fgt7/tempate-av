@@ -190,7 +190,7 @@ div.dark {
   float:left;
   border-radius:20px;
 }
-#judul-awal {
+.judul-awal {
   background:#212529;
   padding:10px;
   color:white;
@@ -338,7 +338,7 @@ video::-webkit-media-controls-timeline {
   font-size:16pt;
   color:#2d2c4d;
 }
-#menupage {
+.menupage {
   margin-top: 10px;
   padding-bottom: 0px;
   padding-left: 60px;
