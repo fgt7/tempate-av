@@ -228,7 +228,7 @@ $((function() {
         callback: function(t, e) {
             var l = "";
             $.each(t, (function(t, e) {
-                l += '<div><video id="poster" poster="' + e.poster + '" id="' + e.id + '" playsinline controls width="100%" height="100%"><source src="' + e.link + '" type="video/mp4"></video><p style="align:center;font-size:16pt">' + e.title + "</p></div></div><br>"
+                l += '<div><video id="poster" poster="' + e.poster + '" id="' + e.id + '" playsinline controls width="100%" height="100%"><source src="' + e.link + '" type="video/mp4"></video><p style="text-align:center;font-size:16pt">' + e.title + "</p></div></div><br>"
             })), $("#data-live").html(l)
         }
     })

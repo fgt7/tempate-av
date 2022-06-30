@@ -14,7 +14,10 @@ a {
   margin-top:-2px;
   margin-left:-10px;
 }
-
+.mylogo {
+  width:214px;
+  height:27px;
+}
 .smartbanner {
   width:100%;
   font-family: "Helvetica Neue", helvetica, arial, sans-serif;
@@ -196,6 +199,7 @@ div.dark {
   color:white;
   text-align: center;
   font-size:18pt;
+  margin-bottom:-35px;
 }
 .disabled {
   opacity: .4;
@@ -729,7 +733,6 @@ p {
   align-items: center;
   justify-content: flex-start;
   padding: 0 16px 12px;
-  margin-left:5px;
 }
 .blocks-header h3 {
   font-size: 15px;
