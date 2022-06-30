@@ -995,14 +995,14 @@ $("#list-komik").empty();
 for (i = 0; i < komikLength; i++) {
     //Create thumb structure:
     var listItem2 =
-        '<div id="komik">' +
-        '<a class="button" href="' + komik[i].link + '">' +
+      '<div id="komik">' +
+        '<a href="' + komik[i].link + '" target="_blank">' +
         '<div class="card" style="width:100%">' +
-        '<img src="' + komik[i].poster + '" class="card-img-top" width="100%" height="250px" alt="">' +
+        '<img src="' + komik[i].poster + '" class="card-img-top" width="100%" height="250px" alt="Komik Dewasa Ruang Imajinasi">' +
         '<div class="card-body">' +
         '<div class="judul-komik">' + komik[i].title +'</div>' +
         '</a>' +
-        '</div>';
+      '</div>';
     $("#list-komik").append(listItem2);
 };
 
