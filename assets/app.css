@@ -569,7 +569,7 @@ video::-webkit-media-controls-timeline {
 
 .tombol-cersex {
   color:white;
-  text-align: center;
+  align-content: center;
   width: 43%;
   background: #2d2c4d;
   border-radius:20px;
