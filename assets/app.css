@@ -978,3 +978,25 @@ p {
   padding-top: 0px;
   padding-bottom: 20px;
 }
+
+.profil {
+  background:#f7f7f7;
+  color: #2d2c4d;
+  border-radius:10px;
+  padding:10px;
+}
+.profil-img {
+  padding-bottom:5px;
+  padding-top:20px;
+}
+.profil-alamat {
+  display:flex-wrap;
+  float: center;
+}
+.profil-desc {
+  padding: 8px;
+}
+.logoku {
+  width:100px;
+  height:100px;
+}
