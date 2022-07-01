@@ -239,10 +239,11 @@ $(".button").click(function(e){
   innerContent(thisElement);
   $("#search-bar").css({"display":"none"});
   $("#list-cerita").css({"display":"none"});
-  $(".slider").css({"display":"none"});
   $("#cersex-lainnya").css({"display":"none"});
   $("#post-blog").css({"display":"block"});
-  $("#judul-awal").css({"display":"none"});
+  $("#goTop").css({"display":"none"});
+  $(".float").css({"display":"none"});
+  $(".donasi").css({"display":"none"});
   $(window).scrollTop(0);
   dissBtn();
 });
@@ -265,13 +266,15 @@ $(".close-post, .modal-sandbox").click(function(){
   $("#list-cerita").css({"display":"block"});
   $("#cersex-lainnya").css({"display":"block"});
   $("#post-blog").css({"display":"none"});
-  $("#judul-awal").css({"display":"block"});
   $("#list-cerita").css({"width":"100%"});
   $("#list-cerita").css({"display":"grid"});
   $("#list-cerita").css({"grid-template-rows":"185px auto"});
   $("#list-cerita").css({"grid-template-columns":"50% auto"});
   $("#list-cerita").css({"grid-row-gap":"10px"});
   $("#list-cerita").css({"grid-column-gap":"10px"});
+  $("#goTop").css({"display":"block"});
+  $(".float").css({"display":"block"});
+  $(".donasi").css({"display":"block"});
 });
 
 //Next post:
