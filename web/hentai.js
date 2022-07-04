@@ -12,6 +12,16 @@ $(function () {
   className: 'paginationjs-theme-blue',
   dataSource: [
     {
+        "title": "OVA 聖華女学院公認竿おじさん ＃2 陸上少女 加藤美桜",
+        "link": "https://ovacovid.com/wp-content/plugins/get-loom/video.php?id=583908cc25104e4588188c95b3806d70",
+        "poster": "https://ovacovid.com/wp-content/uploads/2022/06/OVA-聖華女学院公認竿おじさん-＃2-陸上少女-加藤美桜.jpg"
+    },
+    {
+        "title": "OVA 聖華女学院公認竿おじさん ＃1 黒髪清楚お嬢様 如月巴",
+        "link": "https://ovacovid.com/wp-content/plugins/get-loom/video.php?id=d180c8b2ffce434e9abacdbeb68bb53e",
+        "poster": "https://ovacovid.com/wp-content/uploads/2022/06/OVA-聖華女学院公認竿おじさん-＃1-黒髪清楚お嬢様-如月巴.jpg"
+    },
+    {
         "title": "処女はお姉さまに恋してる 三つのきら星 The Animation 上巻",
         "link": "https://ovacovid.com/wp-content/plugins/get-loom/video.php?id=d2f2ac9e6cb74891aa7af1a57a884137",
         "poster": "https://ovacovid.com/wp-content/uploads/2022/06/処女はお姉さまに恋してる-三つのきら星-The-Animation-上巻.jpg"

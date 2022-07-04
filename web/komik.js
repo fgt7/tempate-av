@@ -1011,7 +1011,7 @@ for (i = 0; i < komikLength; i++) {
 $(document).ready(function() {
 
     var list = $("#list-komik #komik");
-    var numToShow = 6;
+    var numToShow = 10;
     var button = $("#komik-lainnya");
     var numInList = list.length;
     list.hide();
