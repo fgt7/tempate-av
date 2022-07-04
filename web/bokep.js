@@ -1,7 +1,7 @@
 $(function () {
   let container = $('#page-terbaru');
   container.pagination({
-  pageSize: 20,
+  pageSize: 50,
   showPageNumbers: false,
   showNavigator: true,
   formatNavigator: 'Hal. ke-<span style="color: #f00"><b><%= currentPage %></span></b>, <b><%= totalPage %></b> Halaman, <b><%= totalNumber %></b> Video',
