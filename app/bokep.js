@@ -12,6 +12,26 @@ $(function () {
   className: 'paginationjs-theme-blue',
   dataSource: [
     {
+        "title": "Kurir Datang Saat Yg Tepat Siswi Cantik Ni Ngasih Kejutan Dikosnya [7xjn]",
+        "poster": "https://img.doodcdn.co/snaps/7b3png9sgj55qdp8.jpg",
+        "link": "hcrjbjsjssq2"
+    },
+    {
+        "title": "Punya Bini Cantik Bikin Sange Tiap Hari [au7x]",
+        "poster": "https://img.doodcdn.co/snaps/gdg1qkn9lqnsfmdi.jpg",
+        "link": "508jtygbj846"
+    },
+    {
+        "title": "Punya Tantee Sange An Ngajak Ngewe Tiap Hari [7s08]",
+        "poster": "https://img.doodcdn.co/snaps/27tnpijmv3qyonb2.jpg",
+        "link": "3xb5a24l53io"
+    },
+    {
+        "title": "Si Om Maksa Banget Di Emut Sampe Mentok [7a1f]",
+        "poster": "https://img.doodcdn.co/snaps/csy2fsg99sbqwrev.jpg",
+        "link": "ypujrjlueltf"
+    },
+    {
         "title": "Aksi Nadia Abg SMU Jakarta [ea77]",
         "poster": "https://img.doodcdn.co/snaps/zy7jeggm30eg8jah.jpg",
         "link": "0w4qy53p5t99"
@@ -3708,7 +3728,7 @@ $(function () {
 var viral = [
     {
         "title": "Andai Satu Kos Sama Ini Cewe [az79]",
-        "poster": "http://128.199.98.92/wp-content/uploads/2022/07/Andai-Satu-Kos-Sama-Ini-Cewe.jpg",
+        "poster": "https://telegra.ph/file/bc226cb62e114aa4a7d8e.jpg",
         "link": "nt3i91jcurpn"
     },
     {
