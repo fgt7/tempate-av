@@ -1001,6 +1001,10 @@ p {
   width:100px;
   height:100px;
 }
+.grup-tele {
+  width:200px;
+  height:200px;
+}
 p {
   font-size:12pt;
 }
