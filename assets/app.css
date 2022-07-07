@@ -85,7 +85,7 @@ a {
   overflow-x: scroll;
   z-index: 2;
   height: 2.8rem;
-  margin-top:-20px;
+  margin-top:-16px;
   background-color: #2d2c4d;
 }
 .nav-scroller .nav {
@@ -891,6 +891,17 @@ p {
   overflow: hidden;
   text-overflow: ellipsis;
   grid-template-rows: 180px auto;
+  grid-template-columns: 50% auto;
+  grid-row-gap: 5px;
+  grid-column-gap: 10px; 
+}
+.grid-hentai {
+  width: 100%;
+  list-style: none;
+  display: grid;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  grid-template-rows: 370px auto;
   grid-template-columns: 50% auto;
   grid-row-gap: 5px;
   grid-column-gap: 10px; 

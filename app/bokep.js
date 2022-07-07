@@ -18,7 +18,7 @@ $(function () {
     },
     {
         "title": "FC2-2997894",
-        "poster": "https://telegra.ph/file/e95e74811d79d0db2634e.jpg",
+        "poster": "https://telegra.ph/file/43fc7d98cfd30d0d144fc.jpg",
         "link": "https://dood.la/e/zgqvwmsqvggj"
     },
     {
