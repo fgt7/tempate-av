@@ -12,6 +12,26 @@ $(function () {
   className: 'paginationjs-theme-blue',
   dataSource: [
     {
+        "title": "Bangun Tidur Sagne Minta Dieue [7sk0]",
+        "poster": "https://telegra.ph/file/1bb0fdc37622dba5e5d0e.jpg",
+        "link": "https://dood.la/e/ksexofqs6amh"
+    },
+    {
+        "title": "Niatnya Pijet Aja [e426]",
+        "poster": "https://telegra.ph/file/396b48d35269c28b885ea.jpg",
+        "link": "https://dood.la/e/p4rhq0dfft2l"
+    },
+    {
+        "title": "Tante Kepengen Di Anal [egqr]",
+        "poster": "https://telegra.ph/file/bcd1d6ede352233113a97.jpg",
+        "link": "https://dood.la/e/10j2hge1sceg"
+    },
+    {
+        "title": "Di Dogstyle Siang2 Bolong [o2ry]",
+        "poster": "https://telegra.ph/file/33620f35d5c2b17160d29.jpg",
+        "link": "https://dood.la/e/lholc65nupca"
+    },
+    {
         "title": "Mahasiswi Jakarta Ngentot di Hotel Sama Pejabat [l3zi]",
         "poster": "https://img.doodcdn.co/snaps/0io4iptrkchr981t.jpg",
         "link": "https://dood.la/e/cam4drzdupzm"
@@ -20166,7 +20186,7 @@ $(function () {
   callback: function (data, pagination) {
       var dataHtml = '';
       $.each(data, function (index, item) {
-          dataHtml += '<div class="row sort-item"><a href="http://adf.ly/19888345/' + item.link + '" target="_blank" style="color:black"><img id="poster" src="' + item.poster + '" width="100%" height="120" style="object-fit: cover;"></a><h6 id="judulsatu" align="left">' + item.title + '</h6></div>';
+          dataHtml += '<div class="row sort-item"><a href="' + item.link + '" target="_blank" style="color:black"><img id="poster" src="' + item.poster + '" width="100%" height="120" style="object-fit: cover;"></a><h6 id="judulsatu" align="left">' + item.title + '</h6></div>';
           });
 
           $("#video-terbaru").html(dataHtml);
