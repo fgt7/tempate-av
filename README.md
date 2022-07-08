@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="img/icon.jpg" />
+    <img src="https://telegra.ph/file/a76ddd04fa94896d8cc8c.png" />
 </p>
 
 # Ruang Imajinasi
