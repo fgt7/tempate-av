@@ -32,12 +32,12 @@ $(function () {
         "link": "https://dood.la/e/5v4ir3ouvfk3"
     },
     {
-        "title": "Abg lampung colmek part4",
+        "title": "Abg lampung colmek part3",
         "poster": "https://img.doodcdn.co/snaps/hqxyr1artjoamhcw.jpg",
         "link": "https://dood.la/e/g2ltnrrq734t"
     },
     {
-        "title": "Abg lampung colmek part3",
+        "title": "Abg lampung colmek part2",
         "poster": "https://img.doodcdn.co/snaps/2di9cqsguzex9vb1.jpg",
         "link": "https://dood.la/e/5exaidfw98uk"
     },
@@ -50,11 +50,6 @@ $(function () {
         "title": "Cici Michelle lagi colmek",
         "poster": "https://img.doodcdn.co/snaps/sd2ezugvfa4l8hrf.jpg",
         "link": "https://dood.la/e/zsckt9wdsmbq"
-    },
-    {
-        "title": "Cici Michelle lagi colmek",
-        "poster": "https://img.doodcdn.co/snaps/qtvpzd0byne9mbdh.jpg",
-        "link": "https://dood.la/e/2l8loyhgcu91"
     },
     {
         "title": "VID-20220708-WA0027",
