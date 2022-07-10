@@ -352,6 +352,13 @@ video::-webkit-media-controls-timeline {
              line-clamp: 2; 
      -webkit-box-orient: vertical;
 }
+#juduljav {
+  margin-bottom:7px;
+  margin-top:6px;
+  font-size:11pt;
+  font-weight:400;
+  text-align:center;
+}
 .fa-download {
   font-size:16pt;
   color:#2d2c4d;
@@ -893,6 +900,16 @@ p {
   grid-template-rows: 180px auto;
   grid-template-columns: 50% auto;
   grid-row-gap: 5px;
+  grid-column-gap: 10px; 
+}
+.grid-jav {
+  width: 100%;
+  list-style: none;
+  display: grid;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  grid-template-rows: 170px auto;
+  grid-template-columns: 50% auto;
   grid-column-gap: 10px; 
 }
 .grid-hentai {
