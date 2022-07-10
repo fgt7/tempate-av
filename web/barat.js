@@ -197,6 +197,66 @@ $(function () {
         "link": "https://dood.pm/e/au9mw5kdlvlb1vo0fmw2ojl6ptu0l8tv"
     },
     {
+        "title": "PureTaboo 21 12 21 It's Better To Be Sure",
+        "poster": "https://img.doodcdn.com/snaps/5f0swux7ewrfwmje.jpg",
+        "link": "https://dood.la/e/yrsggijcd9t0"
+    },
+    {
+        "title": "PureTaboo 21 12 17 Canceled",
+        "poster": "https://img.doodcdn.co/snaps/1y8pwg6h94dndfta.jpg",
+        "link": "https://dood.la/e/fjxzh5ydozzc"
+    },
+    {
+        "title": "PureTaboo 21 12 14 Anything Goes",
+        "poster": "https://img.doodcdn.co/snaps/sf4xegarmejrqizy.jpg",
+        "link": "https://dood.la/e/xvlhqs5yqbwp"
+    },
+    {
+        "title": "PureTaboo 21 12 07 Fond Memories",
+        "poster": "https://img.doodcdn.co/snaps/43l1mqz5xzsqg15c.jpg",
+        "link": "https://dood.la/e/kch7omqmd85i"
+    },
+    {
+        "title": "PureTaboo 21 11 30 Like What You See?",
+        "poster": "https://img.doodcdn.co/snaps/r7ydb2a1s0qizqc7.jpg",
+        "link": "https://dood.la/e/q9pzez1qpjn5"
+    },
+    {
+        "title": "PureTaboo 21 11 24 How To Get Ahead",
+        "poster": "https://img.doodcdn.co/snaps/gbl8er3skjsxtzxs.jpg",
+        "link": "https://dood.la/e/4e0bdpuilgae"
+    },
+    {
+        "title": "PureTaboo 21 11 23 Pushover",
+        "poster": "https://img.doodcdn.co/snaps/edh1dj11e22msqfc.jpg",
+        "link": "https://dood.la/e/jo2spuez2bfu"
+    },
+    {
+        "title": "PureTaboo 21 11 18 The Captain's Slot",
+        "poster": "https://img.doodcdn.co/snaps/t6h3r1yz8sqcg600.jpg",
+        "link": "https://dood.la/e/n0ixbjyvzr7t"
+    },
+    {
+        "title": "PureTaboo 21 11 16 Wrapped Around Her Finger",
+        "poster": "https://img.doodcdn.co/snaps/ehv858t2xcz8smif.jpg",
+        "link": "https://dood.la/e/cm0o6rkx4vqq"
+    },
+    {
+        "title": "PureTaboo 21 11 09 Freely Given",
+        "poster": "https://img.doodcdn.co/snaps/prfn7kxwtum1f00q.jpg",
+        "link": "https://dood.la/e/7u02abhqi9wb"
+    },
+    {
+        "title": "PureTaboo 21 11 05 Trigger Word",
+        "poster": "https://img.doodcdn.co/snaps/u5cogwydhrug7k6z.jpg",
+        "link": "https://dood.la/e/kvutgxx1uqpy"
+    },
+    {
+        "title": "PureTaboo 21 11 02 The Uncomfortable Truth",
+        "poster": "https://img.doodcdn.co/snaps/5t34la5wbibianpg.jpg",
+        "link": "https://dood.la/e/efxz11vfr6lh"
+    },
+    {
         "title": "PureTaboo 21 07 22 Joanna Angel And Aliya Brynn Swapping Secretaries XXX 1080p MP4-PXXBAY",
         "poster": "https://img.doodcdn.co/snaps/hp9mg7yqhmps3uoj.jpg",
         "link": "https://dood.la/e/o04tzk4svj6w"
