@@ -21,11 +21,6 @@ $(function () {
         "poster": "https://img.doodcdn.co/snaps/8pzp7jhtdv7lyy1c.jpg",
         "link": "https://dood.la/e/j70jh4hm89na"
     },
-    {
-        "title": "PornHub 20 02 11 Fucking Hubby Before The Pornhub Awards XXX 1080p",
-        "poster": "https://img.doodcdn.co/snaps/jygahxufsnb9i1yt.jpg",
-        "link": "https://dood.la/e/64669ojnwgkg"
-    }
   ],
   callback: function (data, pagination) {
       var dataHtml = '';
