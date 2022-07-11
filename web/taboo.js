@@ -281,6 +281,71 @@ $(function () {
         "poster": "https://img.doodcdn.co/snaps/ieq7kyu8wps8gcqa.jpg",
         "link": "https://dood.la/e/lb6dn5t8pmcx"
     },
+    {
+        "title": "PureTaboo 17 09 26 Crossing Borders",
+        "poster": "https://img.doodcdn.com/snaps/7hl6ws9pphs48vvo.jpg",
+        "link": "https://dood.pm/e/e7r0vai3rw012i6imr7gh948tl26d37r"
+    },
+    {
+        "title": "PureTaboo 17 09 19 Half His Age - Part 1",
+        "poster": "https://img.doodcdn.com/snaps/ajw1t456tastucxk.jpg",
+        "link": "https://dood.pm/e/6avswrb70k8o5x1jd8k1rzi4r0hyosrm"
+    },
+    {
+        "title": "PureTaboo 17 09 18 Divorce Bait",
+        "poster": "https://img.doodcdn.com/snaps/eb81v9omp3hoinpx.jpg",
+        "link": "https://dood.pm/e/efx8xlpc3a2hqichad2a849q2pgnkjyl"
+    },
+    {
+        "title": "PureTaboo 17 09 17 Sloppy Seconds",
+        "poster": "https://img.doodcdn.com/snaps/5nnxuhtqvp4qdymp.jpg",
+        "link": "https://dood.pm/e/hcw6qdkp12jhpbjkr81wrv58eqtvwzip"
+    },
+    {
+        "title": "PureTaboo 17 09 16 Daddy's Girls",
+        "poster": "https://img.doodcdn.com/snaps/ex8f80tdabeg95ay.jpg",
+        "link": "https://dood.pm/e/ck9nvy3akfwu6ie8ybomnmffmwk8dr5m"
+    },
+    {
+        "title": "PureTaboo 17 09 15 A Charitable Man",
+        "poster": "https://img.doodcdn.com/snaps/ztg0gix71juglquh.jpg",
+        "link": "https://dood.pm/e/ee8qcog0w17266i6qfjf2kabj6kwn9kc"
+    },
+    {
+        "title": "PureTaboo 17 09 14 Head of the House",
+        "poster": "https://img.doodcdn.com/snaps/uhce3ndum8k7wwxo.jpg",
+        "link": "https://dood.pm/e/0g9tr0vazvfrtzck6j2i8oenheupdiiv"
+    },
+    {
+        "title": "PureTaboo 17 09 13 Behind the Mask",
+        "poster": "https://img.doodcdn.com/snaps/wve8mmdqzk88bcsl.jpg",
+        "link": "https://dood.pm/e/93wesyhucsg1k7e12c6t4ovr6f3d2opl"
+    },
+    {
+        "title": "PureTaboo 17 09 12 Stretching for Daddy",
+        "poster": "https://img.doodcdn.com/snaps/3oqyr6qdznmkghjx.jpg",
+        "link": "https://dood.pm/e/3wj6quq391o35sh9j78mpo88n8fsnqot"
+    },
+    {
+        "title": "PureTaboo 17 09 11 Keeping Mom Happy",
+        "poster": "https://img.doodcdn.com/snaps/yj47dgl64jiv6gcz.jpg",
+        "link": "https://dood.pm/e/b8l6fia1r568u9vhv464rnjhvc5popi6"
+    },
+    {
+        "title": "PureTaboo 17 09 10 Doctor's Orders",
+        "poster": "https://img.doodcdn.com/snaps/8vck0iwnftaqm0zx.jpg",
+        "link": "https://dood.pm/e/je4jkspdscf5b821zw2egef0iblbfquv"
+    },
+    {
+        "title": "PureTaboo 17 09 09 Girl Tagging",
+        "poster": "https://img.doodcdn.com/snaps/xr6od20kap7fin9y.jpg",
+        "link": "https://dood.pm/e/4bl90yfil335fsu65hmv1qj7d3qvb9wo"
+    },
+    {
+        "title": "PureTaboo 17 09 08 Run Far Away",
+        "poster": "https://img.doodcdn.com/snaps/q0bl8j27z4yc8wqw.jpg",
+        "link": "https://dood.pm/e/3om3uipr3z7fjlzbrd5v97hvxi74sece"
+    },
   ],
   
   callback: function (data, pagination) {
