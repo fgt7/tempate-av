@@ -12,6 +12,81 @@ $(function () {
   className: 'paginationjs-theme-blue',
   dataSource: [
     {
+        "title": "ms puiyi (1)",
+        "poster": "https://img.doodcdn.co/snaps/ted88c8cp8ue3v4k.jpg",
+        "link": "https://dood.la/e/yvj6w255lf82"
+    },
+    {
+        "title": "ms puiyi (2)",
+        "poster": "https://img.doodcdn.co/snaps/3docclyvwk4q1udo.jpg",
+        "link": "https://dood.la/e/fzzmkvcrc7kb"
+    },
+    {
+        "title": "ms puiyi (3)",
+        "poster": "https://img.doodcdn.co/snaps/w86pejhinw26gliu.jpg",
+        "link": "https://dood.la/e/p09fl9vnr990"
+    },
+    {
+        "title": "ms puiyi (4)",
+        "poster": "https://img.doodcdn.co/snaps/rid9j1oqjhjulc7h.jpg",
+        "link": "https://dood.la/e/lvi4p3yw08ep"
+    },
+    {
+        "title": "ms puiyi (5)",
+        "poster": "https://img.doodcdn.co/snaps/gx9vyu6uz4j73crz.jpg",
+        "link": "https://dood.la/e/dtxn8abk3rgw"
+    },
+    {
+        "title": "ms puiyi (6)",
+        "poster": "https://img.doodcdn.co/snaps/de64lky2me32qk4x.jpg",
+        "link": "https://dood.la/e/m5tw83qg28fl"
+    },
+    {
+        "title": "ms puiyi (7)",
+        "poster": "https://img.doodcdn.co/snaps/bq0may8alveel9ur.jpg",
+        "link": "https://dood.la/e/o3h5r6uz3gpw"
+    },
+    {
+        "title": "Puiyi",
+        "poster": "https://img.doodcdn.co/snaps/vxhnkrsnix3jcme8.jpg",
+        "link": "https://dood.la/e/0pgjw3jsoh34"
+    },
+    {
+        "title": "puiyi 1",
+        "poster": "https://img.doodcdn.co/snaps/nrxa34vwcmh88711.jpg",
+        "link": "https://dood.la/e/y3ccwfqea5cd"
+    },
+    {
+        "title": "puiyi 2",
+        "poster": "https://img.doodcdn.co/snaps/fmwdqcvpbzt9trxc.jpg",
+        "link": "https://dood.la/e/u7efyjql7a51"
+    },
+    {
+        "title": "puiyi 3",
+        "poster": "https://img.doodcdn.co/snaps/rmrs963wk4f9ucwy.jpg",
+        "link": "https://dood.la/e/8lw5h1lhwn5q"
+    },
+    {
+        "title": "puiyi 4",
+        "poster": "https://img.doodcdn.co/snaps/xvy6ga5zm7pq6b1c.jpg",
+        "link": "https://dood.la/e/6al6grvnx7n7"
+    },
+    {
+        "title": "puiyi 5",
+        "poster": "https://img.doodcdn.co/snaps/il0ons9g9ggeaijl.jpg",
+        "link": "https://dood.la/e/6wggladtkgn5"
+    },
+    {
+        "title": "puiyi 6",
+        "poster": "https://img.doodcdn.co/snaps/i47jdugu2mm8ucv3.jpg",
+        "link": "https://dood.la/e/co7rixazsnu3"
+    },
+    {
+        "title": "puiyi 7",
+        "poster": "https://img.doodcdn.co/snaps/s9axa6ppy75iy8ck.jpg",
+        "link": "https://dood.la/e/eviggoo9whh2"
+    },
+    {
         "title": "Juminten 20",
         "poster": "https://img.doodcdn.co/snaps/pkll91b7ihy2t65l.jpg",
         "link": "https://dood.la/e/d9z4jf5ewcqw"
