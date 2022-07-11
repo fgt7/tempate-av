@@ -12,6 +12,106 @@ $(function () {
   className: 'paginationjs-theme-blue',
   dataSource: [
     {
+        "title": "Juminten 20",
+        "poster": "https://img.doodcdn.co/snaps/pkll91b7ihy2t65l.jpg",
+        "link": "https://dood.la/e/d9z4jf5ewcqw"
+    },
+    {
+        "title": "Juminten 19",
+        "poster": "https://img.doodcdn.co/snaps/c5ntr9jflcszabfp.jpg",
+        "link": "https://dood.la/e/c9xftgw14dbw"
+    },
+    {
+        "title": "Juminten 18",
+        "poster": "https://img.doodcdn.co/snaps/y05nb359tkovopiq.jpg",
+        "link": "https://dood.la/e/050fsx6mx7p1"
+    },
+    {
+        "title": "Juminten 17",
+        "poster": "https://img.doodcdn.co/snaps/r3s3p5oxfswi8akf.jpg",
+        "link": "https://dood.la/e/qyu6hu3bzqre"
+    },
+    {
+        "title": "Juminten 16",
+        "poster": "https://img.doodcdn.co/snaps/up49syp83r4sy50h.jpg",
+        "link": "https://dood.la/e/88uztuzewlsz"
+    },
+    {
+        "title": "Juminten 15",
+        "poster": "https://img.doodcdn.co/snaps/ud40fvaiqgbctue7.jpg",
+        "link": "https://dood.la/e/8j9mwtfvxg3o"
+    },
+    {
+        "title": "Juminten 14",
+        "poster": "https://img.doodcdn.co/snaps/te5sc39ghl5bhwdi.jpg",
+        "link": "https://dood.la/e/ihd944m246i6"
+    },
+    {
+        "title": "Juminten 13",
+        "poster": "https://img.doodcdn.co/snaps/xga35w0jta5pnnby.jpg",
+        "link": "https://dood.la/e/ce3gdnj15axo"
+    },
+    {
+        "title": "Juminten 12",
+        "poster": "https://img.doodcdn.co/snaps/uh56u5lwz7eown8m.jpg",
+        "link": "https://dood.la/e/trrv3p7sx7eo"
+    },
+    {
+        "title": "Juminten 11",
+        "poster": "https://img.doodcdn.co/snaps/x1yg06y519gzsjnq.jpg",
+        "link": "https://dood.la/e/0pbi8i77jvzz"
+    },
+    {
+        "title": "Juminten 10",
+        "poster": "https://img.doodcdn.co/snaps/5vp7y1avx0ndno3b.jpg",
+        "link": "https://dood.la/e/p02ufyo7am57"
+    },
+    {
+        "title": "Juminten 9",
+        "poster": "https://img.doodcdn.co/snaps/kw6ql23u035jomrq.jpg",
+        "link": "https://dood.la/e/8mkgdr7y2ntg"
+    },
+    {
+        "title": "Juminten 8",
+        "poster": "https://img.doodcdn.co/snaps/zewh6qf7vwzh73vd.jpg",
+        "link": "https://dood.la/e/v94izof4d0j8"
+    },
+    {
+        "title": "Juminten 7",
+        "poster": "https://img.doodcdn.co/snaps/cq37q1amescfzv1w.jpg",
+        "link": "https://dood.la/e/4jcwn98lwwp8"
+    },
+    {
+        "title": "Juminten 6",
+        "poster": "https://img.doodcdn.co/snaps/ma3q68zbp6ewypen.jpg",
+        "link": "https://dood.la/e/igv1g1rpblzr"
+    },
+    {
+        "title": "Juminten 5",
+        "poster": "https://img.doodcdn.co/snaps/w1aodshtjl19lu2n.jpg",
+        "link": "https://dood.la/e/oy7job3myhgy"
+    },
+    {
+        "title": "Juminten 4",
+        "poster": "https://img.doodcdn.co/snaps/yml31jnseogrj2q3.jpg",
+        "link": "https://dood.la/e/klkxn2mveu8i"
+    },
+    {
+        "title": "Juminten 3",
+        "poster": "https://img.doodcdn.co/snaps/k2tgbu919qjpbl9k.jpg",
+        "link": "https://dood.la/e/6exgpd1iqr8z"
+    },
+    {
+        "title": "Juminten 2",
+        "poster": "https://img.doodcdn.co/snaps/z9a4c19drfcxgwkt.jpg",
+        "link": "https://dood.la/e/pu0i698udgt0"
+    },
+    {
+        "title": "Juminten 1",
+        "poster": "https://img.doodcdn.co/snaps/2sktfq2jnhy0dgja.jpg",
+        "link": "https://dood.la/e/a7hkb7epvduh"
+    },
+    {
         "title": "Cara Cepat Bangunin Ayang [7qiv]",
         "poster": "https://img.doodcdn.co/snaps/qti17lc3f60toefi.jpg",
         "link": "https://dood.la/e/5jro1kh05b6k"
