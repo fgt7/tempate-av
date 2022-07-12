@@ -1,5 +1,5 @@
  $(function () {
-  let container = $('#paginationhijab');
+  let container = $('#page-brazzers');
   container.pagination({
   pageSize: 30,
   showPageNumbers: false,
@@ -324,7 +324,7 @@
           dataHtml += '<div class="row sort-item"><a href="' + item.link + '" target="_blank" style="color:black"><img id="poster" src="' + item.poster + '" width="100%" height="120" style="object-fit: cover;"></a><h6 id="judulsatu" align="left">' + item.title + '</h6></div>';
           });
 
-          $("#data-hijab").html(dataHtml);
+          $("#data-brazzers").html(dataHtml);
         }
     })
   })
