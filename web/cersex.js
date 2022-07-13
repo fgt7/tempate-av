@@ -237,7 +237,7 @@ $(".button").click(function(e){
   e.preventDefault();
   thisElement = $(this).attr("data-obj");
   innerContent(thisElement);
-  $("#search-bar").css({"display":"none"});
+  $("#search-cersex").css({"display":"none"});
   $("#list-cerita").css({"display":"none"});
   $("#cersex-lainnya").css({"display":"none"});
   $("#post-blog").css({"display":"block"});
@@ -262,7 +262,7 @@ $(".close-post").on("click", function() {
 
 //Close post:
 $(".close-post, .modal-sandbox").click(function(){
-  $("#search-bar").css({"display":"block"});
+  $("#search-cersex").css({"display":"block"});
   $("#list-cerita").css({"display":"block"});
   $("#cersex-lainnya").css({"display":"block"});
   $("#post-blog").css({"display":"none"});

@@ -1047,3 +1047,7 @@ p {
 p {
   font-size:12pt;
 }
+.inner-poster {
+  height:250px;
+  width:100%;
+}
