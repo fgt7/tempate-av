@@ -12,6 +12,16 @@ $(function () {
   className: 'paginationjs-theme-blue',
   dataSource: [
     {
+        "title": "Lagi Kepengen Nih Cewenya [835p]",
+        "poster": "https://img.doodcdn.co/snaps/buizfdqhzsxdo0ve.jpg",
+        "link": "https://dood.la/e/oypdr5k9yt1t"
+    },
+    {
+        "title": "Ngewe Dosen Cantik [7q38]",
+        "poster": "https://img.doodcdn.co/snaps/4uwcbha8fwq6oxmh.jpg",
+        "link": "https://dood.la/e/k528yyzpu9sy"
+    },
+    {
         "title": "Ngewe Binor Montok [72qs]",
         "poster": "https://img.doodcdn.co/snaps/56eit4y0rzbydveu.jpg",
         "link": "https://dood.la/e/3ec4fl256m44"
