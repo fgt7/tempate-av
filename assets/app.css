@@ -113,7 +113,7 @@ div.dark {
   color: white;
 }
 .darkmode {
-  padding:8px;
+  padding-right:8px;
 }
 .checkbox {
   opacity: 0;
