@@ -12,6 +12,11 @@ $(function () {
   className: 'paginationjs-theme-blue',
   dataSource: [
     {
+        "title": "PureTaboo 22 07 12 When Your Past Comes Knocking",
+        "poster": "https://img.doodcdn.com/snaps/9n0rweg1k12kodio.jpg",
+        "link": "https://dood.pm/e/jn4x4t7tqzn8cv75ukudsuvaqtidexcz"
+    },
+    {
         "title": "PureTaboo 22 07 05 His 100th Foster",
         "poster": "https://img.doodcdn.co/snaps/x5oc5t46x7n5t43a.jpg",
         "link": "https://dood.la/e/sma79en9t070"
