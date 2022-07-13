@@ -213,7 +213,7 @@ for (i=0; i<postLength; i++) {
   var listItem =
     '<div id="cersex">'+
       '<a class="button" href="'+post[i].id+'" data-obj="'+i+'">'+
-      '<div class="card" style="width:100%">'+
+      '<div style="width:100%">'+
       '<img src="'+post[i].poster+'" class="card-img-top" width="100%" height="130px" alt="">'+
       '<div class="card-body">'+
       '<div class="judul-cersex">'+ post[i].title+'</div>'+
@@ -268,7 +268,7 @@ $(".close-post, .modal-sandbox").click(function(){
   $("#post-blog").css({"display":"none"});
   $("#list-cerita").css({"width":"100%"});
   $("#list-cerita").css({"display":"grid"});
-  $("#list-cerita").css({"grid-template-rows":"185px auto"});
+  $("#list-cerita").css({"grid-template-rows":"175px auto"});
   $("#list-cerita").css({"grid-template-columns":"50% auto"});
   $("#list-cerita").css({"grid-row-gap":"10px"});
   $("#list-cerita").css({"grid-column-gap":"10px"});
@@ -347,14 +347,14 @@ $(function() {
 });
 
 $("#cariCersex").on("click", function() {
-    $("#list-cerita").css({"grid-template-rows":"185px auto"});
+    $("#list-cerita").css({"grid-template-rows":"175px auto"});
 });
 
 $("#cersex-lainnya").on("click", function() {
   $("#list-cerita").css({"width":"100%"});
   $("#list-cerita").css({"display":"grid"});
-  $("#list-cerita").css({"grid-template-rows":"185px auto"});
+  $("#list-cerita").css({"grid-template-rows":"175px auto"});
   $("#list-cerita").css({"grid-template-columns":"50% auto"});
-  $("#list-cerita").css({"grid-row-gap":"10px"});
+  $("#list-cerita").css({"grid-row-gap":"20px"});
   $("#list-cerita").css({"grid-column-gap":"10px"});
 });

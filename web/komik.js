@@ -1,12 +1,15 @@
-var komik = [{
+var komik = [
+{
     "title": "Madloki Ukhty Nakal Webcam",
     "link": "https://droplink.co/ZnJg6",
     "poster": "https://i2.wp.com/komiklokal.xyz/wp-content/uploads/2021/11/ukhty-webcam.jpg?resize=165,225"
-}, {
+}, 
+{
     "title": "Madloki Ningsih Ch 1",
     "link": "https://droplink.co/Yr86Y",
     "poster": "https://i3.wp.com/komiklokal.xyz/wp-content/uploads/2021/11/madloki-ningsih.jpg?resize=165,225"
-}, {
+}, 
+{
     "title": "Madloki Ningsih Ch 2",
     "link": "https://droplink.co/vChiIDFo",
     "poster": "https://i3.wp.com/komiklokal.xyz/wp-content/uploads/2021/11/madloki-ningsih.jpg?resize=165,226"
@@ -997,7 +1000,7 @@ for (i = 0; i < komikLength; i++) {
     var listItem2 =
       '<div id="komik">' +
         '<a href="' + komik[i].link + '" target="_blank">' +
-        '<div class="card" style="width:100%">' +
+        '<div style="width:100%">' +
         '<img src="' + komik[i].poster + '" class="card-img-top" width="100%" height="250px" alt="Komik Dewasa Ruang Imajinasi">' +
         '<div class="card-body">' +
         '<div class="judul-komik">' + komik[i].title +'</div>' +
