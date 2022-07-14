@@ -443,33 +443,6 @@ video::-webkit-media-controls-timeline {
   width:100px;
 }
 
-#list-komik {
-  width: 100%;
-  list-style: none;
-  display: grid;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  grid-template-rows: 210px auto;
-  grid-template-columns: 32.33% 31.33% 33.33%;
-  grid-row-gap: 20px;
-  grid-column-gap: 10px; 
-}
-.judul-komik {
-  height:40px;
-  margin-top:5px;
-  margin-right:5px;
-  color:black;
-  overflow: hidden;
-  font-size:11pt;
-  text-align: left;
-  font-weight:400;
-  text-overflow: ellipsis;
-  display: -webkit-box;
-     -webkit-line-clamp: 2;
-             line-clamp: 2; 
-     -webkit-box-orient: vertical;
-}
-
 #goTop {
   display: inline-block;
   background-color: #2d2c4d;
@@ -783,22 +756,6 @@ p {
   margin-bottom:-20px;
 }
 
-.title-komik {
-  height:50px;
-  color:black;
-  margin-top:-5px;
-  overflow: hidden;
-  font-size:11pt;
-  font-style: bold;
-  text-align: center;
-  text-transform: capitalize;
-  text-overflow: ellipsis;
-  display: -webkit-box;
-     -webkit-line-clamp: 2;
-             line-clamp: 2; 
-     -webkit-box-orient: vertical;
-}
-
 .search-custom {
   width: 100%;
   font-size: 16px;
@@ -930,6 +887,17 @@ p {
   text-overflow: ellipsis;
   grid-template-rows: 370px auto;
   grid-template-columns: 50% auto;
+  grid-row-gap: 5px;
+  grid-column-gap: 10px; 
+}
+.grid-komik {
+  width: 100%;
+  list-style: none;
+  display: grid;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  grid-template-rows: 285px auto;
+  grid-template-columns: 32% 31.33% 33.33%;
   grid-row-gap: 5px;
   grid-column-gap: 10px; 
 }
