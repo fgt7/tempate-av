@@ -1,5 +1,5 @@
 $(function () {
-  let container = $('#page-terbaru');
+  let container = $('#page-indo');
   container.pagination({
   pageSize: 30,
   showPageNumbers: false,
@@ -22474,7 +22474,7 @@ $(function () {
           dataHtml += '<div class="row sort-item"><a href="' + item.link + '" target="_blank" style="color:black"><img id="poster" src="' + item.poster + '" width="100%" height="120" style="object-fit: cover;"></a><h6 id="judulsatu" align="left">' + item.title + '</h6></div>';
           });
 
-          $("#video-terbaru").html(dataHtml);
+          $("#data-indo").html(dataHtml);
         }
     })
   })

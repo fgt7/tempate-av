@@ -1,5 +1,5 @@
 $(function () {
-  let container = $('#pagination8');
+  let container = $('#page-asia');
   container.pagination({
   pageSize: 30,
   showPageNumbers: false,
@@ -549,7 +549,7 @@ $(function () {
           dataHtml += '<div class="row sort-item"><a href="' + item.link + '" target="_blank" style="color:black"><img id="poster" src="' + item.poster + '" width="100%" height="120" style="object-fit: cover;"></a><p id="juduldua" align="left">' + item.title + '</p></div>';
           });
 
-          $("#data-jav").html(dataHtml);
+          $("#data-asia").html(dataHtml);
         }
     })
   })
