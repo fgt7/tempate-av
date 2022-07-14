@@ -449,14 +449,15 @@ video::-webkit-media-controls-timeline {
   display: grid;
   overflow: hidden;
   text-overflow: ellipsis;
-  grid-template-rows: 304px auto;
-  grid-template-columns: 50% auto;
+  grid-template-rows: 210px auto;
+  grid-template-columns: 32.33% 31.33% 33.33%;
   grid-row-gap: 20px;
   grid-column-gap: 10px; 
 }
 .judul-komik {
   height:40px;
   margin-top:5px;
+  margin-right:5px;
   color:black;
   overflow: hidden;
   font-size:11pt;

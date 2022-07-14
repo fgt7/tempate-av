@@ -1001,7 +1001,7 @@ for (i = 0; i < komikLength; i++) {
       '<div id="komik">' +
         '<a href="' + komik[i].link + '" target="_blank">' +
         '<div style="width:100%">' +
-        '<img src="' + komik[i].poster + '" class="card-img-top" width="100%" height="250px" alt="Komik Dewasa Ruang Imajinasi">' +
+        '<img src="' + komik[i].poster + '" class="card-img-top" width="100%" height="160px" alt="Komik Dewasa Ruang Imajinasi">' +
         '<div class="card-body">' +
         '<div class="judul-komik">' + komik[i].title +'</div>' +
         '</a>' +
@@ -1014,7 +1014,7 @@ for (i = 0; i < komikLength; i++) {
 $(document).ready(function() {
 
     var list = $("#list-komik #komik");
-    var numToShow = 10;
+    var numToShow = 15;
     var button = $("#komik-lainnya");
     var numInList = list.length;
     list.hide();
@@ -1048,3 +1048,4 @@ $(function() {
         }
     });
 });
+

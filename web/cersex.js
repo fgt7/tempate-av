@@ -311,7 +311,7 @@ function dissBtn(){
 $(document).ready(function(){
 
       var list = $("#list-cerita #cersex");
-      var numToShow = 6;
+      var numToShow = 10;
       var button = $("#cersex-lainnya");
       var numInList = list.length;
       list.hide();
