@@ -12,6 +12,30 @@ $(function () {
   className: 'paginationjs-theme-blue',
   dataSource: [
     {
+        "title": "Is There No Goddes In My College",
+        "poster": "https://i0.wp.com/komiklokal.me/wp-content/uploads/2022/07/Is-There-No-Goddes-In-My-College.jpg?resize=165,225",
+        "episode": "Chapter 38",
+        "link": "https://droplink.co/8lkUUFDp"
+    },
+    {
+        "title": "Welcome to Kids Café",
+        "poster": "https://i0.wp.com/komiklokal.me/wp-content/uploads/2022/07/Welcome-To-The-Kid-Cafe.jpg?resize=165,225",
+        "episode": "Chapter 22",
+        "link": "https://droplink.co/mSXmC"
+    },
+    {
+        "title": "Queen Bee",
+        "poster": "https://i3.wp.com/komiklokal.me/wp-content/uploads/2022/07/Queen-Bee.jpg?resize=165,225",
+        "episode": "Chapter 227",
+        "link": "https://droplink.co/MlU2joo"
+    },
+    {
+        "title": "Daughter Friend",
+        "poster": "https://i2.wp.com/komiklokal.me/wp-content/uploads/2022/07/Daughter-Friend.jpg?resize=165,225",
+        "episode": "Chapter 55",
+        "link": "https://droplink.co/FJ9GHp"
+    },
+    {
         "title": "Eskrim Guin dan Rafaela",
         "poster": "https://i2.wp.com/komiklokal.me/wp-content/uploads/2022/07/Eskrim-Guin-dan-Rafaela.jpg?resize=165,225",
         "episode": "Chapter 01",
@@ -4941,7 +4965,7 @@ $(function () {
   callback: function (data, pagination) {
       var dataHtml = '';
       $.each(data, function (index, item) {
-          dataHtml += '<div class="row sort-item"><a href="' + item.link + '" target="_blank" style="color:black"><img id="poster" src="' + item.poster + '" width="100%" height="200" style="object-fit: cover;"></a><span style="font-size:10pt;margin-top:5px"><b>'+ item.episode +'</b></span><p id="juduldua" align="left">' + item.title + '</p></div>';
+          dataHtml += '<div class="row sort-item"><a href="' + item.link + '" target="_blank" style="color:black"><img id="poster" src="' + item.poster + '" width="100%" height="200" style="object-fit: cover;"></a><span style="font-size:10pt;margin-top:5px"><b>'+ item.episode +'</b></span><p id="juduldua" align="left" style="margin-top:-1px">' + item.title + '</p></div>';
           });
 
           $("#data-komik").html(dataHtml);

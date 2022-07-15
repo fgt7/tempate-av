@@ -12,6 +12,11 @@ $(function () {
   className: 'paginationjs-theme-blue',
   dataSource: [
     {
+        "title": "夏休み明けの彼女は… 前編",
+        "link": "https://ovacovid.com/wp-content/plugins/get-loom/video.php?id=9f67c2fbb32f404b85a63cd0db9683eb",
+        "poster": "https://ovacovid.com/wp-content/uploads/2022/07/%E5%A4%8F%E4%BC%91%E3%81%BF%E6%98%8E%E3%81%91%E3%81%AE%E5%BD%BC%E5%A5%B3%E3%81%AF%E2%80%A6-%E5%89%8D%E7%B7%A8.jpg"
+    },
+    {
         "title": "OVA 聖華女学院公認竿おじさん ＃2 陸上少女 加藤美桜",
         "link": "https://ovacovid.com/wp-content/plugins/get-loom/video.php?id=583908cc25104e4588188c95b3806d70",
         "poster": "https://ovacovid.com/wp-content/uploads/2022/06/OVA-聖華女学院公認竿おじさん-＃2-陸上少女-加藤美桜.jpg"
