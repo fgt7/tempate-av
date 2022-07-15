@@ -11,6 +11,26 @@ $(function () {
   position: 'top',
   className: 'paginationjs-theme-blue',
   dataSource: [
+        {
+        "title": "Ciyaa tiktok viral 4",
+        "poster": "https://img.doodcdn.co/snaps/c8lludj6priqkwcu.jpg",
+        "link": "https://dood.la/e/hbdimfzgs9lb"
+    },
+    {
+        "title": "ciyaa tiktok viral 3",
+        "poster": "https://img.doodcdn.co/snaps/1z2oo7k0j58ww01f.jpg",
+        "link": "https://dood.la/e/9lr7359kkqcb"
+    },
+    {
+        "title": "ciyaa tiktok viral 2",
+        "poster": "https://img.doodcdn.co/snaps/bm76qy2cir0u7gtn.jpg",
+        "link": "https://dood.la/e/g4yeqj54s9w9"
+    },
+    {
+        "title": "ciyaaa tiktok viral 1",
+        "poster": "https://img.doodcdn.co/snaps/mnrvhbl3yvsscbcx.jpg",
+        "link": "https://dood.la/e/azx696isrrmc"
+    },
     {
         "title": "Ratuhalu - Tante Toge Jilat Uting Sendiri - DoodStream - DoodStream",
         "poster": "https://img.doodcdn.co/snaps/jh5ewqke09yoh8og.jpg",
@@ -115,11 +135,6 @@ $(function () {
         "title": "Miss Hijab Hyper 20",
         "poster": "https://img.doodcdn.co/snaps/vj9c7u6w4j60itde.jpg",
         "link": "https://dood.la/e/qt00pwxp6twa"
-    },
-    {
-        "title": "Miss Hijab Hyper 20",
-        "poster": "https://img.doodcdn.co/snaps/05je1sjqvisggyw3.jpg",
-        "link": "https://dood.la/e/hwv27d20qd6j"
     },
     {
         "title": "Miss Hijab Hyper 24",
@@ -2710,26 +2725,6 @@ $(function () {
         "title": "Viral - DoodStream",
         "poster": "https://img.doodcdn.co/snaps/xww5vc3zjg5dkzbs.jpg",
         "link": "https://dood.la/e/5pqqlrjfvaqh"
-    },
-    {
-        "title": "Ciyaa tiktok viral 4",
-        "poster": "https://img.doodcdn.co/snaps/c8lludj6priqkwcu.jpg",
-        "link": "https://dood.la/e/hbdimfzgs9lb"
-    },
-    {
-        "title": "ciyaa tiktok viral 3",
-        "poster": "https://img.doodcdn.co/snaps/1z2oo7k0j58ww01f.jpg",
-        "link": "https://dood.la/e/9lr7359kkqcb"
-    },
-    {
-        "title": "ciyaa tiktok viral 2",
-        "poster": "https://img.doodcdn.co/snaps/bm76qy2cir0u7gtn.jpg",
-        "link": "https://dood.la/e/g4yeqj54s9w9"
-    },
-    {
-        "title": "ciyaaa tiktok viral 1",
-        "poster": "https://img.doodcdn.co/snaps/mnrvhbl3yvsscbcx.jpg",
-        "link": "https://dood.la/e/azx696isrrmc"
     },
     {
         "title": "Lagi Kepengen Nih Cewenya [835p]",
