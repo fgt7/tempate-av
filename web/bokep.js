@@ -1,7 +1,7 @@
 $(function () {
   let container = $('#page-bokep');
   container.pagination({
-  pageSize: 40,
+  pageSize: 50,
   showPageNumbers: false,
   showNavigator: true,
   formatNavigator: 'Hal. ke-<span style="color: #f00"><b><%= currentPage %></span></b>, <b><%= totalPage %></b> Halaman, <b><%= totalNumber %></b> Video',
@@ -11,6 +11,21 @@ $(function () {
   position: 'top',
   className: 'paginationjs-theme-blue',
   dataSource: [
+    {
+        "title": "Ratuhalu - Tante Toge Jilat Uting Sendiri - DoodStream - DoodStream",
+        "poster": "https://img.doodcdn.co/snaps/jh5ewqke09yoh8og.jpg",
+        "link": "https://dood.la/e/fu1o0i2isczf"
+    },
+    {
+        "title": "Ratuhalu Toge Montok",
+        "poster": "https://img.doodcdn.co/snaps/18l8tacoos83oazp.jpg",
+        "link": "https://dood.la/e/ywuahnoi8wjf"
+    },
+    {
+        "title": "Ratuhalu Kembali Menggoda",
+        "poster": "https://img.doodcdn.co/snaps/u961xuf8ikttzxwx.jpg",
+        "link": "https://dood.la/e/6ubfstqgt3uw"
+    },
     {
         "title": "Brazzers 22 07 15 My Friend's Mom's Ass",
         "poster": "https://img.doodcdn.co/snaps/u1rhiywj90518ida.jpg",
