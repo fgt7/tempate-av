@@ -1,7 +1,7 @@
 $(function () {
   let container = $('#page-bokep');
   container.pagination({
-  pageSize: 30,
+  pageSize: 40,
   showPageNumbers: false,
   showNavigator: true,
   formatNavigator: 'Hal. ke-<span style="color: #f00"><b><%= currentPage %></span></b>, <b><%= totalPage %></b> Halaman, <b><%= totalNumber %></b> Video',
@@ -11,6 +11,16 @@ $(function () {
   position: 'top',
   className: 'paginationjs-theme-blue',
   dataSource: [
+    {
+        "title": "Brazzers 22 07 15 My Friend's Mom's Ass",
+        "poster": "https://img.doodcdn.co/snaps/u1rhiywj90518ida.jpg",
+        "link": "https://dood.la/e/8lwo01xri47i"
+    },
+    {
+        "title": "Brazzers 22 07 15 ZZ Guide to Perverted Massages",
+        "poster": "https://img.doodcdn.co/snaps/9kzi3dbaqhwz2f1w.jpg",
+        "link": "https://dood.la/e/jkqpix75i22d"
+    },
     {
         "title": "BOKEP INDO CEWEK HIJAB NGEMUT KONTOL DI RUANG GANTI BAJU - DoodStream",
         "poster": "https://img.doodcdn.co/snaps/npufinufdsxucn2p.jpg",
