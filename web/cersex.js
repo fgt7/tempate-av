@@ -214,7 +214,7 @@ for (i=0; i<postLength; i++) {
     '<div id="cersex">'+
       '<a class="button" href="'+post[i].id+'" data-obj="'+i+'">'+
       '<div style="width:100%">'+
-      '<img src="'+post[i].poster+'" class="card-img-top" width="100%" height="130px" alt="">'+
+      '<img src="'+post[i].poster+'" alt="' + post[i].title + '" class="card-img-top" width="100%" height="130px" alt="">'+
       '<div class="card-body">'+
       '<div class="judul-cersex">'+ post[i].title+'</div>'+
       '</a>' +

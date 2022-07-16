@@ -35414,7 +35414,7 @@ $(function () {
   callback: function (data, pagination) {
       var dataHtml = '';
       $.each(data, function (index, item) {
-          dataHtml += '<div style="padding-top:10px"><img width="100%" height="100%" src="https://telegra.ph/file/' + item.link +'"></img><div>';
+          dataHtml += '<div style="padding-top:10px"><img width="100%" height="100%" src="https://telegra.ph/file/' + item.link +'" alt="' + item.link + '"></img><div>';
           });
 
           $("#data-bugil").html(dataHtml);
