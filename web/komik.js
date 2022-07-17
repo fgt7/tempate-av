@@ -12,6 +12,136 @@ $(function () {
   className: 'paginationjs-theme-blue',
   dataSource: [
     {
+        "title": "Childhood Bride",
+        "poster": "https://i0.wp.com/komiklokal.me/wp-content/uploads/2022/07/Childhood-Bride.jpg?resize=165,225",
+        "episode": "Chapter 10"
+    },
+    {
+        "title": "I Live With Sister-in-Law",
+        "poster": "https://i3.wp.com/komiklokal.me/wp-content/uploads/2022/06/CWAiwOQik25PHZcx5YDdIrza3RrTH1.png?resize=165,225",
+        "episode": "Chapter 32 END"
+    },
+    {
+        "title": "What Do I Do Now?",
+        "poster": "https://i0.wp.com/komiklokal.me/wp-content/uploads/2022/07/What-Do-I-Do-Now.jpg?resize=165,225",
+        "episode": "Chapter 39",
+        "link": "https://www.mirrored.to/files/TDZOMMPS/"
+    },
+    {
+        "title": "Twenty",
+        "poster": "https://i0.wp.com/komiklokal.me/wp-content/uploads/2022/06/Twenty.jpg?resize=165,225",
+        "episode": "Chapter 44",
+        "link": "https://www.mirrored.to/files/QGOIP79K/[Doudesu]_Twenty_44.pdf_links"
+    },
+    {
+        "title": "Sextudy Group",
+        "poster": "https://i0.wp.com/komiklokal.me/wp-content/uploads/2022/06/Sextudy-Group-1.jpg?resize=165,225",
+        "episode": "Chapter 28",
+        "link": "https://www.mirrored.to/files/154KYXGH/[Doudesu]_Sextudy_Group_28.pdf_links"
+    },
+    {
+        "title": "My Wife’s Friend",
+        "poster": "https://i1.wp.com/komiklokal.me/wp-content/uploads/2022/06/My-Wife-Friend.jpg?resize=165,225",
+        "episode": "Chapter 63",
+        "link": "https://www.mirrored.to/files/GWVBYIAX/[Doudesu]_My_Wife_s_Friend_63.pdf_links"
+    },
+    {
+        "title": "A Different Class",
+        "poster": "https://i3.wp.com/komiklokal.me/wp-content/uploads/2022/06/A-Different-Class.jpg?resize=165,225",
+        "episode": "Chapter 34",
+        "link": "https://www.mirrored.to/files/1HTFQVQI/[Doudesu]_A_Different_Class_34.pdf_links"
+    },
+    {
+        "title": "Madam",
+        "poster": "https://i0.wp.com/komiklokal.me/wp-content/uploads/2022/06/Madam.jpg?resize=165,225",
+        "episode": "Chapter 23",
+        "link": "https://www.mirrored.to/files/1HP2J5AW/[Doudesu]_Madam_23.pdf_links"
+    },
+    {
+        "title": "My Girlfriend is So Naughty",
+        "poster": "https://i0.wp.com/komiklokal.me/wp-content/uploads/2022/06/My-Girlfriend-is-So-Naughty.jpg?resize=165,225",
+        "episode": "Chapter 41",
+        "link": "https://www.mirrored.to/files/0GEJBSVG/[Doudesu]_My_Girlfriend_is_So_Naughty_41.pdf_links"
+    },
+    {
+        "title": "Queen Bee",
+        "poster": "https://i3.wp.com/komiklokal.me/wp-content/uploads/2022/07/Queen-Bee.jpg?resize=165,225",
+        "episode": "Chapter 228",
+        "link": "https://www.mirrored.to/files/FIIWMLEE/[Doudesu]_Queen_Bee_228.pdf_links"
+    },
+    {
+        "title": "Switch On",
+        "poster": "https://i1.wp.com/komiklokal.me/wp-content/uploads/2022/07/Switch-On.jpg?resize=165,225",
+        "episode": "Chapter 20",
+        "link": "https://www.mirrored.to/files/0RYBQJLT/[Doudesu]_Switch_On_20.pdf_links"
+    },
+    {
+        "title": "My Sister’s Friends",
+        "poster": "https://i3.wp.com/komiklokal.me/wp-content/uploads/2022/04/My-Sisters-Friends.jpg?resize=165,225",
+        "episode": "Chapter 28",
+        "link": "https://www.mirrored.to/files/J9II9ANE/[Doudesu]_My_Sister_s_Friend_28.pdf_links"
+    },
+    {
+        "title": "Secret Class",
+        "poster": "https://i2.wp.com/komiklokal.me/wp-content/uploads/2022/03/Secret-Class.jpg?resize=165,225",
+        "episode": "Chapter 136",
+        "link": "https://www.mirrored.to/files/XLPH3ZYG/[Doudesu]_Secret_Class_136.pdf_links"
+    },
+    {
+        "title": "Stepmother’s Friend",
+        "poster": "https://i2.wp.com/komiklokal.me/wp-content/uploads/2022/04/Stepmothers-Friend.jpg?resize=165,225",
+        "episode": "Chapter 124",
+        "link": "https://www.mirrored.to/files/OYRK4SXM/"
+    },
+    {
+        "title": "Boarding Diary",
+        "poster": "https://i3.wp.com/komiklokal.me/wp-content/uploads/2022/04/Boarding-Diary.jpg?resize=165,225",
+        "episode": "Chapter 98",
+        "link": "https://www.mirrored.to/files/12LE7BL3/[Doudesu]_Boarding_Diary_98.pdf_links"
+    },
+    {
+        "title": "Illicit Love",
+        "poster": "https://i2.wp.com/komiklokal.me/wp-content/uploads/2022/03/Illicit-Love.jpg?resize=165,225",
+        "episode": "Chapter 27",
+        "link": "https://www.mirrored.to/files/1HXWDM0D/[Doudesu]_Illicit_Love_27.pdf_links"
+    },
+    {
+        "title": "The Owner of A Building",
+        "poster": "https://i3.wp.com/komiklokal.me/wp-content/uploads/2022/06/The-Owner-of-A-Building-1.jpg?resize=165,225",
+        "episode": "Chapter 56",
+        "link": "https://www.mirrored.to/files/1IYCQLEB/[Doudesu]_The_Owner_of_A_Building_56.pdf_links"
+    },
+    {
+        "title": "A Good Day to Camp",
+        "poster": "https://i3.wp.com/komiklokal.me/wp-content/uploads/2022/06/A-Good-Day-to-Camp.jpg?resize=165,225",
+        "episode": "Chapter 26",
+        "link": "https://www.mirrored.to/files/UNSOO8D3/[Doudesu]_A_Good_Day_to_Camp_26.pdf_links"
+    },
+    {
+        "title": "Resume",
+        "poster": "https://i0.wp.com/komiklokal.me/wp-content/uploads/2022/06/Resume.jpg?resize=165,225",
+        "episode": "Chapter 11",
+        "link": "https://www.mirrored.to/files/MOY188AZ/[Doudesu]_Resume_11.pdf_links"
+    },
+    {
+        "title": "Father’s Lust",
+        "poster": "https://i0.wp.com/komiklokal.me/wp-content/uploads/2022/06/Fathers-Lust.jpg?resize=165,225",
+        "episode": "Chapter 62",
+        "link": "https://www.mirrored.to/files/U1SCXT0Y/[Doudesu]_Father_s_Lust_62.pdf_links"
+    },
+    {
+        "title": "Bad Guy",
+        "poster": "https://i2.wp.com/komiklokal.me/wp-content/uploads/2022/06/Bad-Guy.jpg?resize=165,225",
+        "episode": "Chapter 33",
+        "link": "https://www.mirrored.to/files/WCGFIPXE/[Doudesu]_Bad_Guy_33.pdf_links"
+    },
+    {
+        "title": "The Night King Using App",
+        "poster": "https://i1.wp.com/komiklokal.me/wp-content/uploads/2022/07/The-Night-King-Using-App.jpg?resize=165,225",
+        "episode": "Chapter 23",
+        "link": "https://www.mirrored.to/files/EBALOUQQ/"
+    },
+    {
         "title": "Is There No Goddes In My College",
         "poster": "https://i0.wp.com/komiklokal.me/wp-content/uploads/2022/07/Is-There-No-Goddes-In-My-College.jpg?resize=165,225",
         "episode": "Chapter 38",
@@ -24,10 +154,10 @@ $(function () {
         "link": "https://droplink.co/mSXmC"
     },  
     {
-        "title": "Queen Bee",
-        "poster": "https://i3.wp.com/komiklokal.me/wp-content/uploads/2022/07/Queen-Bee.jpg?resize=165,225",
-        "episode": "Chapter 65",
-        "link": "https://ruangimajinasi.github.io"
+        "title": "Daughter Friend",
+        "poster": "https://i2.wp.com/komiklokal.me/wp-content/uploads/2022/07/Daughter-Friend.jpg?resize=165,225",
+        "episode": "Chapter 55",
+        "link": "https://www.mirrored.to/files/0KQFGP6U/"
     },
     {
         "title": "Eskrim Guin dan Rafaela",
@@ -5854,7 +5984,7 @@ $(function () {
   callback: function (data, pagination) {
       var dataHtml = '';
       $.each(data, function (index, item) {
-          dataHtml += '<div class="row sort-item"><a href="http://adf.ly/19888345/' + item.link + '" target="_blank" style="color:black"><img id="poster" src="' + item.poster + '" alt="' + item.title + '" width="100%" height="200" style="object-fit: cover;"></a><span style="font-size:10pt;margin-top:5px"><b>'+ item.episode +'</b></span><p id="juduldua" align="left" style="margin-top:-1px">' + item.title + '</p></div>';
+          dataHtml += '<div class="row sort-item"><a href="https://droplink.co/st?api=8b8315c6bc13a8684492a125284cd883e95e6373&url=' + item.link + '" target="_blank" style="color:black"><img id="poster" src="' + item.poster + '" alt="' + item.title + '" width="100%" height="200" style="object-fit: cover;"></a><span style="font-size:10pt;margin-top:5px"><b>'+ item.episode +'</b></span><p id="juduldua" align="left" style="margin-top:-1px">' + item.title + '</p></div>';
           });
 
           $("#data-komik").html(dataHtml);
