@@ -12,6 +12,99 @@ $(function () {
   className: 'paginationjs-theme-blue',
   dataSource: [
     {
+        "title": "Food Chain",
+        "poster": "https://i1.wp.com/komiklokal.me/wp-content/uploads/2022/07/Food-Chain.jpg?resize=165,225",
+        "episode": "Chapter 39"
+    },
+    {
+        "title": "Bebih Deep Kolektor",
+        "poster": "https://i3.wp.com/komiklokal.me/wp-content/uploads/2022/07/Deep-Kolektor.jpg?resize=165,225",
+        "episode": "Chapter 01",
+        "link": "https://www.mediafire.com/file/i0ciaeg8s0p7u4h/bebiholic+-+deepkolektor.pdf/file"
+    },
+    {
+        "title": "Madloki Wife Trip",
+        "poster": "https://i1.wp.com/komiklokal.me/wp-content/uploads/2022/02/MAdloki-Wife-Trip-Chapter-1.jpg?resize=165,225",
+        "episode": "Chapter 02",
+        "link": "https://www.mediafire.com/file/ljrmcktxh4bra4p/Madloki+-+Wife+Trip+Chp.2.pdf/file"
+    },
+    {
+        "title": "My Sister Duty",
+        "poster": "https://i0.wp.com/komiklokal.me/wp-content/uploads/2022/07/My-Sister-Duty.jpg?resize=165,225",
+        "episode": "Chapter 110"
+    },
+    {
+        "title": "Goddess Conquest",
+        "poster": "https://i3.wp.com/komiklokal.me/wp-content/uploads/2022/06/Goddess-Conquest-1.jpg?resize=165,225",
+        "episode": "Chapter 27",
+        "link": "https://www.mirrored.to/files/ONQGFJET/[Doudesu]_Goddes_Conquest_27.pdf_links"
+    },
+    {
+        "title": "Close Family",
+        "poster": "https://i2.wp.com/komiklokal.me/wp-content/uploads/2022/06/Close-Family.jpg?resize=165,225",
+        "episode": "Chapter 12",
+        "link": "https://www.mirrored.to/files/1QYXAPNH/[Doudesu]_Close_Family_12.pdf_links"
+    },
+    {
+        "title": "MILF Paradise",
+        "poster": "https://i3.wp.com/komiklokal.me/wp-content/uploads/2022/07/Milf-Paradis.png?resize=165,225",
+        "episode": "Chapter 20"
+    },
+    {
+        "title": "Living With A MILF",
+        "poster": "https://i3.wp.com/komiklokal.me/wp-content/uploads/2022/03/Living-With-A-MILF.jpg?resize=165,225",
+        "episode": "Chapter 36",
+        "link": "https://www.mirrored.to/files/INUSNXBG/[Doudesu]_Living_with_A_MILF_36.pdf_links"
+    },
+    {
+        "title": "Staying With Ajumma",
+        "poster": "https://i1.wp.com/komiklokal.me/wp-content/uploads/2022/03/Living-With-Ajumma.jpg?resize=165,225",
+        "episode": "Chapter 23",
+        "link": "https://www.mirrored.to/files/XG5XJF9I/[Doudesu]_Staying_with_Ajumma_23.pdf_links"
+    },
+    {
+        "title": "Today’s Dinner Is You",
+        "poster": "https://i0.wp.com/komiklokal.me/wp-content/uploads/2022/06/Todays-Dinner-Is-You.jpg?resize=165,225",
+        "episode": "Chapter 35",
+        "link": "https://www.mirrored.to/files/8ZC0EDQG/[Doudesu]_Today_s_Dinner_Is_You_33.pdf_links"
+    },
+    {
+        "title": "My Stepmother is My Girlfriend",
+        "poster": "https://i1.wp.com/komiklokal.me/wp-content/uploads/2022/06/My-Stepmother-is-My-Girlfriend.png?resize=165,225",
+        "episode": "Chapter 49",
+        "link": "https://www.mirrored.to/files/1LFIOQMS/[Doudesu]_My_Stepmother_is_My_Girlfriend_49.pdf_links"
+    },
+    {
+        "title": "Understanding of Flirting",
+        "poster": "https://i2.wp.com/komiklokal.me/wp-content/uploads/2022/06/Understanding-of-Flirting-1.jpg?resize=165,225",
+        "episode": "Chapter 32",
+        "link": "https://www.mirrored.to/files/10ZYE4QM/[Doudesu]_Understanding_of_Flirting_32.pdf_links"
+    },
+    {
+        "title": "It’s Okay Because We Are Family",
+        "poster": "https://i3.wp.com/komiklokal.me/wp-content/uploads/2022/06/Its-Okay-Because-We-Are-Family.jpg?resize=165,225",
+        "episode": "Chapter 36",
+        "link": "https://www.mirrored.to/files/0SBSQGPB/[Doudesu]_It_s_Okay_Because_Were_Family_36.pdf_links"
+    },
+    {
+        "title": "I Want A Taste",
+        "poster": "https://i1.wp.com/komiklokal.me/wp-content/uploads/2022/06/I-Want-A-Taste.jpg?resize=165,225",
+        "episode": "Chapter 14",
+        "link": "https://www.mirrored.to/files/1IKC4COX/[Doudesu]_I_Want_a_Taste_14.pdf_links"
+    },
+    {
+        "title": "Corner Shop",
+        "poster": "https://i3.wp.com/komiklokal.me/wp-content/uploads/2022/07/Corner-Shop.jpg?resize=165,225",
+        "episode": "Chapter 27",
+        "link": "https://www.mirrored.to/files/PDBQPOF8/[Doudesu]_Corner_Shop_27.pdf_links"
+    },
+    {
+        "title": "Escape Loser",
+        "poster": "https://i1.wp.com/komiklokal.me/wp-content/uploads/2022/07/Escape-Loser.jpg?resize=165,225",
+        "episode": "Chapter 49",
+        "link": "https://www.mirrored.to/files/0WU7QLOI/[Doudesu]_Escape_Loser_49.pdf_links"
+    },
+    {
         "title": "Childhood Bride",
         "poster": "https://i0.wp.com/komiklokal.me/wp-content/uploads/2022/07/Childhood-Bride.jpg?resize=165,225",
         "episode": "Chapter 10"
