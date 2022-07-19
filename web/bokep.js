@@ -33,7 +33,7 @@ $(function () {
     },
     {
         "title": "Brazzers 22 07 19 Get Your Shine On",
-        "poster": "https://img.doodcdn.co/snaps/2l9idlhc9ns9v9aq.jpg",
+        "poster": "https://img.doodcdn.com/splash/2l9idlhc9ns9v9aq.jpg",
         "link": "https://dood.la/e/1ly7jamq6eny"
     },
     {
