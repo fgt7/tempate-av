@@ -12,6 +12,116 @@ $(function () {
   className: 'paginationjs-theme-blue',
   dataSource: [
     {
+        "title": "A Wonderful New World",
+        "poster": "https://i0.wp.com/komiklokal.me/wp-content/uploads/2022/07/A-Wonderful-New-World.jpg?resize=165,225",
+        "episode": "Chapter 01"
+    },
+    {
+        "title": "Between Us",
+        "poster": "https://i2.wp.com/komiklokal.me/wp-content/uploads/2022/07/Between-Us.jpg?resize=165,225",
+        "episode": "Chapter 23",
+        "link": "https://www.mirrored.to/files/0KHMMYN7/[Doudesu]_Welcome_to_Kids_Caf_23.pdf_links"
+    },
+    {
+        "title": "Noona’s Taste",
+        "poster": "https://i0.wp.com/komiklokal.me/wp-content/uploads/2022/06/Noona-Taste.jpg?resize=165,225",
+        "episode": "Chapter 38",
+        "link": "https://www.mirrored.to/files/JSUIVC0E/[Doudesu]_Noona_s_Taste_38.pdf_links"
+    },
+    {
+        "title": "One’s In-Laws Virgins",
+        "poster": "https://i1.wp.com/komiklokal.me/wp-content/uploads/2022/07/Ones-In-Laws-Virgins.jpg?resize=165,225",
+        "episode": "Chapter 112",
+        "link": "https://www.mirrored.to/files/LMPBVBYB/[Doudesu]_One_s_In-Laws_Virgins_111,5_END.pdf_links"
+    },
+    {
+        "title": "My Stepmother is My Girlfriend",
+        "poster": "https://i1.wp.com/komiklokal.me/wp-content/uploads/2022/06/My-Stepmother-is-My-Girlfriend.png?resize=165,225",
+        "episode": "Chapter 50",
+        "link": "https://www.mirrored.to/files/LBF3YB0V/[Doudesu]_My_Stepmother_is_My_Girlfriend_50_END.pdf_links"
+    },
+    {
+        "title": "Doki Doki Connection",
+        "poster": "https://i1.wp.com/komiklokal.me/wp-content/uploads/2022/07/Doki-Doki-Connection.jpg?resize=165,225",
+        "episode": "Chapter 19",
+        "link": "https://www.mirrored.to/files/JC1TR4K7/[Doudesu]_Doki_Doki_Connection_19.pdf_links"
+    },
+    {
+        "title": "Goddess Conquest",
+        "poster": "https://i3.wp.com/komiklokal.me/wp-content/uploads/2022/06/Goddess-Conquest-1.jpg?resize=165,225",
+        "episode": "Chapter 28",
+        "link": "https://www.mirrored.to/files/JC4NA1TR/[Doudesu]_Goddess_Conquest_28.pdf_links"
+    },
+    {
+        "title": "Bad Guy",
+        "poster": "https://i2.wp.com/komiklokal.me/wp-content/uploads/2022/06/Bad-Guy.jpg?resize=165,225",
+        "episode": "Chapter 34",
+        "link": "https://www.mirrored.to/files/0TZISW42/[Doudesu]_Bad_Guy_34.pdf_links"
+    },
+    {
+        "title": "One’s In-Laws Virgins",
+        "poster": "https://i1.wp.com/komiklokal.me/wp-content/uploads/2022/07/Ones-In-Laws-Virgins.jpg?resize=165,225",
+        "episode": "Chapter 111",
+        "link": "https://www.mirrored.to/files/TNUUWSKD/[Doudesu]_One_s_In-Laws_Virgins_111.pdf_links"
+    },
+    {
+        "title": "Tasty Chat",
+        "poster": "https://i3.wp.com/komiklokal.me/wp-content/uploads/2022/06/Tasty-Chat.jpg?resize=165,225",
+        "episode": "Chapter 29"
+    },
+    {
+        "title": "Swinging",
+        "poster": "https://i2.wp.com/komiklokal.me/wp-content/uploads/2022/07/Swinging.jpg?resize=165,225",
+        "episode": "Chapter 51"
+    },
+    {
+        "title": "Teacher Lesson",
+        "poster": "https://i1.wp.com/komiklokal.me/wp-content/uploads/2022/06/Teacher-Lesson.jpg?resize=165,225",
+        "episode": "Chapter 18",
+        "link": "https://www.mirrored.to/files/HYWZLAYP/"
+    },
+    {
+        "title": "I Want A Taste",
+        "poster": "https://i1.wp.com/komiklokal.me/wp-content/uploads/2022/06/I-Want-A-Taste.jpg?resize=165,225",
+        "episode": "Chapter 15",
+        "link": "https://www.mirrored.to/files/1SNEOLMG/[Doudesu]_I_Want_a_Taste_15.pdf_links"
+    },
+    {
+        "title": "Keep This a Secret From Mom!",
+        "poster": "https://i1.wp.com/komiklokal.me/wp-content/uploads/2022/07/Keep-This-a-Secret-From-Mom.jpg?resize=165,225",
+        "episode": "Chapter 54",
+        "link": "https://www.mirrored.to/files/IGZEO1YQ/[Doudesu]_Keep_This_Secret_Your_Mom_54.pdf_links"
+    },
+    {
+        "title": "Is There No Goddes In My College",
+        "poster": "https://i0.wp.com/komiklokal.me/wp-content/uploads/2022/07/Is-There-No-Goddes-In-My-College.jpg?resize=165,225",
+        "episode": "Chapter 39",
+        "link": "https://www.mirrored.to/files/ABJA9NZB/[Doudesu]_Is_There_No_Goddess_in_My_College_39.pdf_links"
+    },
+    {
+        "title": "My Girlfriend is So Naughty",
+        "poster": "https://i0.wp.com/komiklokal.me/wp-content/uploads/2022/06/My-Girlfriend-is-So-Naughty.jpg?resize=165,225",
+        "episode": "Chapter 42",
+        "link": "https://www.mirrored.to/files/0ZHDEWIT/"
+    },
+    {
+        "title": "New Town",
+        "poster": "https://i1.wp.com/komiklokal.me/wp-content/uploads/2022/06/New-Town.jpg?resize=165,225",
+        "episode": "Chapter 45",
+        "link": "https://www.mirrored.to/files/MCIVOVOW/[Doudesu]_New_Town_45.pdf_links"
+    },
+    {
+        "title": "The Neighborhood Celebrity",
+        "poster": "https://i1.wp.com/komiklokal.me/wp-content/uploads/2022/07/The-Neighborhood-Celebrity.jpg?resize=165,225",
+        "episode": "Chapter 39",
+        "link": "https://www.mirrored.to/files/0PRLYGUL/[Doudesu]_The_Neightbour_Celebrity_39.pdf_links"
+    },
+    {
+        "title": "You’ve Finished Working",
+        "poster": "https://i0.wp.com/komiklokal.me/wp-content/uploads/2022/07/Youve-Finished-Working.png?resize=165,225",
+        "episode": "Chapter 20"
+    },
+    {
         "title": "Food Chain",
         "poster": "https://i1.wp.com/komiklokal.me/wp-content/uploads/2022/07/Food-Chain.jpg?resize=165,225",
         "episode": "Chapter 39"
@@ -6077,7 +6187,7 @@ $(function () {
   callback: function (data, pagination) {
       var dataHtml = '';
       $.each(data, function (index, item) {
-          dataHtml += '<div class="row sort-item"><a href="https://droplink.co/st?api=8b8315c6bc13a8684492a125284cd883e95e6373&url=' + item.link + '" target="_blank" style="color:black"><img id="poster" src="' + item.poster + '" alt="' + item.title + '" width="100%" height="200" style="object-fit: cover;"></a><span style="font-size:10pt;margin-top:5px"><b>'+ item.episode +'</b></span><p id="juduldua" align="left" style="margin-top:-1px">' + item.title + '</p></div>';
+          dataHtml += '<div class="row sort-item"><a href="https://droplink.co/st?api=8b8315c6bc13a8684492a125284cd883e95e6373&url=' + item.link + '" target="_blank" style="color:black"><img id="poster" src="' + item.poster + '" alt="' + item.title + '" width="100%" height="200" style="object-fit: cover;"></a><span style="font-size:11pt;margin-top:5px"><b>'+ item.episode +'</b></span><p id="juduldua" align="left" style="margin-top:-1px">' + item.title + '</p></div>';
           });
 
           $("#data-komik").html(dataHtml);
