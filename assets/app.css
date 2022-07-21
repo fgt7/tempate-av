@@ -359,6 +359,14 @@ video::-webkit-media-controls-timeline {
              line-clamp: 2; 
      -webkit-box-orient: vertical;
 }
+#judul-cersex {
+  margin-bottom:7px;
+  margin-top:4px;
+  margin-left:10px;
+  overflow: hidden;
+  font-size:18pt;
+  font-weight:400;
+}
 .fa-download {
   font-size:16pt;
   color:#2d2c4d;
