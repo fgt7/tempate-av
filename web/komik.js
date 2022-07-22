@@ -12,6 +12,66 @@ $(function () {
   className: 'paginationjs-theme-blue',
   dataSource: [
     {
+        "title": "She Is Working Out",
+        "poster": "https://i0.wp.com/komiklokal.me/wp-content/uploads/2022/03/photo_2022-03-02_10-53-28.jpg?resize=165,225",
+        "episode": "Chapter 40",
+        "link": "https://www.mirrored.to/files/12VON0K2/[Doudesu]_She_Is_Working_Out_40.pdf_links"
+    },
+    {
+        "title": "Stepmother’s Friend",
+        "poster": "https://i2.wp.com/komiklokal.me/wp-content/uploads/2022/04/Stepmothers-Friend.jpg?resize=165,225",
+        "episode": "Chapter 125",
+        "link": "https://www.mirrored.to/files/1MMWOQCI/[Doudesu]_Stepmother_s_Friends_125.pdf_links"
+    },
+    {
+        "title": "The Night King Using App",
+        "poster": "https://i1.wp.com/komiklokal.me/wp-content/uploads/2022/07/The-Night-King-Using-App.jpg?resize=165,225",
+        "episode": "Chapter 24",
+        "link": "https://www.mirrored.to/files/GAO3DLEK/[Doudesu]_The_Night_King_using_App_Chapter_24.pdf_links"
+    },
+    {
+        "title": "Childhood Bride",
+        "poster": "https://i0.wp.com/komiklokal.me/wp-content/uploads/2022/07/Childhood-Bride.jpg?resize=165,225",
+        "episode": "Chapter 11",
+        "link": "https://www.mirrored.to/files/0UOWTRUI/[Doudesu]_Childhood_Bridge_11.pdf_links"
+    },
+    {
+        "title": "New Town",
+        "poster": "https://i1.wp.com/komiklokal.me/wp-content/uploads/2022/06/New-Town.jpg?resize=165,225",
+        "episode": "Chapter 48",
+        "link": "https://www.mirrored.to/files/85PKLMOL/[Doudesu]_New_Town_48.pdf_links"
+    },
+    {
+        "title": "Sextudy Group",
+        "poster": "https://i0.wp.com/komiklokal.me/wp-content/uploads/2022/06/Sextudy-Group-1.jpg?resize=165,225",
+        "episode": "Chapter 29",
+        "link": "https://www.mirrored.to/files/02JIJIMQ/[Doudesu]_Sextudy_Group_29.pdf_links"
+    },
+    {
+        "title": "Noona’s Taste",
+        "poster": "https://i0.wp.com/komiklokal.me/wp-content/uploads/2022/06/Noona-Taste.jpg?resize=165,225",
+        "episode": "Chapter 39",
+        "link": "https://www.mirrored.to/files/K8NF8QHW/[Doudesu]_Noona_s_Taste_39.pdf_links"
+    },
+    {
+        "title": "Goddess Conquest",
+        "poster": "https://i3.wp.com/komiklokal.me/wp-content/uploads/2022/06/Goddess-Conquest-1.jpg?resize=165,225",
+        "episode": "Chapter 29",
+        "link": "https://www.mirrored.to/files/17VUZWZM/[Doudesu]_Goddess_Conquest_29.pdf_links"
+    },
+    {
+        "title": "My Female Friend Who Crossed The Line",
+        "poster": "https://i2.wp.com/komiklokal.me/wp-content/uploads/2022/07/My-Female-Friend-Who-Crossed-The-Line.jpg?resize=165,225",
+        "episode": "Chapter 52",
+        "link": "https://www.mirrored.to/files/VPXRQZVP/[Doudesu]_My_Female_Friend_Who_Crossed_The_Line_52.pdf_links"
+    },
+    {
+        "title": "Boarding Diary",
+        "poster": "https://i3.wp.com/komiklokal.me/wp-content/uploads/2022/04/Boarding-Diary.jpg?resize=165,225",
+        "episode": "Chapter 99",
+        "link": "https://www.mirrored.to/files/1W2MO1AS/[Doudesu]_Boarding_Diary_99.pdf_links"
+    },
+    {
         "title": "A Wonderful New World",
         "poster": "https://i0.wp.com/komiklokal.me/wp-content/uploads/2022/07/A-Wonderful-New-World.jpg?resize=165,225",
         "episode": "Chapter 01"
