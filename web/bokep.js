@@ -137,11 +137,6 @@ $(function () {
         "link": "https://streamtape.xyz/e/eGW4ybWPA2iYv8X/Live_Show_Colmek.mp4"
     },
     {
-        "title": "Live Show Colmek.mp4",
-        "poster": "https://thumb.tapecontent.net/thumb/agldB49Xdbsxjwz/GP4l7xDLBzS1z3m.jpg",
-        "link": "https://streamtape.xyz/e/agldB49Xdbsxjwz/Live_Show_Colmek.mp4"
-    },
-    {
         "title": "Live Show Chaca.mp4",
         "poster": "https://thumb.tapecontent.net/thumb/BQb418RYdmTyZAQ/l2307OQ46pT7Rv9.jpg",
         "link": "https://streamtape.xyz/e/BQb418RYdmTyZAQ/Live_Show_Chaca.mp4"
@@ -193,11 +188,6 @@ $(function () {
     },
     {
         "title": "Colmek Becek.mp4",
-        "poster": "https://thumb.tapecontent.net/thumb/lAP22mlg6whdr3/PDxL8xq70BSLA9.jpg",
-        "link": "https://streamtape.xyz/e/lAP22mlg6whdr3/Colmek_Becek.mp4"
-    },
-    {
-        "title": "Colmek Becek.mp4",
         "poster": "https://thumb.tapecontent.net/thumb/A0Jg0jMQq1UXMYk/PDxL8xq70BSLA9.jpg",
         "link": "https://streamtape.xyz/e/A0Jg0jMQq1UXMYk/Colmek_Becek.mp4"
     },
@@ -208,11 +198,6 @@ $(function () {
     },
     {
         "title": "Chen Sexy Show.mp4",
-        "poster": "https://thumb.tapecontent.net/thumb/koa394wKjah9e1/Ld3W69wZpWCRkb2.jpg",
-        "link": "https://streamtape.xyz/e/koa394wKjah9e1/Chen_Sexy_Show.mp4"
-    },
-    {
-        "title": "Chen Sexy Show.mp4",
         "poster": "https://thumb.tapecontent.net/thumb/rgO41pAwmgcbbqX/Ld3W69wZpWCRkb2.jpg",
         "link": "https://streamtape.xyz/e/rgO41pAwmgcbbqX/Chen_Sexy_Show.mp4"
     },
@@ -220,11 +205,6 @@ $(function () {
         "title": "Chacha Mango.mp4",
         "poster": "https://thumb.tapecontent.net/thumb/ak4X2v1D7ZUxk09/dZQXlQdQpbhkWqz.jpg",
         "link": "https://streamtape.xyz/e/ak4X2v1D7ZUxk09/Chacha_Mango.mp4"
-    },
-    {
-        "title": "Celine30 Part1.mp4",
-        "poster": "https://thumb.tapecontent.net/thumb/4mWyJprJYlCK069/A1DQqbq0OehXKXV.jpg",
-        "link": "https://streamtape.xyz/e/4mWyJprJYlCK069/Celine30_Part1.mp4"
     },
     {
         "title": "Celine30 Part1.mp4",
