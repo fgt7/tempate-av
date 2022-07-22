@@ -12,6 +12,41 @@ $(function () {
   className: 'paginationjs-theme-blue',
   dataSource: [
     {
+        "title": "4Some ML show",
+        "poster": "https://img.doodcdn.co/snaps/lep4y3wbem4n4dl9.jpg",
+        "link": "https://dood.la/e/2dy75p6bkc5f"
+    },
+    {
+        "title": "4Some di Kebun - DoodStream",
+        "poster": "https://img.doodcdn.co/snaps/p29cnydmhqdjh64v.jpg",
+        "link": "https://dood.la/e/9j033warogl2"
+    },
+    {
+        "title": "Jessi & Tata 4Some",
+        "poster": "https://img.doodcdn.co/snaps/026sy73npd8jvfnb.jpg",
+        "link": "https://dood.la/e/7o70a7a09qbj"
+    },
+    {
+        "title": "4some",
+        "poster": "https://img.doodcdn.co/snaps/lp3o4lnlatd4xugj.jpg",
+        "link": "https://dood.la/e/6ofjmxxq1zav"
+    },
+    {
+        "title": "4some bareng temen",
+        "poster": "https://img.doodcdn.co/snaps/xgc8nj40wqx5tzu7.jpg",
+        "link": "https://dood.la/e/he7nx57q60kf"
+    },
+    {
+        "title": "live 4some - DoodStream",
+        "poster": "https://img.doodcdn.co/snaps/61m0qtsoytxr42fs.jpg",
+        "link": "https://dood.la/e/3vgeosmgeyvy"
+    },
+    {
+        "title": "4some",
+        "poster": "https://img.doodcdn.co/snaps/7c23rnlhhkvfw3ja.jpg",
+        "link": "https://dood.la/e/0hyyabnjei8s"
+    },
+    {
         "title": "Viral tiktok colmek pake ikan",
         "poster": "https://img.doodcdn.co/snaps/kb3adc89g1z40fdr.jpg",
         "link": "https://dood.la/e/s0c51mmf0vsb"
