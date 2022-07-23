@@ -1,5 +1,5 @@
 $((function() {
-	$("#pagination1").pagination({
+	$("#page-desah").pagination({
 		pageSize: 10,
 		showPageNumbers: !1,
 		showNavigator: !0,

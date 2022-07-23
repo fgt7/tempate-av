@@ -1,5 +1,5 @@
 $(function () {
-  let container = $('#pagination2');
+  let container = $('#page-bugil');
   container.pagination({
   pageSize: 20,
   showPageNumbers: false,
