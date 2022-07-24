@@ -457,6 +457,21 @@
   <script src="web/bugil.js"></script>
   <script src="web/apk.js"></script>
   <script src="assets/app.js"></script>
+  
+  <script>
+    var btn = $('#goTop');
+      $(window).scroll(function() {
+        if ($(window).scrollTop() > 300) {
+          btn.addClass('show');
+        } else {
+          btn.removeClass('show');
+        }
+      });
+      btn.on('click', function(e) {
+        e.preventDefault();
+        $('html, body').animate({scrollTop:0}, '300');
+      });
+  </script>
     
   <script>
      (AdProvider = window.AdProvider || []).push({"serve": {}});</script>
