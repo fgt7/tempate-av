@@ -12,6 +12,106 @@ $(function () {
   className: 'paginationjs-theme-blue',
   dataSource: [
     {
+        "title": "Tita Toge-020",
+        "poster": "https://img.doodcdn.co/snaps/gazzetk3lq3le9z6.jpg",
+        "link": "https://dood.la/e/t0ovcgsu8xo4"
+    },
+    {
+        "title": "Tita Toge-019",
+        "poster": "https://img.doodcdn.co/snaps/m3lqqjpc76a4rypn.jpg",
+        "link": "https://dood.la/e/g5zoyd2uo5o9"
+    },
+    {
+        "title": "Tita Toge-018",
+        "poster": "https://img.doodcdn.co/snaps/qbsxb9t1m4o1wq77.jpg",
+        "link": "https://dood.la/e/34bvo0b8tlep"
+    },
+    {
+        "title": "Tita Toge-016",
+        "poster": "https://img.doodcdn.co/snaps/5zukn5yu7n0wlp9h.jpg",
+        "link": "https://dood.la/e/vh58h1jdxlya"
+    },
+    {
+        "title": "Tita Toge-017",
+        "poster": "https://img.doodcdn.co/snaps/macm7vwt6feo1w82.jpg",
+        "link": "https://dood.la/e/xyhwqnsqetmc"
+    },
+    {
+        "title": "Tita Toge-015",
+        "poster": "https://img.doodcdn.co/snaps/uop99pszojj7p2w0.jpg",
+        "link": "https://dood.la/e/id9z8qfz064h"
+    },
+    {
+        "title": "Tita Toge-014",
+        "poster": "https://img.doodcdn.co/snaps/ptctw3ez09cmfov5.jpg",
+        "link": "https://dood.la/e/10e0lye132p5"
+    },
+    {
+        "title": "Tita Toge-013",
+        "poster": "https://img.doodcdn.co/snaps/10zx1oouurrgn6iy.jpg",
+        "link": "https://dood.la/e/4ft2rsjhyc10"
+    },
+    {
+        "title": "Tita Toge-012",
+        "poster": "https://img.doodcdn.co/snaps/37bwi933qfkpgxbr.jpg",
+        "link": "https://dood.la/e/2j7pgj36n4e1"
+    },
+    {
+        "title": "Tita Toge-011",
+        "poster": "https://img.doodcdn.co/snaps/yca4rx15s76k924q.jpg",
+        "link": "https://dood.la/e/ywjli558qqhj"
+    },
+    {
+        "title": "Tita Toge-010",
+        "poster": "https://img.doodcdn.co/snaps/320f9ig5gqlmyw4n.jpg",
+        "link": "https://dood.la/e/s44l3i8e9gil"
+    },
+    {
+        "title": "Tita Toge-009",
+        "poster": "https://img.doodcdn.co/snaps/vnkz5tb4zjv643t1.jpg",
+        "link": "https://dood.la/e/h0myr4l9oh1y"
+    },
+    {
+        "title": "Tita Toge-008",
+        "poster": "https://img.doodcdn.co/snaps/feansfctt0mxzd3d.jpg",
+        "link": "https://dood.la/e/hpuyrdqm7git"
+    },
+    {
+        "title": "Tita Toge-007",
+        "poster": "https://img.doodcdn.co/snaps/1bx77l4n8z519pbj.jpg",
+        "link": "https://dood.la/e/z9bogxcifyx8"
+    },
+    {
+        "title": "Tita Toge-006",
+        "poster": "https://img.doodcdn.co/snaps/6tk83ri4sutv8rms.jpg",
+        "link": "https://dood.la/e/qb4sxx0pewxu"
+    },
+    {
+        "title": "Tita Toge-005",
+        "poster": "https://img.doodcdn.co/snaps/fy8m3x4fh1t212nl.jpg",
+        "link": "https://dood.la/e/hqtfzyz20fdd"
+    },
+    {
+        "title": "Tita Toge-004",
+        "poster": "https://img.doodcdn.co/snaps/2se6i4oj6lsx1w82.jpg",
+        "link": "https://dood.la/e/u44qbo6honoq"
+    },
+    {
+        "title": "Tita Toge-003",
+        "poster": "https://img.doodcdn.co/snaps/j0z7moxb1asjg6sm.jpg",
+        "link": "https://dood.la/e/x4q3lfbx4k70"
+    },
+    {
+        "title": "Tita Toge-002",
+        "poster": "https://img.doodcdn.co/snaps/ts57a24dwpgnndwh.jpg",
+        "link": "https://dood.la/e/hiyx2frutr1g"
+    },
+    {
+        "title": "Tita Toge-001",
+        "poster": "https://img.doodcdn.co/snaps/5viqe8oz0plifw4w.jpg",
+        "link": "https://dood.la/e/9j6jryg733v5"
+    },
+    {
         "title": "Skandal Guru SMP yang lagi Viral",
         "poster": "https://img.doodcdn.co/snaps/ez1kzhygi9cibhil.jpg",
         "link": "https://dood.la/e/fn0o8frybnv8"
