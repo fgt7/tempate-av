@@ -888,7 +888,7 @@ p {
   overflow: hidden;
   text-overflow: ellipsis;
   grid-template-rows: 180px auto;
-  grid-template-columns: 50% auto;
+  grid-template-columns: 48% 50%;
   grid-row-gap: 5px;
   grid-column-gap: 10px; 
 }
