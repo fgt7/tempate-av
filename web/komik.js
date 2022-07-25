@@ -12,6 +12,134 @@ $(function () {
   className: 'paginationjs-theme-blue',
   dataSource: [
     {
+        "title": "S-Mate",
+        "poster": "https://i0.wp.com/komiklokal.me/wp-content/uploads/2022/07/S-Mate.jpg?resize=165,225",
+        "episode": "Chapter 20"
+    },
+    {
+        "title": "An Ardent Teaching Life",
+        "poster": "https://i3.wp.com/komiklokal.me/wp-content/uploads/2022/07/An-Ardent-Teaching-Life.jpg?resize=165,225",
+        "episode": "Chapter 17",
+        "link": "https://www.mirrored.to/files/5LLZBGVS/[Doudesu]_An_Ardent_Teaching_Life_17.pdf_links"
+    },
+    {
+        "title": "She Is Working Out",
+        "poster": "https://i0.wp.com/komiklokal.me/wp-content/uploads/2022/03/photo_2022-03-02_10-53-28.jpg?resize=165,225",
+        "episode": "Chapter 41",
+        "link": "https://www.mirrored.to/files/BMXX8JHE/[Doudesu]_She_Is_Working_Out_41.pdf_links"
+    },
+    {
+        "title": "Switch On",
+        "poster": "https://i1.wp.com/komiklokal.me/wp-content/uploads/2022/07/Switch-On.jpg?resize=165,225",
+        "episode": "Chapter 21",
+        "link": "https://www.mirrored.to/files/M0NP6F9M/[Doudesu]_Switch_On_21.pdf_links"
+    },
+    {
+        "title": "Queen Bee",
+        "poster": "https://i3.wp.com/komiklokal.me/wp-content/uploads/2022/07/Queen-Bee.jpg?resize=165,225",
+        "episode": "Chapter 229",
+        "link": "https://www.mirrored.to/files/08SC3BNY/[Doudesu]_Queen_Bee_229.pdf_links"
+    },
+    {
+        "title": "Twenty",
+        "poster": "https://i0.wp.com/komiklokal.me/wp-content/uploads/2022/06/Twenty.jpg?resize=165,225",
+        "episode": "Chapter 45",
+        "link": "https://www.mirrored.to/files/0I6NDUVM/[Doudesu]_Twenty_45.pdf_links"
+    },
+    {
+        "title": "Banging My Aunt",
+        "poster": "https://i2.wp.com/komiklokal.me/wp-content/uploads/2022/06/Banging-My-Aunt.jpg?resize=165,225",
+        "episode": "Chapter 48",
+        "link": "https://www.mirrored.to/files/1OYHR7LF/[Doudesu]_Banging_My_Aunt_48.pdf_links"
+    },
+    {
+        "title": "My Wife’s Friend",
+        "poster": "https://i1.wp.com/komiklokal.me/wp-content/uploads/2022/06/My-Wife-Friend.jpg?resize=165,225",
+        "episode": "Chapter 64",
+        "link": "https://www.mirrored.to/files/1JARPOLS/[Doudesu]_My_Wife_s_Friend_64.pdf_links"
+    },
+    {
+        "title": "Madam",
+        "poster": "https://i0.wp.com/komiklokal.me/wp-content/uploads/2022/06/Madam.jpg?resize=165,225",
+        "episode": "Chapter 24",
+        "link": "https://www.mirrored.to/files/45QZKFV3/[Doudesu]_Madam_24.pdf_links"
+    },
+    {
+        "title": "Everything About Best Friend",
+        "poster": "https://i1.wp.com/komiklokal.me/wp-content/uploads/2022/06/Everything-About-Best-Friend.jpg?resize=165,225",
+        "episode": "Chapter 64",
+        "link": "https://www.mirrored.to/files/1WJ7EO4S/[Doudesu]_Everything_About_Best_Friend_64.pdf_links"
+    },
+    {
+        "title": "Hey, Handsome",
+        "poster": "https://i3.wp.com/komiklokal.me/wp-content/uploads/2022/07/Hey-Handsome.jpg?resize=165,225",
+        "episode": "Chapter 90",
+        "link": "https://www.mirrored.to/files/1MWKZQEM/[Doudesu]_Hey,_Handsome_90.pdf_links"
+    },
+    {
+        "title": "Doki Doki Connection",
+        "poster": "https://i1.wp.com/komiklokal.me/wp-content/uploads/2022/07/Doki-Doki-Connection.jpg?resize=165,225",
+        "episode": "Chapter 20",
+        "link": "https://www.mirrored.to/files/0HJJ0ERU/[Doudesu]_Doki_Doki_Connection_20.pdf_links"
+    },
+    {
+        "title": "H-Mate",
+        "poster": "https://i3.wp.com/komiklokal.me/wp-content/uploads/2022/07/H-Mate.jpg?resize=165,225",
+        "episode": "Chapter 93"
+    },
+    {
+        "title": "Living With A MILF",
+        "poster": "https://i3.wp.com/komiklokal.me/wp-content/uploads/2022/03/Living-With-A-MILF.jpg?resize=165,225",
+        "episode": "Chapter 37",
+        "link": "https://www.mirrored.to/files/UECHGFIO/[Doudesu]_Living_With_A_MILF_37.pdf_links"
+    },
+    {
+        "title": "Secret Class",
+        "poster": "https://i2.wp.com/komiklokal.me/wp-content/uploads/2022/03/Secret-Class.jpg?resize=165,225",
+        "episode": "Chapter 137",
+        "link": "https://www.mirrored.to/files/13BOHEKA/[Doudesu]_Secret_Class_137.pdf_links"
+    },
+    {
+        "title": "Illicit Love",
+        "poster": "https://i2.wp.com/komiklokal.me/wp-content/uploads/2022/03/Illicit-Love.jpg?resize=165,225",
+        "episode": "Chapter 28",
+        "link": "https://www.mirrored.to/files/1FAOF4IO/[Doudesu]_Illicit_Love_28.pdf_links"
+    },
+    {
+        "title": "Dorm Room Sisters",
+        "poster": "https://i1.wp.com/komiklokal.me/wp-content/uploads/2022/06/Dorm-Room-Sisters.jpg?resize=165,225",
+        "episode": "Chapter 57",
+        "link": "https://www.mirrored.to/files/1N3F2UQJ/[Doudesu]_Dorm_Room_Sisters_57.pdf_links"
+    },
+    {
+        "title": "A Different Class",
+        "poster": "https://i3.wp.com/komiklokal.me/wp-content/uploads/2022/06/A-Different-Class.jpg?resize=165,225",
+        "episode": "Chapter 35",
+        "link": "https://www.mirrored.to/files/ZYEZMZCS/[Doudesu]_A_Different_Class_35.pdf_links"
+    },
+    {
+        "title": "A Good Day to Camp",
+        "poster": "https://i3.wp.com/komiklokal.me/wp-content/uploads/2022/06/A-Good-Day-to-Camp.jpg?resize=165,225",
+        "episode": "Chapter 27",
+        "link": "https://www.mirrored.to/files/OO1UZOFH/[Doudesu]_A_Good_Day_to_Camp_27.pdf_links"
+    },
+    {
+        "title": "Close Family",
+        "poster": "https://i2.wp.com/komiklokal.me/wp-content/uploads/2022/06/Close-Family.jpg?resize=165,225",
+        "episode": "Chapter 13",
+        "link": "https://www.mirrored.to/files/GTQTV3MR/[Doudesu]_Close_Family_13.pdf_links"
+    },
+    {
+        "title": "My Wives",
+        "poster": "https://i1.wp.com/komiklokal.me/wp-content/uploads/2022/07/My-Wives.jpg?resize=165,225",
+        "episode": "Chapter 44"
+    },
+    {
+        "title": "Sponsor Me Please",
+        "poster": "https://i1.wp.com/komiklokal.me/wp-content/uploads/2022/07/Sponsor-Me-Please.jpg?resize=165,225",
+        "episode": "Chapter 10"
+    },
+    {
         "title": "She Is Working Out",
         "poster": "https://i0.wp.com/komiklokal.me/wp-content/uploads/2022/03/photo_2022-03-02_10-53-28.jpg?resize=165,225",
         "episode": "Chapter 40",
