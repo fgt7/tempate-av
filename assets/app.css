@@ -6,6 +6,9 @@ a {
   color:white;
   text-decoration:none;
 }
+::-webkit-scrollbar {
+    display: none;
+}
 .custom-toggler .navbar-toggler-icon {
   background-image: url("../assets/img/menu.png");
   color:white;
