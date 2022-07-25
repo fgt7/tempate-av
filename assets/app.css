@@ -350,8 +350,8 @@ video::-webkit-media-controls-timeline {
      -webkit-box-orient: vertical;
 }
 #juduldua {
-  height:40px;
-  width:97%;
+  height:20px;
+  width:95%;
   margin-bottom:7px;
   margin-top:4px;
   overflow: hidden;
@@ -924,7 +924,7 @@ p {
   display: grid;
   overflow: hidden;
   text-overflow: ellipsis;
-  grid-template-rows: 206px auto;
+  grid-template-rows: 176px auto;
   grid-template-columns: 32% 31.33% 31.80%;
   grid-row-gap: 5px;
   grid-column-gap: 10px; 
