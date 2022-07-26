@@ -30116,7 +30116,7 @@ $(function () {
   callback: function (data, pagination) {
       var dataHtml = '';
       $.each(data, function (index, item) {
-          dataHtml += '<div class="row sort-item"><a href="' + item.link + '"  style="color:black"><img id="poster" src="' + item.poster + '"  alt="' + item.title + '" width="100%" style="max-inline-size: 100%;block-size: auto;aspect-ratio: 16/9;object-fit: cover;border-radius:2px"></a><h6 id="judul-konten" align="left">' + item.title + '</h6></div>';
+          dataHtml += '<div class="row sort-item"><a href="' + item.link + '"  style="color:black"><img id="poster" src="' + item.poster + '"  alt="' + item.title + '" width="100%" style="max-inline-size: 100%;block-size: auto;aspect-ratio: 16/9;object-fit: cover;border-radius:2px"></a><h6 id="judul-bokep" align="left">' + item.title + '</h6></div>';
           });
 
           $("#data-bokep").html(dataHtml);

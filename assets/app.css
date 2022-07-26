@@ -972,6 +972,20 @@ p {
              line-clamp: 2; 
      -webkit-box-orient: vertical;
 }
+#judul-bokep {
+  height:35px;
+  width:100%;
+  margin-bottom:7px;
+  margin-top:8px;
+  overflow: hidden;
+  font-size:11pt;
+  font-weight:400;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+     -webkit-line-clamp: 2;
+             line-clamp: 2; 
+     -webkit-box-orient: vertical;
+}
 #konten {
   width: 100%;
   height: 100%;
