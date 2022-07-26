@@ -22,6 +22,11 @@ $(function () {
         "link": "https://apkadmin.com/hdqm6thjqmie/BLING2_MOD.apk.html"
     },
     {
+        "title": "MLiveU Mod",
+        "poster": "web/app/mliveu.webp",
+        "link": "https://droplink.co/ZGWsSG"
+    },
+    {
         "title": "XNXX",
         "poster": "web/app/xnxx.png",
         "link": "https://apkadmin.com/nf00cq4azd8y/XNXX_2022.apk.html"
@@ -45,11 +50,6 @@ $(function () {
         "title": "Mango Live Mod",
         "poster": "web/app/mango.webp",
         "link": "https://apkadmin.com/u53vnbpa2tc8/MANGO_LIVE_MOD.apk.html"
-    },
-    {
-        "title": "MLiveU Mod",
-        "poster": "web/app/mliveu.webp",
-        "link": "https://apkadmin.com/kd7dqpyhxz7w/MLIVEU_MOD.apk.html"
     },
     {
         "title": "Bigo Live Mod",
