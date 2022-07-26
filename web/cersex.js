@@ -921,7 +921,7 @@ $(function () {
   callback: function (data, pagination) {
       var dataHtml = '';
       $.each(data, function (index, item) {
-          dataHtml += '<div class="row sort-item"><a href="http://adf.ly/19888345/' + item.link + '" target="_blank" style="color:black"><p id="judul-cersex" align="left">' + item.title + '</p><p style="margin-left:10px">'+ item.kategori +'</p></div>';
+          dataHtml += '<div class="row sort-item"><a href="http://adf.ly/19888345/' + item.link + '"  style="color:black"><p id="judul-cersex" align="left">' + item.title + '</p><p style="margin-left:10px">'+ item.kategori +'</p></div>';
           });
 
           $("#data-cersex").html(dataHtml);

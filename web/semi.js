@@ -3071,7 +3071,7 @@ $(function () {
   callback: function (data, pagination) {
       var dataHtml = '';
       $.each(data, function (index, item) {
-          dataHtml += '<div class="row sort-item"><a href="http://adf.ly/19888345/' + item.link + '" target="_blank" style="color:black"><img id="poster" src="https://telegra.ph/file/' + item.poster + '" alt="' + item.title + '" width="100%" height="200" style="object-fit: cover;"></a><p id="juduldua" align="left">' + item.title + '</p></div>';
+          dataHtml += '<div class="row sort-item"><a href="http://adf.ly/19888345/' + item.link + '"  style="color:black"><img id="poster" src="https://telegra.ph/file/' + item.poster + '" alt="' + item.title + '" width="100%" height="200" style="object-fit: cover;"></a><p id="juduldua" align="left">' + item.title + '</p></div>';
           });
 
           $("#data-semi").html(dataHtml);
