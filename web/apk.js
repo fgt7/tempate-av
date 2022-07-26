@@ -1,7 +1,7 @@
 $(function () {
   let container = $('#page-apk');
   container.pagination({
-  pageSize: 60,
+  pageSize: 30,
   showPageNumbers: false,
   showNavigator: true,
   formatNavigator: 'Hal. ke-<span style="color: #f00"><b><%= currentPage %></span></b>, <b><%= totalPage %></b> Halaman, <b><%= totalNumber %></b> Aplikasi',
@@ -741,7 +741,7 @@ $(function () {
   callback: function (data, pagination) {
       var dataHtml = '';
       $.each(data, function (index, item) {
-          dataHtml += '<div class="row sort-item"><a href="http://adf.ly/19888345/' + item.link + '"  style="color:black"><img id="poster" src="' + item.poster + '" alt="' + item.title + '" width="100%" height="128" style="object-fit:cover;border-radius:30px"></a><span id="judulapk" style="font-size:11pt;margin-top:7px;margin-left:3px;text-align:center"><b>'+ item.title +'</b></span></div>';
+          dataHtml += '<div class="row sort-item"><a href="http://adf.ly/19888345/' + item.link + '" target="_blank" style="color:black"><img src="' + item.poster + '" alt="' + item.title + '" width="100%" style="max-inline-size: 100%;block-size: auto;height:100%;aspect-ratio: 1/1;object-fit:fill;border-radius:30px"></a><span id="judulapk"><b>'+ item.title +'</b></span></div>';
           });
 
           $("#data-apk").html(dataHtml);

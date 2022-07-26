@@ -6,6 +6,17 @@ a {
   color:white;
   text-decoration:none;
 }
+img {
+  max-inline-size: 100%;
+  block-size: auto;
+  aspect-ratio: 3/4;
+  object-fit: cover;
+}
+@media (max-width: 800px) {
+  .grid-movie {
+    grid-template-rows: 225px ;
+  }
+}
 ::-webkit-scrollbar {
     display: none;
 }
@@ -320,9 +331,6 @@ div.dark {
   border-color: #3b5998;
 }
 
-img {
-  object-fit: cover;
-}
 #poster {
   background-color: black;
 }
@@ -371,9 +379,10 @@ video::-webkit-media-controls-timeline {
   height:20px;
   width:97%;
   margin-bottom:7px;
-  margin-top:4px;
+  margin-top:8px;
   overflow: hidden;
-  font-size:11pt;
+  text-align: center;
+  font-size:12pt;
   font-weight:400;
   text-overflow: ellipsis;
   display: -webkit-box;
@@ -847,168 +856,6 @@ p {
 	font-size:18pt;
 }
 
-.grid {
-  width: 100%;
-  list-style: none;
-  display: grid;
-  overflow: hidden;
-  text-overflow: ellipsis;
-
-  grid-template-rows: 180px auto;
-  grid-template-columns: 48% 50%;
-  grid-row-gap: 5px;
-  grid-column-gap: 10px; 
-}
-.grid-jav {
-  width: 100%;
-  list-style: none;
-  display: grid;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  grid-template-rows: 170px auto;
-  grid-template-columns: 50% auto;
-  grid-column-gap: 10px; 
-}
-.grid-hentai {
-  width: 100%;
-  list-style: none;
-  display: grid;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  grid-template-rows: 370px auto;
-  grid-template-columns: 50% auto;
-  grid-row-gap: 5px;
-  grid-column-gap: 10px; 
-}
-.grid-semi {
-  width: 100%;
-  list-style: none;
-  display: grid;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  grid-template-rows: 370px auto;
-  grid-template-columns: 50% auto;
-  grid-row-gap: 5px;
-  grid-column-gap: 10px; 
-}
-.grid-komik {
-  width: 100%;
-  list-style: none;
-  display: grid;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  grid-template-rows: 285px auto;
-  grid-template-columns: 32% 31.33% 33.33%;
-  grid-row-gap: 5px;
-  grid-column-gap: 10px; 
-}
-.grid-apk {
-  width: 100%;
-  list-style: none;
-  display: grid;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  grid-template-rows: 176px auto;
-  grid-template-columns: 32% 31.33% 31.80%;
-  grid-row-gap: 5px;
-  grid-column-gap: 10px; 
-}
-.grid-konten {
-  width: 100%;
-  list-style: none;
-  display: grid;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  grid-template-rows: 270px auto;
-  grid-template-columns: 32% 31.33% 33.33%;
-  grid-row-gap: 5px;
-  grid-column-gap: 10px; 
-}
-#konten {
-  width: 100%;
-  height: 100%;
-  padding-top: 3px;
-  padding-left: 60px;
-  margin-bottom: 5px;
-  padding-right: 0px;
-}
-
-#bokep-wrap #hidden-div {
-  display: none;
-}
-
-#list-bokep {
-  width: 100%;
-  list-style: none;
-  display: grid;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  grid-template-rows: 173px auto;
-  grid-template-columns: 50% auto;
-  grid-row-gap: 10px;
-  grid-column-gap: 10px; 
-}
-.judul-bokep {
-  height:40px;
-  margin-left:7px;
-  margin-bottom:7px;
-  margin-top:5px;
-  color:black;
-  overflow: hidden;
-  font-size:11pt;
-  font-weight:400;
-  text-overflow: ellipsis;
-  display: -webkit-box;
-     -webkit-line-clamp: 2;
-             line-clamp: 2; 
-     -webkit-box-orient: vertical;
-}
-.inner-title-bokep {
-  font-size: 16pt;
-  padding-top:25px;
-}
-.inner-kategori-bokep {
-  font-size: 12pt;
-}
-
-[style*="--aspect-ratio"] > :first-child {
-  width: 100%;
-}
-[style*="--aspect-ratio"] > img {  
-  height: auto;
-} 
-@supports (--custom:property) {
-  [style*="--aspect-ratio"] {
-    position: relative;
-  }
-  [style*="--aspect-ratio"]::before {
-    content: "";
-    display: block;
-    padding-bottom: calc(100% / (var(--aspect-ratio)));
-  }  
-  [style*="--aspect-ratio"] > :first-child {
-    position: absolute;
-    top: 0;
-    left: 0;
-    height: 100%;
-  }  
-}
-.tombol2 {
-  color:white;
-  text-align: center;
-  width: 35%;
-  background: #2d2c4d;
-  border-radius:20px;
-  padding:5px;
-}
-.button-info {
-  text-align: center;
-  width: 100%;
-  display: flex;
-  padding-top: 0px;
-  padding-bottom: 20px;
-}
-
 .profil {
   background:#f7f7f7;
   color: #2d2c4d;
@@ -1034,10 +881,102 @@ p {
   width:200px;
   height:200px;
 }
-p {
-  font-size:12pt;
+
+.grid-bokep {
+  width: 100%;
+  list-style: none;
+  display: grid;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  grid-template-rows: 270px;
+  grid-template-columns: 50% 50%;
+  grid-row-gap: 0px;
+  grid-column-gap: 10px; 
 }
-.inner-poster {
-  height:250px;
+@media (max-width: 800px) {
+  .grid-bokep {
+    grid-template-rows: 180px ;
+    grid-template-columns: 50% 50%;
+    grid-row-gap: 0px;
+    grid-column-gap: 10px; 
+  }
+}
+.grid-komik {
+  width: 100%;
+  list-style: none;
+  display: grid;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  grid-template-rows: 380px;
+  grid-template-columns: 32% 32% 32%;
+  grid-row-gap: 0px;
+  grid-column-gap: 10px; 
+}
+@media (max-width: 800px) {
+  .grid-komik {
+    grid-template-rows: 255px ;
+    grid-template-columns: 32% 32% 32%;
+    grid-row-gap: 0px;
+    grid-column-gap: 10px; 
+  }
+}
+.grid-semi {
+  width: 100%;
+  list-style: none;
+  display: grid;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  grid-template-rows: 370px;
+  grid-template-columns: 32% 32% 32%;
+  grid-row-gap: 0px;
+  grid-column-gap: 10px; 
+}
+@media (max-width: 800px) {
+  .grid-semi {
+    grid-template-rows: 235px ;
+    grid-template-columns: 32% 32% 32%;
+    grid-row-gap: 0px;
+    grid-column-gap: 10px; 
+  }
+}
+.grid-apk {
+  width: 100%;
+  list-style: none;
+  display: grid;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  grid-template-rows: 270px;
+  grid-template-columns: 32% 32% 32%;
+  grid-row-gap: 0px;
+  grid-column-gap: 10px; 
+}
+@media (max-width: 800px) {
+  .grid-apk {
+    grid-template-rows: 180px ;
+    grid-template-columns: 32% 32% 32%;
+    grid-row-gap: 0px;
+    grid-column-gap: 10px; 
+  }
+}
+#judul-konten {
+  height:40px;
   width:100%;
+  margin-bottom:7px;
+  margin-top:8px;
+  overflow: hidden;
+  font-size:11pt;
+  font-weight:400;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+     -webkit-line-clamp: 2;
+             line-clamp: 2; 
+     -webkit-box-orient: vertical;
+}
+#konten {
+  width: 100%;
+  height: 100%;
+  padding-top: 3px;
+  padding-left: 60px;
+  margin-bottom: 5px;
+  padding-right: 0px;
 }
