@@ -237,11 +237,6 @@ $(function () {
         "link": "https://telegra.ph/Cerita-Selingkuh-Dengan-Istri-Teman-Yg-Mengajak-Bersenang-Senang-07-26"
     },
     {
-        "title": "Cerita Memperkosa Wanita Yang Dulu Pernah Menolakku",
-        "kategori": "Cersex Pemerkosaan",
-        "link": "http://54.36.246.81/cerita-memperkosa-wanita-yang-dulu-pernah-menolakku/"
-    },
-    {
         "title": "Kuperkosa dan Kuambil Keperawanan Anak Tetanggaku",
         "kategori": "Cersex Pemerkosaan",
         "link": "https://telegra.ph/Kuperkosa-dan-Kuambil-Keperawanan-Anak-Tetanggaku-07-25"
