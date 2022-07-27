@@ -1121,7 +1121,7 @@ $(function () {
   callback: function (data, pagination) {
       var dataHtml = '';
       $.each(data, function (index, item) {
-          dataHtml += '<div class="row sort-item"><a href="https://droplink.co/st?api=8b8315c6bc13a8684492a125284cd883e95e6373&url=' + item.link + '"  style="color:black"><p id="judul-cersex" align="left"><b>' + item.title + '</b></p><p style="margin-left:10px;font-size:14pt">'+ item.kategori +'</p></div>';
+          dataHtml += '<div class="row sort-item"><a href="http://adf.ly/19888345/' + item.link + '"  style="color:black"><p id="judul-cersex" align="left"><b>' + item.title + '</b></p><p style="margin-left:10px;font-size:14pt">'+ item.kategori +'</p></div>';
           });
 
           $("#data-cersex").html(dataHtml);
