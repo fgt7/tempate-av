@@ -1,6 +1,6 @@
 $((function() {
 	$("#page-desah").pagination({
-		pageSize: 10,
+		pageSize: 20,
 		showPageNumbers: !1,
 		showNavigator: !0,
 		formatNavigator: 'Hal. ke-<span style="color: #f00"><b><%= currentPage %></span></b>, <b><%= totalPage %></b> Halaman, <b><%= totalNumber %></b> Desah',
