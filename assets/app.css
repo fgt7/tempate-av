@@ -332,10 +332,6 @@ div.dark {
   background: #fefefe;
   border-color: #3b5998;
 }
-
-#poster {
-  background-color: black;
-}
 #judul {
   padding-top:10px;
   font-size:16pt;
@@ -905,4 +901,25 @@ p {
   padding-left: 60px;
   margin-bottom: 5px;
   padding-right: 0px;
+}
+
+#poster {
+  background-color: black;
+  border-radius: 5px;
+}
+#tombol {
+  background-color: #2d2c4d;
+}
+video::-webkit-media-controls-mute-button {
+display: none !important;
+opacity: 1 !important;}
+
+video::-webkit-media-controls-timeline {
+display: none !important;
+opacity: 1 !important;}
+
+video {
+  /* override other styles to make responsive */
+  width: 100%    !important;
+  height: auto   !important;
 }
