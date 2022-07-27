@@ -117,9 +117,6 @@ $(function () {
         "link": "https://telegra.ru.com/p/4d77bd04x3041a4a60bfd9e18ffbc5f894466f9106d077ffc"
     },
     {
-        "link": "https://telegra.ru.com/p/4d77bd04x3041a4a60bfd9e18ffbc5f894466f9106d077ffc"
-    },
-    {
         "link": "https://telegra.ru.com/p/4d77bd04xbee51f15181ae8a1b8121c91b58db7176d077ffc"
     },
     {
