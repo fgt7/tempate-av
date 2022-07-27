@@ -23592,7 +23592,7 @@ $((function() {
 		callback: function(l, i) {
 			var t = "";
 			$.each(l, (function(l, i) {
-				t += '<tr><td><hr style="visibility:hidden"><h5><img src="https://telegra.ph/file/a76ddd04fa94896d8cc8c.png" style="width:50px;height:50px;margin-bottom:15px;margin-right:10px;float: left;border-radius:50%;">Ruang Desah</h5><h6>' + i.title + '</h6><div id="konten"><audio controls controlsList="nodownload noplaybackrate" ><source src="https://drive.google.com/uc?export=download&id=' + i.link + '"type="audio/ogg"></audio></div></td><tr>'
+				t += '<tr><td><hr style="visibility:hidden"><h5><img src="https://telegra.ph/file/a76ddd04fa94896d8cc8c.png" style="width:50px;height:50px;margin-bottom:15px;margin-right:10px;float: left;border-radius:50%;">Ruang Desah</h5><h6>' + i.title + '</h6><div id="konten"><audio controls controlsList="nodownload noplaybackrate" style="width:300px"><source src="https://drive.google.com/uc?export=download&id=' + i.link + '"type="audio/ogg"></audio></div></td><tr>'
 			})), t += "<tr>", $("#data-desah").html(t)
 		}
 	})
