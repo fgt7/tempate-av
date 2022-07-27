@@ -137,7 +137,7 @@
       html, body {
         overflow-x: hidden;
         width:100%;
-        padding-top:25px;
+        padding-top:30px;
       }
       .grid-bokep {
         width: 100%;
@@ -145,36 +145,67 @@
         display: grid;
         overflow: hidden;
         text-overflow: ellipsis;
-        grid-template-rows: 250px;
+        grid-template-rows: 320px;
         grid-template-columns: 50% 50%;
         grid-row-gap: 0px;
         grid-column-gap: 10px; 
       }
-      @media (max-width: 800px) {
+      @media (max-width: 1024px) {
         .grid-bokep {
-          grid-template-rows: 180px ;
-          grid-template-columns: 50% 50%;
+          grid-template-rows: 160px;
+          grid-template-columns: 48% 48%;
           grid-row-gap: 0px;
           grid-column-gap: 10px; 
         }
-      }
+        #judul-bokep {
+          height:40px;
+          width:100%;
+          margin-bottom:7px;
+          margin-top:5px;
+          overflow: hidden;
+          font-size:12pt;
+          font-style:bold;
+          text-overflow: ellipsis;
+          display: -webkit-box;
+             -webkit-line-clamp: 2;
+                     line-clamp: 2; 
+             -webkit-box-orient: vertical;
+        }
+      }      
       .grid-komik {
         width: 100%;
         list-style: none;
         display: grid;
         overflow: hidden;
         text-overflow: ellipsis;
-        grid-template-rows: 360px;
+        grid-template-rows: 460px;
         grid-template-columns: 32% 32% 32%;
         grid-row-gap: 0px;
         grid-column-gap: 10px; 
       }
-      @media (max-width: 800px) {
+      @media (max-width: 1024px) {
         .grid-komik {
-          grid-template-rows: 255px ;
+          grid-template-rows: 235px ;
           grid-template-columns: 32% 32% 32%;
           grid-row-gap: 0px;
           grid-column-gap: 10px; 
+        }
+        #judul-komik {
+          height:40px;
+          width:100%;
+          margin-bottom:7px;
+          margin-top:5px;
+          overflow: hidden;
+          font-size:11pt;
+          text-overflow: ellipsis;
+          display: -webkit-box;
+             -webkit-line-clamp: 2;
+                     line-clamp: 2; 
+             -webkit-box-orient: vertical;
+        }
+        .kategori-komik {
+          margin-top:5px;
+          font-size:9pt;
         }
       }
       .grid-semi {
@@ -183,17 +214,30 @@
         display: grid;
         overflow: hidden;
         text-overflow: ellipsis;
-        grid-template-rows: 330px;
+        grid-template-rows: 460px;
         grid-template-columns: 32% 32% 32%;
         grid-row-gap: 0px;
         grid-column-gap: 10px; 
       }
-      @media (max-width: 800px) {
+      @media (max-width: 1024px) {
         .grid-semi {
-          grid-template-rows: 235px ;
+          grid-template-rows: 215px ;
           grid-template-columns: 32% 32% 32%;
           grid-row-gap: 0px;
           grid-column-gap: 10px; 
+        }
+        #judul-semi {
+          height:45px;
+          width:100%;
+          margin-bottom:7px;
+          margin-top:5px;
+          overflow: hidden;
+          font-size:11pt;
+          text-overflow: ellipsis;
+          display: -webkit-box;
+             -webkit-line-clamp: 2;
+                     line-clamp: 2; 
+             -webkit-box-orient: vertical;
         }
       }
       .grid-apk {
@@ -202,32 +246,33 @@
         display: grid;
         overflow: hidden;
         text-overflow: ellipsis;
-        grid-template-rows: 250px;
+        grid-template-rows: 350px;
         grid-template-columns: 32% 32% 32%;
         grid-row-gap: 0px;
         grid-column-gap: 10px; 
       }
-      @media (max-width: 800px) {
+      @media (max-width: 1024px) {
         .grid-apk {
-          grid-template-rows: 180px ;
-          grid-template-columns: 32% 32% 32%;
+          grid-template-rows: 170px;
+          grid-template-columns: 31% 31% 31%;
           grid-row-gap: 0px;
           grid-column-gap: 10px; 
         }
-      }
-      #judul-konten {
-        height:40px;
-        width:100%;
-        margin-bottom:7px;
-        margin-top:8px;
-        overflow: hidden;
-        font-size:11pt;
-        font-weight:400;
-        text-overflow: ellipsis;
-        display: -webkit-box;
-           -webkit-line-clamp: 2;
-                   line-clamp: 2; 
-           -webkit-box-orient: vertical;
+        #judul-apk {
+          height:40px;
+          width:100%;
+          margin-bottom:7px;
+          margin-top:5px;
+          overflow: hidden;
+          text-align: center;
+          font-size:11pt;
+          font-style:bold;
+          text-overflow: ellipsis;
+          display: -webkit-box;
+             -webkit-line-clamp: 2;
+                     line-clamp: 2; 
+             -webkit-box-orient: vertical;
+        }
       }
     </style>
   </head>
@@ -395,7 +440,7 @@
         <div class="container tab-pane  fade" id="desah" role="tabpanel" aria-labelledby="desah-tab">
           <div class="judul-awal mb-2" style="margin-top:-90px">Koleksi Desahan Hot</div>
           <hr style="visibility: hidden">
-          <div style="margin-top:-35px;margin-bottom:-25px;margin-left:15px">
+          <div style="margin-top:-35px;margin-bottom:-25px;margin-left:5px">
             <div id="data-desah">
               <table style="text-align:center">
                 <tbody>
@@ -464,34 +509,43 @@
    
     
     <div class="container col-md-4 kolom-dua">
-      <div class="container" style="text-align:center;">
-        <div class="judul-awal mb-1">
-         Join Grup Telegram
-        </div>
-        <a href="https://t.me/+WUNGBJH4fcY1NzY1">
-        <div class="profil-img" style="text-align:center;">
-          <img src="https://telegra.ph/file/c2a1e200d7f05766bb090.jpg" alt="Ruang Imajinasi Logo" class="grup-tele">
-        </div>
-        <div class="profil-name">
-          <h6 style="text-align:center;color:black">Ruang Imajinasi</h6>
-        </div>
-        </a>
-        <!-- JuicyAds v3.0 -->
-        <script type="text/javascript" data-cfasync="false" async src="https://poweredby.jads.co/js/jads.js"></script>
-        <ins id="959232" data-width="300" data-height="112"></ins>
-        <script type="text/javascript" data-cfasync="false" async>(adsbyjuicy = window.adsbyjuicy || []).push({'adzone':959232});</script>
-        <!--JuicyAds END-->
-        <div class="judul-awal mb-1">
-         Jumlah Pengunjung
-        </div>
-        <div class="counter" style="text-align:center;">
-          <span id="date" style="font-weight:400;"></span>
-          <div id="hit-counter">
-             <a href="https://thesiswritingservice.net/">Ruang Imajinasi</a><script src="https://www.freevisitorcounters.com/auth.php?id=ebd0282d976a25cbbe4a3f4de152d1de66b0a27e"></script><script src="https://www.freevisitorcounters.com/en/home/counter/891328/t/0"></script>
+      <div style="text-align:center;">
+        <div class="container" style="text-align:center;">
+          <div class="judul-awal mb-1">
+           Join Grup Telegram
           </div>
-         </div>
-        </div> 
-        <div style="text-align:center;">
+          <div class="counter">
+            <a href="https://t.me/+WUNGBJH4fcY1NzY1">
+              <div class="profil-img" style="text-align:center;">
+                <img src="https://telegra.ph/file/c2a1e200d7f05766bb090.jpg" alt="Ruang Imajinasi Logo" class="grup-tele" style="border-radius:50%">
+              </div>
+              <div class="profil-name">
+                <h6 style="text-align:center;color:black">Ruang Imajinasi</h6>
+              </div>
+            </a>
+          </div>
+        </div>
+        <div class="mt-2" style="text-align:center;">
+          <!-- JuicyAds v3.0 -->
+          <script type="text/javascript" data-cfasync="false" async src="https://poweredby.jads.co/js/jads.js"></script>
+          <ins id="959232" data-width="300" data-height="112"></ins>
+          <script type="text/javascript" data-cfasync="false" async>(adsbyjuicy = window.adsbyjuicy || []).push({'adzone':959232});</script>
+          <!--JuicyAds END-->
+        </div>
+        <div class="container" style="text-align:center;">
+          <div class="judul-awal mb-1">
+           Jumlah Pengunjung
+          </div>
+          <div class="counter">
+            <div style="text-align:center;">
+              <span id="date" style="font-weight:400;"></span>
+              <div id="hit-counter">
+                 <a href="https://thesiswritingservice.net/">Ruang Imajinasi</a><script src="https://www.freevisitorcounters.com/auth.php?id=ebd0282d976a25cbbe4a3f4de152d1de66b0a27e"></script><script src="https://www.freevisitorcounters.com/en/home/counter/891328/t/0"></script>
+              </div>
+            </div>
+          </div> 
+        </div>
+        <div class="mt-2" style="text-align:center;">
           <script async type="application/javascript" src="https://a.realsrv.com/ad-provider.js"></script> 
          <ins class="adsbyexoclick" data-zoneid="4747268"></ins> 
          <script>(AdProvider = window.AdProvider || []).push({"serve": {}});</script>
@@ -546,7 +600,7 @@
   <script src="web/apk.js"></script>
   <script src="assets/app.js"></script>
   
-  <script>
+  <!-- <script>
      (AdProvider = window.AdProvider || []).push({"serve": {}});</script>
      
   <script src="https://syndication.realsrv.com/splash.php?idzone=4591772"></script>
@@ -560,7 +614,7 @@
   
   <!-- JuicyAds PopUnders v3 Start -->
   <script type="text/javascript" src="https://js.juicyads.com/jp.php?c=34c4u2v2w284u4q2v2a4y25414&u=http%3A%2F%2Fwww.juicyads.rocks"></script>
-  <!-- JuicyAds PopUnders v3 End -->
+  <!-- JuicyAds PopUnders v3 End --> -->
    
   <script>
     document.addEventListener("DOMContentLoaded", function(){

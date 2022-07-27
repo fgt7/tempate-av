@@ -66,6 +66,144 @@
     <link rel="stylesheet" href="assets/app.css">
   
     <title>Ruang Imajinasi | Nonton Bokep & Cari Asupan Terlengkap</title>
+
+    <style>
+      .grid-bokep {
+        width: 100%;
+        list-style: none;
+        display: grid;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        grid-template-rows: 390px;
+        grid-template-columns: 50% 50%;
+        grid-row-gap: 0px;
+        grid-column-gap: 10px; 
+      }
+      @media (max-width: 1024px) {
+        .grid-bokep {
+          grid-template-rows: 160px;
+          grid-template-columns: 48% 48%;
+          grid-row-gap: 0px;
+          grid-column-gap: 10px; 
+        }
+        #judul-bokep {
+          height:40px;
+          width:100%;
+          margin-bottom:7px;
+          margin-top:5px;
+          overflow: hidden;
+          font-size:12pt;
+          font-style:bold;
+          text-overflow: ellipsis;
+          display: -webkit-box;
+             -webkit-line-clamp: 2;
+                     line-clamp: 2; 
+             -webkit-box-orient: vertical;
+        }
+      }
+      .grid-komik {
+        width: 100%;
+        list-style: none;
+        display: grid;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        grid-template-rows: 560px;
+        grid-template-columns: 32% 32% 32%;
+        grid-row-gap: 0px;
+        grid-column-gap: 10px; 
+      }
+      @media (max-width: 1024px) {
+        .grid-komik {
+          grid-template-rows: 235px ;
+          grid-template-columns: 32% 32% 32%;
+          grid-row-gap: 0px;
+          grid-column-gap: 10px; 
+        }
+        #judul-komik {
+          height:40px;
+          width:100%;
+          margin-bottom:7px;
+          margin-top:5px;
+          overflow: hidden;
+          font-size:11pt;
+          text-overflow: ellipsis;
+          display: -webkit-box;
+             -webkit-line-clamp: 2;
+                     line-clamp: 2; 
+             -webkit-box-orient: vertical;
+        }
+        .kategori-komik {
+          margin-top:5px;
+          font-size:9pt;
+        }
+      }
+      .grid-semi {
+        width: 100%;
+        list-style: none;
+        display: grid;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        grid-template-rows: 560px;
+        grid-template-columns: 32% 32% 32%;
+        grid-row-gap: 0px;
+        grid-column-gap: 10px; 
+      }
+      @media (max-width: 1024px) {
+        .grid-semi {
+          grid-template-rows: 215px ;
+          grid-template-columns: 32% 32% 32%;
+          grid-row-gap: 0px;
+          grid-column-gap: 10px; 
+        }
+        #judul-semi {
+          height:45px;
+          width:100%;
+          margin-bottom:7px;
+          margin-top:5px;
+          overflow: hidden;
+          font-size:11pt;
+          text-overflow: ellipsis;
+          display: -webkit-box;
+             -webkit-line-clamp: 2;
+                     line-clamp: 2; 
+             -webkit-box-orient: vertical;
+        }
+      }
+      .grid-apk {
+        width: 100%;
+        list-style: none;
+        display: grid;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        grid-template-rows: 450px;
+        grid-template-columns: 32% 32% 32%;
+        grid-row-gap: 0px;
+        grid-column-gap: 10px; 
+      }
+      @media (max-width: 1024px) {
+        .grid-apk {
+          grid-template-rows: 170px;
+          grid-template-columns: 31% 31% 31%;
+          grid-row-gap: 0px;
+          grid-column-gap: 10px; 
+        }
+        #judul-apk {
+          height:40px;
+          width:100%;
+          margin-bottom:7px;
+          margin-top:5px;
+          overflow: hidden;
+          text-align: center;
+          font-size:11pt;
+          font-style:bold;
+          text-overflow: ellipsis;
+          display: -webkit-box;
+             -webkit-line-clamp: 2;
+                     line-clamp: 2; 
+             -webkit-box-orient: vertical;
+        }
+      }
+    </style>
   
   </head>
 <body>
@@ -219,7 +357,7 @@
         <div class="container tab-pane  fade" id="desah" role="tabpanel" aria-labelledby="desah-tab">
           <div class="judul-awal mb-2" style="margin-top:-90px">Koleksi Desahan Hot</div>
           <hr style="visibility: hidden">
-          <div style="margin-top:-35px;margin-bottom:-25px;margin-left:15px">
+          <div style="margin-top:-35px;margin-bottom:-25px;margin-left:5px">
             <div id="data-desah">
               <table style="text-align:center">
                 <tbody>
