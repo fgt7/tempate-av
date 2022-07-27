@@ -12,6 +12,206 @@ $(function () {
   className: 'paginationjs-theme-blue',
   dataSource: [
     {
+        "title": "Diperkosa Teman Kampus Dengan Obat Perangsang",
+        "kategori": "Cersex Pemerkosaan",
+        "link": "https://telegra.ph/Diperkosa-Teman-Kampus-Dengan-Obat-Perangsang-07-27"
+    },
+    {
+        "title": "Istri Diperkosa 2 Petugas Hotel Sambil Direkam",
+        "kategori": "Cersex Pemerkosaan",
+        "link": "https://telegra.ph/Istri-Diperkosa-2-Petugas-Hotel-Sambil-Direkam-07-27"
+    },
+    {
+        "title": "Diperkosa Pria Mabuk Jalanan di Bedeng Proyek",
+        "kategori": "Cersex Pemerkosaan",
+        "link": "https://telegra.ph/Diperkosa-Pria-Mabuk-Jalanan-di-Bedeng-Proyek-07-27"
+    },
+    {
+        "title": "Memperkosa Pelayan Hotel Bahenol Dengan Tali",
+        "kategori": "Cersex Pemerkosaan",
+        "link": "https://telegra.ph/Memperkosa-Pelayan-Hotel-Bahenol-Dengan-Tali-07-27"
+    },
+    {
+        "title": "Cerita Dewasa Aku dan Kakakku Memperkosa Ibu Kandungku di Kamar Mandi",
+        "kategori": "Cersex Pemerkosaan",
+        "link": "https://telegra.ph/Cerita-Dewasa-Aku-dan-Kakakku-Memperkosa-Ibu-Kandungku-di-Kamar-Mandi-07-27"
+    },
+    {
+        "title": "KU PERKOSA IBU TIRIKU",
+        "kategori": "Cersex Pemerkosaan",
+        "link": "https://telegra.ph/KU-PERKOSA-IBU-TIRIKU-07-27"
+    },
+    {
+        "title": "Cerita seks sadis penCulikan Dan perkosaan",
+        "kategori": "Cersex Pemerkosaan",
+        "link": "https://telegra.ph/Cerita-seks-sadis-penCulikan-Dan-perkosaan-07-27"
+    },
+    {
+        "title": "Cerita ABG Diperkosa Malah Ketagihan",
+        "kategori": "Cersex Pemerkosaan",
+        "link": "https://telegra.ph/Cerita-ABG-Diperkosa-Malah-Ketagihan-07-27"
+    },
+    {
+        "title": "Cerita Sex Kuperkosa Adik Kandungku Karna Sudah Dikuasai Nafsu Sex",
+        "kategori": "Cersex Pemerkosaan",
+        "link": "https://telegra.ph/Cerita-Sex-Kuperkosa-Adik-Kandungku-Karna-Sudah-Dikuasai-Nafsu-Sex-07-27"
+    },
+    {
+        "title": "Cerita Sex Cewek Cantik & Semok di Perkosa 3 Pria Dalam Lift Kampus",
+        "kategori": "Cersex Pemerkosaan",
+        "link": "https://telegra.ph/Cerita-Sex-Cewek-Cantik--Semok-di-Perkosa-3-Pria-Dalam-Lift-Kampus-07-27"
+    },
+    {
+        "title": "Cerita Sex Diperkosa Mertua Saat Mandi",
+        "kategori": "Cersex Pemerkosaan",
+        "link": "https://telegra.ph/Cerita-Sex-Diperkosa-Mertua-Saat-Mandi-07-27"
+    },
+    {
+        "title": "Kepergok ML,Cewek SMA Diperkosa 2 Cowok Dihutan",
+        "kategori": "Cersex Pemerkosaan",
+        "link": "https://telegra.ph/Kepergok-MLCewek-SMA-Diperkosa-2-Cowok-Dihutan-07-27"
+    },
+    {
+        "title": "Guru Perkosa Siswi Diperpustakaan Sekolah",
+        "kategori": "Cersex Pemerkosaan",
+        "link": "https://telegra.ph/Guru-Perkosa-Siswi-Diperpustakaan-Sekolah-07-27"
+    },
+    {
+        "title": "Pemerkosaan Sadis Gadis Belia",
+        "kategori": "Cersex Pemerkosaan",
+        "link": "https://telegra.ph/Pemerkosaan-Sadis-Gadis-Belia-07-27"
+    },
+    {
+        "title": "Aku Diperkosa Anakku",
+        "kategori": "Cersex Pemerkosaan",
+        "link": "https://telegra.ph/Aku-Diperkosa-Anakku-07-27"
+    },
+    {
+        "title": "Ngesex Di Karaoke",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Ngesex-Di-Karaoke-07-27"
+    },
+    {
+        "title": "Kelainan sex di tubuhku",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Kelainan-sex-di-tubuhku-07-27"
+    },
+    {
+        "title": "Cerita Panas Pembantu ngintip majikan lagi ml",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Cerita-Panas-Pembantu-ngintip-majikan-lagi-ml-07-27"
+    },
+    {
+        "title": "Ngentot dengan kawan suamiku",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Ngentot-dengan-kawan-suamiku-07-27"
+    },
+    {
+        "title": "Cerita hot luluran Tante membawa nikmat",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Cerita-Hot-Luluran-Tante-membawa-nikmat-07-27"
+    },
+    {
+        "title": "Skandal di dalam bioskop",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Skandal-di-dalam-bioskop-07-27"
+    },
+    {
+        "title": "Cerita adik iparku yang ganas birahi sex nya",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Cerita-adik-iparku-yang-ganas-birahi-sex-nya-07-27"
+    },
+    {
+        "title": "Kemaluan Istriku",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Kemaluan-Istriku-07-27"
+    },
+    {
+        "title": "Cerita Sex Bercumbu Dengan Tante Sepanjang Hari",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Cerita-Sex-Bercumbu-Dengan-Tante-Sepanjang-Hari-07-27"
+    },
+    {
+        "title": "Cerita Dewasa Penyiksaan Derita MU , Bahagia KU",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Cerita-Dewasa-Penyiksaan-Derita-MU--Bahagia-KU-07-27"
+    },
+    {
+        "title": "Ex Army vs. Body Builder – 2",
+        "kategori": "Cersex Gay",
+        "link": "https://telegra.ph/Ex-Army-vs-Body-Builder--2-07-27"
+    },
+    {
+        "title": "Ex Army vs. Body Builder – 1",
+        "kategori": "Cersex Gay",
+        "link": "https://telegra.ph/Ex-Army-vs-Body-Builder--1-07-27"
+    },
+    {
+        "title": "Satpam Baru Di Kantorku",
+        "kategori": "Cersex Gay",
+        "link": "https://telegra.ph/Satpam-Baru-Di-Kantorku-07-27"
+    },
+    {
+        "title": "Taruna Angkatan Laut",
+        "kategori": "Cersex Gay",
+        "link": "https://telegra.ph/Taruna-Angkatan-Laut-07-27"
+    },
+    {
+        "title": "Cerita Gay Diperkosa Preman Jalanan",
+        "kategori": "Cersex Gay",
+        "link": "https://telegra.ph/Cerita-Gay-Diperkosa-Preman-Jalanan-07-27"
+    },
+    {
+        "title": "Memek Tante HOT Di Gilir Rame-Rame",
+        "kategori": "Cersex Tante",
+        "link": "https://telegra.ph/Memek-Tante-HOT-Di-Gilir-Rame-Rame-07-27"
+    },
+    {
+        "title": "Ngentot Memek Tembem Tante Rentenir",
+        "kategori": "Cersex Tante",
+        "link": "https://telegra.ph/Ngentot-Memek-Tembem-Tante-Rentenir-07-27"
+    },
+    {
+        "title": "Chatting Yang Berujung Ngentot Dengan Tante",
+        "kategori": "Cersex Tante",
+        "link": "https://telegra.ph/Chatting-Yang-Berujung-Ngentot-Dengan-Tante-07-27"
+    },
+    {
+        "title": "Tante Girang Bispak Minta Dipuasin nafsunya",
+        "kategori": "Cersex Tante",
+        "link": "https://telegra.ph/Tante-Girang-Bispak-Minta-Dipuasin-nafsunya-07-27"
+    },
+    {
+        "title": "Nikmatnya Genjotan Tante Risma",
+        "kategori": "Cersex Tante",
+        "link": "https://telegra.ph/Nikmatnya-Genjotan-Tante-Risma-07-27"
+    },
+    {
+        "title": "Janda yang Haus Kejantanan Pria",
+        "kategori": "Cersex Janda",
+        "link": "https://telegra.ph/Janda-yang-Haus-Kejantanan-Pria-07-27"
+    },
+    {
+        "title": "Cerita Ngentot Tante Janda dengan Ganas",
+        "kategori": "Cersex Janda",
+        "link": "https://telegra.ph/Cerita-Ngentot-Tante-Janda-dengan-Ganas-07-27"
+    },
+    {
+        "title": "Cerita Tante Binal Berstatus Janda Jadi Tetanggaku",
+        "kategori": "Cersex Janda",
+        "link": "https://telegra.ph/Cerita-Tante-Binal-Berstatus-Janda-Jadi-Tetanggaku-07-27"
+    },
+    {
+        "title": "Cerita Dewasa Nikmatnya Toket Janda Genit Tetangga Rumahku",
+        "kategori": "Cersex Janda",
+        "link": "https://telegra.ph/Cerita-Dewasa-Nikmatnya-Toket-Janda-Genit-Tetangga-Rumahku-07-27"
+    },
+    {
+        "title": "CERITA DEWASA – DESAHAN NIKMATNYA JANDA MUDA",
+        "kategori": "Cersex Janda",
+        "link": "https://telegra.ph/CERITA-DEWASA--DESAHAN-NIKMATNYA-JANDA-MUDA-07-27"
+    },
+    {
         "title": "Warung Janda Yang Menggoda",
         "kategori": "Cersex Janda",
         "link": "https://telegra.ph/Warung-Janda-Yang-Menggoda-07-26"
@@ -921,7 +1121,7 @@ $(function () {
   callback: function (data, pagination) {
       var dataHtml = '';
       $.each(data, function (index, item) {
-          dataHtml += '<div class="row sort-item"><a href="http://adf.ly/19888345/' + item.link + '"  style="color:black"><p id="judul-cersex" align="left">' + item.title + '</p><p style="margin-left:10px;font-size:14pt">'+ item.kategori +'</p></div>';
+          dataHtml += '<div class="row sort-item"><a href="https://droplink.co/st?api=8b8315c6bc13a8684492a125284cd883e95e6373&url=' + item.link + '"  style="color:black"><p id="judul-cersex" align="left">' + item.title + '</p><p style="margin-left:10px;font-size:14pt">'+ item.kategori +'</p></div>';
           });
 
           $("#data-cersex").html(dataHtml);
