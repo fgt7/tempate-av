@@ -12,6 +12,147 @@ $(function () {
   className: 'paginationjs-theme-blue',
   dataSource: [
     {
+        "link": "https://telegra.ru.com/p/4d77bd04x2bdb6820831dda8b67b0dda86d26b0f96d077ffc"
+    },
+    {
+        "link": "https://telegra.ru.com/p/4d77bd04x0675b466419ffa8e2ab569c6bf8f80d56d077ffc"
+    },
+    {
+        "link": "https://telegra.ru.com/p/4d77bd04x3b16223f956abf9adca764d35a2abb586d077ffc"
+    },
+    {
+        "link": "https://telegra.ru.com/p/4d77bd04xfe9e94dbcdd00429cb89f122507cdd216d077ffc"
+    },
+    {
+        "link": "https://telegra.ru.com/p/4d77bd04x1ef8250cbbb963fe006fd3918bb8fced6d077ffc"
+    },
+    {
+        "link": "https://telegra.ru.com/p/4d77bd04x1a02adb57ad29932f5c348eb44f130aa6d077ffc"
+    },
+    {
+        "link": "https://telegra.ru.com/p/4d77bd04x2a06b97259e572c53464ee11d8a7572e6d077ffc"
+    },
+    {
+        "link": "https://telegra.ru.com/p/4d77bd04xb70a1afb466ed18d4dc6d18156a7c6596d077ffc"
+    },
+    {
+        "link": "https://telegra.ru.com/p/4d77bd04x244ba400e2a7e6cbcd5b33a202fedca26d077ffc"
+    },
+    {
+        "link": "https://telegra.ru.com/p/4d77bd04xee198dc6e58954d2568cd760dae417276d077ffc"
+    },
+    {
+        "link": "https://telegra.ru.com/p/4d77bd04x26c7073730b4f918efcba55bee9db38b6d077ffc"
+    },
+    {
+        "link": "https://telegra.ru.com/p/4d77bd04x563fab7c645052c1268d8c1ed5583edc6d077ffc"
+    },
+    {
+        "link": "https://telegra.ru.com/p/4d77bd04xb4e381ec368a8918cefa51f8b1f2f9be6d077ffc"
+    },
+    {
+        "link": "https://telegra.ru.com/p/4d77bd04x72ed6caecb0e5ae65b03d19d42ae85426d077ffc"
+    },
+    {
+        "link": "https://telegra.ru.com/p/4d77bd04x2472f9091d1b0a4fac2289c407dbaedd6d077ffc"
+    },
+    {
+        "link": "https://telegra.ru.com/p/4d77bd04x12bca2e138f92e83c9dc7ece6b3b08f36d077ffc"
+    },
+    {
+        "link": "https://telegra.ru.com/p/4d77bd04x84af4355e3433d096ddabc70faf955f66d077ffc"
+    },
+    {
+        "link": "https://telegra.ru.com/p/4d77bd04x8539b71255104956dc8dc7b30b6c01196d077ffc"
+    },
+    {
+        "link": "https://telegra.ru.com/p/4d77bd04x64ac73ecff2270a31800f86c5ed87bdf6d077ffc"
+    },
+    {
+        "link": "https://telegra.ru.com/p/4d77bd04x3dc01172c1b39e6a18fcc41c205ef13f6d077ffc"
+    },
+    {
+        "link": "https://telegra.ru.com/p/4d77bd04x4d5842c48641df62d9496c65d39a18dd6d077ffc"
+    },
+    {
+        "link": "https://telegra.ru.com/p/4d77bd04x195f1b391a5d143d92f0918b8ad832016d077ffc"
+    },
+    {
+        "link": "https://telegra.ru.com/p/4d77bd04xefeb5b5ca5636099d5e52bbbedc4ddf56d077ffc"
+    },
+    {
+        "link": "https://telegra.ru.com/p/4d77bd04x093ea9d1afa58731b66d7d8679ec24a16d077ffc"
+    },
+    {
+        "link": "https://telegra.ru.com/p/4d77bd04x7d361cd5364deb811999cd8b602e748b6d077ffc"
+    },
+    {
+        "link": "https://telegra.ru.com/p/4d77bd04x8222d6886ef3fa02226a5f7ec12996dc6d077ffc"
+    },
+    {
+        "link": "https://telegra.ru.com/p/4d77bd04x95e41689c06a26f7d3c7508cb4bb5e746d077ffc"
+    },
+    {
+        "link": "https://telegra.ru.com/p/4d77bd04xa3d79dd44049281a3c599bd0fccdf3b76d077ffc"
+    },
+    {
+        "link": "https://telegra.ru.com/p/4d77bd04xd3a1c4bf10eb97f7b617f0f7f9cb60d16d077ffc"
+    },
+    {
+        "link": "https://telegra.ru.com/p/4d77bd04x7cf3ba0801d4a017b5d1f96eda7ae7046d077ffc"
+    },
+    {
+        "link": "https://telegra.ru.com/p/4d77bd04x8ca1bd563fc6578a89eaea3ea9bca6a66d077ffc"
+    },
+    {
+        "link": "https://telegra.ru.com/p/4d77bd04xe07a5e8450fbdd472b13ea05ab141e316d077ffc"
+    },
+    {
+        "link": "https://telegra.ru.com/p/4d77bd04x89d439705b571bce0b7f7151b76ef4a06d077ffc"
+    },
+    {
+        "link": "https://telegra.ru.com/p/4d77bd04x286821ee3b9c694daf501428f08ead0c6d077ffc"
+    },
+    {
+        "link": "https://telegra.ru.com/p/4d77bd04x7efdcd196c82fde7964675f180b4577d6d077ffc"
+    },
+    {
+        "link": "https://telegra.ru.com/p/4d77bd04x854c564df4773bd612b64f6646c639ad6d077ffc"
+    },
+    {
+        "link": "https://telegra.ru.com/p/4d77bd04xdb6f8dafbe80c39569f2f611def4d5c76d077ffc"
+    },
+    {
+        "link": "https://telegra.ru.com/p/4d77bd04x1474e882975ef98401636e5f46ea0d746d077ffc"
+    },
+    {
+        "link": "https://telegra.ru.com/p/4d77bd04x54dcb71dfd6674cd57462537a098d2376d077ffc"
+    },
+    {
+        "link": "https://telegra.ru.com/p/4d77bd04xe800c95fcd41133c404906969765109e6d077ffc"
+    },
+    {
+        "link": "https://telegra.ru.com/p/4d77bd04xb9fa16a05c8a3c92e2846725660fc7e86d077ffc"
+    },
+    {
+        "link": "https://telegra.ru.com/p/4d77bd04xed06800be79ceef0be987227c90d4cff6d077ffc"
+    },
+    {
+        "link": "https://telegra.ru.com/p/4d77bd04x63a1ce74f0a6654a08056e7837a4007c6d077ffc"
+    },
+    {
+        "link": "https://telegra.ru.com/p/4d77bd04x34c0d54ec64332567d7f8591e6075dbc6d077ffc"
+    },
+    {
+        "link": "https://telegra.ru.com/p/4d77bd04xd6eb7134edeb90a41c4ae92b34aa36686d077ffc"
+    },
+    {
+        "link": "https://telegra.ru.com/p/4d77bd04x73a2807e068f86bb91120befa2fae72f6d077ffc"
+    },
+    {
+        "link": "https://telegra.ru.com/p/4d77bd04xa3c2b23f5b857796521990f86c0c497b6d077ffc"
+    },
+    {
         "link": "https://telegra.ru.com/p/4d77bd04xf430831eacaab17765e253a570261baf6d077ffc"
     },
     {
@@ -36761,7 +36902,7 @@ $(function () {
   callback: function (data, pagination) {
       var dataHtml = '';
       $.each(data, function (index, item) {
-          dataHtml += '<div style="padding-top:10px"><img width="100%" height="100%" src="' + item.link +'" alt="' + item.link + '" style="border-radius:5px"></img><div>';
+          dataHtml += '<div style="padding-top:10px"><a href="'+item.link+'"><img width="100%" height="100%" src="' + item.link +'" alt="' + item.link + '" style="border-radius:5px"></img></a><div>';
           });
 
           $("#data-bugil").html(dataHtml);

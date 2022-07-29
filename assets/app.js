@@ -22,3 +22,6 @@ m = n.getMonth() + 1;
 d = n.getDate();
 document.getElementById("date").innerHTML = "Tanggal " + d + "/" + m + "/" + y;
 
+$("#bugil-tab").on("click", function() {
+    $("#offcanvasAds").offcanvas.show;
+});
