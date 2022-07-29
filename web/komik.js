@@ -14,6 +14,506 @@ $(function () {
     {
         "title": "S-Mate",
         "poster": "https://i0.wp.com/komiklokal.me/wp-content/uploads/2022/07/S-Mate.jpg?resize=165,225",
+        "episode": "Chapter 98",
+        "link": "https://www.mirrored.to/files/13HGFUEB/[Doudesu]_S-Mate_98.pdf_links"
+    },
+    {
+        "title": "Love Parameter",
+        "poster": "https://i3.wp.com/komiklokal.me/wp-content/uploads/2022/07/Love-Parameter.jpeg?resize=165,225",
+        "episode": "Chapter 111"
+    },
+    {
+        "title": "Phone Sex",
+        "poster": "https://i3.wp.com/komiklokal.me/wp-content/uploads/2022/06/Phone-Sex.jpg?resize=165,225",
+        "episode": "Chapter 18",
+        "link": "https://www.mirrored.to/files/1ZPEHIG1/[Doudesu]_Phone_Sex_18.pdf_links"
+    },
+    {
+        "title": "Bad Guy",
+        "poster": "https://i2.wp.com/komiklokal.me/wp-content/uploads/2022/06/Bad-Guy.jpg?resize=165,225",
+        "episode": "Chapter 35",
+        "link": "https://www.mirrored.to/files/MZZKPAFB/[Doudesu]_The_Neighborhood_Celebrity_41.pdf_links"
+    },
+    {
+        "title": "The Neighborhood Celebrity",
+        "poster": "https://i1.wp.com/komiklokal.me/wp-content/uploads/2022/07/The-Neighborhood-Celebrity.jpg?resize=165,225",
+        "episode": "Chapter 41",
+        "link": "https://www.mirrored.to/files/MZZKPAFB/[Doudesu]_The_Neighborhood_Celebrity_41.pdf_links"
+    },
+    {
+        "title": "Daughter Friend",
+        "poster": "https://i2.wp.com/komiklokal.me/wp-content/uploads/2022/07/Daughter-Friend.jpg?resize=165,225",
+        "episode": "Chapter 56",
+        "link": "https://www.mirrored.to/files/0H91YSPS/[Doudesu]_Daughter_Friend_56.pdf_links"
+    },
+    {
+        "title": "Childhood Bride",
+        "poster": "https://i0.wp.com/komiklokal.me/wp-content/uploads/2022/07/Childhood-Bride.jpg?resize=165,225",
+        "episode": "Chapter 12",
+        "link": "https://www.mirrored.to/files/HU5SUE0B/[Doudesu]_Childhood_Bride_12.pdf_links"
+    },
+    {
+        "title": "Sponsor Me Please",
+        "poster": "https://i1.wp.com/komiklokal.me/wp-content/uploads/2022/07/Sponsor-Me-Please.jpg?resize=165,225",
+        "episode": "Chapter 11",
+        "link": "https://www.mirrored.to/files/GNHVBZZU/[Doudesu]_Sponsor_Me_Please_11.pdf_links"
+    },
+    {
+        "title": "Living With A MILF",
+        "poster": "https://i3.wp.com/komiklokal.me/wp-content/uploads/2022/03/Living-With-A-MILF.jpg?resize=165,225",
+        "episode": "Chapter 38",
+        "link": "https://www.mirrored.to/files/NNJCZVGD/[Doudesu]_Living_with_A_MILF_38.pdf_links"
+    },
+    {
+        "title": "Stepmother’s Friend",
+        "poster": "https://i2.wp.com/komiklokal.me/wp-content/uploads/2022/04/Stepmothers-Friend.jpg?resize=165,225",
+        "episode": "Chapter 126",
+        "link": "https://www.mirrored.to/files/1MMWOQCI/[Doudesu]_Stepmother_s_Friends_125.pdf_links"
+    },
+    {
+        "title": "Welcome to Kids Café",
+        "poster": "https://i0.wp.com/komiklokal.me/wp-content/uploads/2022/07/Welcome-To-The-Kid-Cafe.jpg?resize=165,225",
+        "episode": "Chapter 24",
+        "link": "https://www.mirrored.to/files/VJ28CUIC/[Doudesu]_Welcome_to_Kids_Caf_24.pdf_links"
+    },
+    {
+        "title": "Reporting For Duty Ma’am",
+        "poster": "https://i1.wp.com/komiklokal.me/wp-content/uploads/2022/07/Reporting-For-Duty-Maam.jpg?resize=165,225",
+        "episode": "Chapter 43"
+    },
+    {
+        "title": "Sange Waktu Kerja",
+        "poster": "https://i2.wp.com/komiklokal.me/wp-content/uploads/2022/07/Sange-Waktu-Kerja.jpg?resize=165,225",
+        "episode": "Chapter 01",
+        "link": "https://www.mirrored.to/files/1NKDQC5J/[Doudesu]_Horny_on_Duty_(Samsung).pdf_links"
+    },
+    {
+        "title": "Yahalu",
+        "poster": "https://i2.wp.com/komiklokal.me/wp-content/uploads/2022/07/Yahalu.jpeg?resize=165,225",
+        "episode": "Chapter 50"
+    },
+    {
+        "title": "Circles",
+        "poster": "https://i2.wp.com/komiklokal.me/wp-content/uploads/2022/07/Circles.jpg?resize=165,225",
+        "episode": "Chapter 86",
+        "link": "https://www.mirrored.to/files/URBLDGDS/[Doudesu]_Circles_86.pdf_links"
+    },
+    {
+        "title": "How About This Pose?",
+        "poster": "https://i3.wp.com/komiklokal.me/wp-content/uploads/2022/07/How-About-This-Pose.jpg?resize=165,225",
+        "episode": "Chapter 18",
+        "link": "https://www.mirrored.to/files/16ECHHAK/[Doudesu]_How_About_This_Pose_18.pdf_links"
+    },
+    {
+        "title": "My Female Friend Who Crossed The Line",
+        "poster": "https://i2.wp.com/komiklokal.me/wp-content/uploads/2022/07/My-Female-Friend-Who-Crossed-The-Line.jpg?resize=165,225",
+        "episode": "Chapter 58",
+        "link": "https://www.mirrored.to/files/8KO336I5/[Doudesu]_My_Female_Friend_Who_Crossed_The_Line_58.pdf_links"
+    },
+    {
+        "title": "My Wife’s Friend",
+        "poster": "https://i1.wp.com/komiklokal.me/wp-content/uploads/2022/06/My-Wife-Friend.jpg?resize=165,225",
+        "episode": "Chapter 66",
+        "link": "https://www.mirrored.to/files/OTYYZKWJ/[Doudesu]_My_Wife_s_Friends_65.pdf_links"
+    },
+    {
+        "title": "Hey, Handsome",
+        "poster": "https://i3.wp.com/komiklokal.me/wp-content/uploads/2022/07/Hey-Handsome.jpg?resize=165,225",
+        "episode": "Chapter 91",
+        "link": "https://www.mirrored.to/files/Y8F7SN4O/[Doudesu]_Hey,_Handsome_91.pdf_links"
+    },
+    {
+        "title": "A Different Class",
+        "poster": "https://i3.wp.com/komiklokal.me/wp-content/uploads/2022/06/A-Different-Class.jpg?resize=165,225",
+        "episode": "Chapter 36",
+        "link": "https://www.mirrored.to/files/0ZBO8DTV/[Doudesu]_A_Different_Class_36.pdf_links"
+    },
+    {
+        "title": "Bad Thinking Diary",
+        "poster": "https://i1.wp.com/komiklokal.me/wp-content/uploads/2022/07/Bad-Thinking-Diary.jpg?resize=165,225",
+        "episode": "Chapter 14",
+        "link": "https://www.mirrored.to/files/BM6O8SCW/[Doudesu]_Bad_Thinking_Diary_14.pdf_links"
+    },
+    {
+        "title": "Banging Mother and Daughter",
+        "poster": "https://i3.wp.com/komiklokal.me/wp-content/uploads/2022/07/Banging-Mother-and-Daughter.jpg?resize=165,225",
+        "episode": "Chapter 09",
+        "link": "https://www.mirrored.to/files/1BFF5AUU/[Doudesu]_Banging_Mother_and_Daughter_9.pdf_links"
+    },
+    {
+        "title": "Okkycreed Kehujanan",
+        "poster": "https://i1.wp.com/komiklokal.me/wp-content/uploads/2022/07/Okkycreed-Kehujanan.jpg?resize=165,225",
+        "episode": "Chapter 02",
+        "link": "https://www.mediafire.com/file/j5sm7bi6a4hn78v/NARUTOD_-_STRIP_SHOGI_PART_2.pdf/file"
+    },
+    {
+        "title": "Narutod Strip Shogi",
+        "poster": "https://i0.wp.com/komiklokal.me/wp-content/uploads/2022/07/photo_2022-07-27_08-14-44.jpg?resize=165,225",
+        "episode": "Chapter 02",
+        "link": "https://www.mediafire.com/file/o790j6zai3ea0cx/SJG+-+Yor+Forger+SxF+Part+2.pdf/file"
+    },
+    {
+        "title": "Sinar Jaya Gurih Spy X Family",
+        "poster": "https://i3.wp.com/komiklokal.me/wp-content/uploads/2022/07/SJG-Spy-X-Family.jpg?resize=165,225",
+        "episode": "Chapter 02",
+        "link": "https://www.mediafire.com/file/o790j6zai3ea0cx/SJG+-+Yor+Forger+SxF+Part+2.pdf/file"
+    },
+    {
+        "title": "Komik Madloki Kamila",
+        "poster": "https://i1.wp.com/komiklokal.me/wp-content/uploads/2021/11/madloki-kamila.jpg?resize=165,225",
+        "episode": "Chapter Photopack",
+        "link": "https://www.mediafire.com/file/41demf4uiswmtzb/Madloki+-+Kamila+Photobook.pdf/file"
+    },
+    {
+        "title": "Banging My Aunt",
+        "poster": "https://i2.wp.com/komiklokal.me/wp-content/uploads/2022/06/Banging-My-Aunt.jpg?resize=165,225",
+        "episode": "Chapter 50",
+        "link": "https://www.mirrored.to/files/7AG1WFEM/[Doudesu]_Banging_My_Aunt_50.pdf_links"
+    },
+    {
+        "title": "Teacher Lesson",
+        "poster": "https://i1.wp.com/komiklokal.me/wp-content/uploads/2022/06/Teacher-Lesson.jpg?resize=165,225",
+        "episode": "Chapter 19",
+        "link": "https://www.mirrored.to/files/VDDEFTRK/"
+    },
+    {
+        "title": "A Wonderful New World",
+        "poster": "https://i0.wp.com/komiklokal.me/wp-content/uploads/2022/07/A-Wonderful-New-World.jpg?resize=165,225",
+        "episode": "Chapter 151",
+        "link": "https://www.mirrored.to/files/1YGIYQQV/[Doudesu]_A_Wonderful_New_World_151.pdf_links"
+    },
+    {
+        "title": "Keep This a Secret From Mom!",
+        "poster": "https://i1.wp.com/komiklokal.me/wp-content/uploads/2022/07/Keep-This-a-Secret-From-Mom.jpg?resize=165,225",
+        "episode": "Chapter 55",
+        "link": "https://www.mirrored.to/files/16IASHZS/[Doudesu]_Keep_This_Secret_Your_Mom_55.pdf_links"
+    },
+    {
+        "title": "Boarding Diary",
+        "poster": "https://i3.wp.com/komiklokal.me/wp-content/uploads/2022/04/Boarding-Diary.jpg?resize=165,225",
+        "episode": "Chapter 100",
+        "link": "https://www.mirrored.to/files/RQKV3Y83/[Doudesu]_Boarding_Diary_100.pdf_links"
+    },
+    {
+        "title": "Touch To Unlock",
+        "poster": "https://i0.wp.com/komiklokal.me/wp-content/uploads/2022/07/Touch-To-Unlock.jpg?resize=165,225",
+        "episode": "Chapter 108.6"
+    },
+    {
+        "title": "Is There No Goddes In My College",
+        "poster": "https://i0.wp.com/komiklokal.me/wp-content/uploads/2022/07/Is-There-No-Goddes-In-My-College.jpg?resize=165,225",
+        "episode": "Chapter 40",
+        "link": "https://www.mirrored.to/files/0X5TQG3M/[Doudesu]_Is_There_No_Goddess_in_My_College.pdf_links"
+    },
+    {
+        "title": "Doki Doki Connection",
+        "poster": "https://i1.wp.com/komiklokal.me/wp-content/uploads/2022/07/Doki-Doki-Connection.jpg?resize=165,225",
+        "episode": "Chapter 21",
+        "link": "https://www.mirrored.to/files/FJDXLI2E/[Doudesu]_Doki_Doki_Connection_21.pdf_links"
+    },
+    {
+        "title": "Father’s Lust",
+        "poster": "https://i0.wp.com/komiklokal.me/wp-content/uploads/2022/06/Fathers-Lust.jpg?resize=165,225",
+        "episode": "Chapter 65",
+        "link": "https://www.mirrored.to/files/NETCSRRE/[Doudesu]_Father_s_Lust_65.pdf_links"
+    },
+    {
+        "title": "Mother Hunting",
+        "poster": "https://i3.wp.com/komiklokal.me/wp-content/uploads/2022/07/Mother-Hunting.jpg?resize=165,225",
+        "episode": "Chapter 88"
+    },
+    {
+        "title": "Staying With Ajumma",
+        "poster": "https://i1.wp.com/komiklokal.me/wp-content/uploads/2022/03/Living-With-Ajumma.jpg?resize=165,225",
+        "episode": "Chapter 24",
+        "link": "https://www.mirrored.to/files/0UKRH87C/[Doudesu]_Staying_with_Ajumma_24.pdf_links"
+    },
+    {
+        "title": "The Escape",
+        "poster": "https://i0.wp.com/komiklokal.me/wp-content/uploads/2022/07/THe-Escape.jpg?resize=165,225",
+        "episode": "Chapter 30"
+    },
+    {
+        "title": "The Owner of A Building",
+        "poster": "https://i3.wp.com/komiklokal.me/wp-content/uploads/2022/06/The-Owner-of-A-Building-1.jpg?resize=165,225",
+        "episode": "Chapter 57",
+        "link": "https://www.mirrored.to/files/QMXSZ6OY/[Doudesu]_The_Owner_Of_A_Building_57.pdf_links"
+    },
+    {
+        "title": "Everything About Best Friend",
+        "poster": "https://i1.wp.com/komiklokal.me/wp-content/uploads/2022/06/Everything-About-Best-Friend.jpg?resize=165,225",
+        "episode": "Chapter 65",
+        "link": "https://www.mirrored.to/files/5X0N8N0B/"
+    },
+    {
+        "title": "Today’s Dinner Is You",
+        "poster": "https://i0.wp.com/komiklokal.me/wp-content/uploads/2022/06/Todays-Dinner-Is-You.jpg?resize=165,225",
+        "episode": "Chapter 36",
+        "link": "https://www.mirrored.to/files/CYIKMLYE/[Doudesu]_Today_s_Dinner_Is_You_36.pdf_links"
+    },
+    {
+        "title": "The Ladies’s Associates",
+        "poster": "https://i3.wp.com/komiklokal.me/wp-content/uploads/2022/06/The-Ladies-Associates.jpg?resize=165,225",
+        "episode": "Chapter 45",
+        "link": "https://www.mirrored.to/files/LNO8ADA3/[Doudesu]_The_Ladies__Associate_45.pdf_links"
+    },
+    {
+        "title": "Noona’s Taste",
+        "poster": "https://i0.wp.com/komiklokal.me/wp-content/uploads/2022/06/Noona-Taste.jpg?resize=165,225",
+        "episode": "Chapter 41",
+        "link": "https://www.mirrored.to/files/DXGW7K8P/[Doudesu]_Noona_s_Taste_41.pdf_links"
+    },
+    {
+        "title": "It’s Okay Because We Are Family",
+        "poster": "https://i3.wp.com/komiklokal.me/wp-content/uploads/2022/06/Its-Okay-Because-We-Are-Family.jpg?resize=165,225",
+        "episode": "Chapter 37",
+        "link": "https://www.mirrored.to/files/1UNM7YUT/[Doudesu]_It_s_Okay_Because_Were_Family_37.pdf_links"
+    },
+    {
+        "title": "Corner Shop",
+        "poster": "https://i3.wp.com/komiklokal.me/wp-content/uploads/2022/07/Corner-Shop.jpg?resize=165,225",
+        "episode": "Chapter 28",
+        "link": "https://www.mirrored.to/files/1OVBU7DS/[Doudesu]_Corner_Shop_28.pdf_links"
+    },
+    {
+        "title": "Escape Loser",
+        "poster": "https://i1.wp.com/komiklokal.me/wp-content/uploads/2022/07/Escape-Loser.jpg?resize=165,225",
+        "episode": "Chapter 01",
+        "link": "https://www.mirrored.to/files/1K1YXERC/[Doudesu]_Escape_Loser_50.pdf_links"
+    },
+    {
+        "title": "If You Don’t, I’ll Reveal It",
+        "poster": "https://i0.wp.com/komiklokal.me/wp-content/uploads/2022/07/if-you-dont-Ill-reveal-it.png?resize=165,225",
+        "episode": "Chapter 09"
+    },
+    {
+        "title": "An Ardent Teaching Life",
+        "poster": "https://i3.wp.com/komiklokal.me/wp-content/uploads/2022/07/An-Ardent-Teaching-Life.jpg?resize=165,225",
+        "episode": "Chapter 17",
+        "link": "https://www.mirrored.to/files/5LLZBGVS/[Doudesu]_An_Ardent_Teaching_Life_17.pdf_links"
+    },
+    {
+        "title": "She Is Working Out",
+        "poster": "https://i0.wp.com/komiklokal.me/wp-content/uploads/2022/03/photo_2022-03-02_10-53-28.jpg?resize=165,225",
+        "episode": "Chapter 41",
+        "link": "https://www.mirrored.to/files/BMXX8JHE/[Doudesu]_She_Is_Working_Out_41.pdf_links"
+    },
+    {
+        "title": "Switch On",
+        "poster": "https://i1.wp.com/komiklokal.me/wp-content/uploads/2022/07/Switch-On.jpg?resize=165,225",
+        "episode": "Chapter 21",
+        "link": "https://www.mirrored.to/files/M0NP6F9M/[Doudesu]_Switch_On_21.pdf_links"
+    },
+    {
+        "title": "Queen Bee",
+        "poster": "https://i3.wp.com/komiklokal.me/wp-content/uploads/2022/07/Queen-Bee.jpg?resize=165,225",
+        "episode": "Chapter 229",
+        "link": "https://www.mirrored.to/files/08SC3BNY/[Doudesu]_Queen_Bee_229.pdf_links"
+    },
+    {
+        "title": "Twenty",
+        "poster": "https://i0.wp.com/komiklokal.me/wp-content/uploads/2022/06/Twenty.jpg?resize=165,225",
+        "episode": "Chapter 45",
+        "link": "https://www.mirrored.to/files/0I6NDUVM/[Doudesu]_Twenty_45.pdf_links"
+    },
+    {
+        "title": "Madam",
+        "poster": "https://i0.wp.com/komiklokal.me/wp-content/uploads/2022/06/Madam.jpg?resize=165,225",
+        "episode": "Chapter 24",
+        "link": "https://www.mirrored.to/files/45QZKFV3/[Doudesu]_Madam_24.pdf_links"
+    },
+    {
+        "title": "H-Mate",
+        "poster": "https://i3.wp.com/komiklokal.me/wp-content/uploads/2022/07/H-Mate.jpg?resize=165,225",
+        "episode": "Chapter 93"
+    },
+    {
+        "title": "Secret Class",
+        "poster": "https://i2.wp.com/komiklokal.me/wp-content/uploads/2022/03/Secret-Class.jpg?resize=165,225",
+        "episode": "Chapter 137",
+        "link": "https://www.mirrored.to/files/13BOHEKA/[Doudesu]_Secret_Class_137.pdf_links"
+    },
+    {
+        "title": "Illicit Love",
+        "poster": "https://i2.wp.com/komiklokal.me/wp-content/uploads/2022/03/Illicit-Love.jpg?resize=165,225",
+        "episode": "Chapter 28",
+        "link": "https://www.mirrored.to/files/1FAOF4IO/[Doudesu]_Illicit_Love_28.pdf_links"
+    },
+    {
+        "title": "Dorm Room Sisters",
+        "poster": "https://i1.wp.com/komiklokal.me/wp-content/uploads/2022/06/Dorm-Room-Sisters.jpg?resize=165,225",
+        "episode": "Chapter 57",
+        "link": "https://www.mirrored.to/files/1N3F2UQJ/[Doudesu]_Dorm_Room_Sisters_57.pdf_links"
+    },
+    {
+        "title": "A Good Day to Camp",
+        "poster": "https://i3.wp.com/komiklokal.me/wp-content/uploads/2022/06/A-Good-Day-to-Camp.jpg?resize=165,225",
+        "episode": "Chapter 27",
+        "link": "https://www.mirrored.to/files/OO1UZOFH/[Doudesu]_A_Good_Day_to_Camp_27.pdf_links"
+    },
+    {
+        "title": "Close Family",
+        "poster": "https://i2.wp.com/komiklokal.me/wp-content/uploads/2022/06/Close-Family.jpg?resize=165,225",
+        "episode": "Chapter 13",
+        "link": "https://www.mirrored.to/files/GTQTV3MR/[Doudesu]_Close_Family_13.pdf_links"
+    },
+    {
+        "title": "My Wives",
+        "poster": "https://i1.wp.com/komiklokal.me/wp-content/uploads/2022/07/My-Wives.jpg?resize=165,225",
+        "episode": "Chapter 44"
+    },
+    {
+        "title": "The Night King Using App",
+        "poster": "https://i1.wp.com/komiklokal.me/wp-content/uploads/2022/07/The-Night-King-Using-App.jpg?resize=165,225",
+        "episode": "Chapter 24",
+        "link": "https://www.mirrored.to/files/GAO3DLEK/[Doudesu]_The_Night_King_using_App_Chapter_24.pdf_links"
+    },
+    {
+        "title": "New Town",
+        "poster": "https://i1.wp.com/komiklokal.me/wp-content/uploads/2022/06/New-Town.jpg?resize=165,225",
+        "episode": "Chapter 48",
+        "link": "https://www.mirrored.to/files/85PKLMOL/[Doudesu]_New_Town_48.pdf_links"
+    },
+    {
+        "title": "Sextudy Group",
+        "poster": "https://i0.wp.com/komiklokal.me/wp-content/uploads/2022/06/Sextudy-Group-1.jpg?resize=165,225",
+        "episode": "Chapter 29",
+        "link": "https://www.mirrored.to/files/02JIJIMQ/[Doudesu]_Sextudy_Group_29.pdf_links"
+    },
+    {
+        "title": "Goddess Conquest",
+        "poster": "https://i3.wp.com/komiklokal.me/wp-content/uploads/2022/06/Goddess-Conquest-1.jpg?resize=165,225",
+        "episode": "Chapter 29",
+        "link": "https://www.mirrored.to/files/17VUZWZM/[Doudesu]_Goddess_Conquest_29.pdf_links"
+    },
+    {
+        "title": "Between Us",
+        "poster": "https://i2.wp.com/komiklokal.me/wp-content/uploads/2022/07/Between-Us.jpg?resize=165,225",
+        "episode": "Chapter 23",
+        "link": "https://www.mirrored.to/files/0KHMMYN7/[Doudesu]_Welcome_to_Kids_Caf_23.pdf_links"
+    },
+    {
+        "title": "One’s In-Laws Virgins",
+        "poster": "https://i1.wp.com/komiklokal.me/wp-content/uploads/2022/07/Ones-In-Laws-Virgins.jpg?resize=165,225",
+        "episode": "Chapter 112",
+        "link": "https://www.mirrored.to/files/LMPBVBYB/[Doudesu]_One_s_In-Laws_Virgins_111,5_END.pdf_links"
+    },
+    {
+        "title": "My Stepmother is My Girlfriend",
+        "poster": "https://i1.wp.com/komiklokal.me/wp-content/uploads/2022/06/My-Stepmother-is-My-Girlfriend.png?resize=165,225",
+        "episode": "Chapter 50",
+        "link": "https://www.mirrored.to/files/LBF3YB0V/[Doudesu]_My_Stepmother_is_My_Girlfriend_50_END.pdf_links"
+    },
+    {
+        "title": "Tasty Chat",
+        "poster": "https://i3.wp.com/komiklokal.me/wp-content/uploads/2022/06/Tasty-Chat.jpg?resize=165,225",
+        "episode": "Chapter 29"
+    },
+    {
+        "title": "Swinging",
+        "poster": "https://i2.wp.com/komiklokal.me/wp-content/uploads/2022/07/Swinging.jpg?resize=165,225",
+        "episode": "Chapter 51"
+    },
+    {
+        "title": "I Want A Taste",
+        "poster": "https://i1.wp.com/komiklokal.me/wp-content/uploads/2022/06/I-Want-A-Taste.jpg?resize=165,225",
+        "episode": "Chapter 15",
+        "link": "https://www.mirrored.to/files/1SNEOLMG/[Doudesu]_I_Want_a_Taste_15.pdf_links"
+    },
+    {
+        "title": "My Girlfriend is So Naughty",
+        "poster": "https://i0.wp.com/komiklokal.me/wp-content/uploads/2022/06/My-Girlfriend-is-So-Naughty.jpg?resize=165,225",
+        "episode": "Chapter 42",
+        "link": "https://www.mirrored.to/files/0ZHDEWIT/"
+    },
+    {
+        "title": "You’ve Finished Working",
+        "poster": "https://i0.wp.com/komiklokal.me/wp-content/uploads/2022/07/Youve-Finished-Working.png?resize=165,225",
+        "episode": "Chapter 20"
+    },
+    {
+        "title": "Food Chain",
+        "poster": "https://i1.wp.com/komiklokal.me/wp-content/uploads/2022/07/Food-Chain.jpg?resize=165,225",
+        "episode": "Chapter 39"
+    },
+    {
+        "title": "Bebih Deep Kolektor",
+        "poster": "https://i3.wp.com/komiklokal.me/wp-content/uploads/2022/07/Deep-Kolektor.jpg?resize=165,225",
+        "episode": "Chapter 01",
+        "link": "https://www.mediafire.com/file/i0ciaeg8s0p7u4h/bebiholic+-+deepkolektor.pdf/file"
+    },
+    {
+        "title": "Madloki Wife Trip",
+        "poster": "https://i1.wp.com/komiklokal.me/wp-content/uploads/2022/02/MAdloki-Wife-Trip-Chapter-1.jpg?resize=165,225",
+        "episode": "Chapter 02",
+        "link": "https://www.mediafire.com/file/ljrmcktxh4bra4p/Madloki+-+Wife+Trip+Chp.2.pdf/file"
+    },
+    {
+        "title": "My Sister Duty",
+        "poster": "https://i0.wp.com/komiklokal.me/wp-content/uploads/2022/07/My-Sister-Duty.jpg?resize=165,225",
+        "episode": "Chapter 110"
+    },
+    {
+        "title": "MILF Paradise",
+        "poster": "https://i3.wp.com/komiklokal.me/wp-content/uploads/2022/07/Milf-Paradis.png?resize=165,225",
+        "episode": "Chapter 20"
+    },
+    {
+        "title": "Understanding of Flirting",
+        "poster": "https://i2.wp.com/komiklokal.me/wp-content/uploads/2022/06/Understanding-of-Flirting-1.jpg?resize=165,225",
+        "episode": "Chapter 32",
+        "link": "https://www.mirrored.to/files/10ZYE4QM/[Doudesu]_Understanding_of_Flirting_32.pdf_links"
+    },
+    {
+        "title": "I Live With Sister-in-Law",
+        "poster": "https://i3.wp.com/komiklokal.me/wp-content/uploads/2022/06/CWAiwOQik25PHZcx5YDdIrza3RrTH1.png?resize=165,225",
+        "episode": "Chapter 32 END"
+    },
+    {
+        "title": "What Do I Do Now?",
+        "poster": "https://i0.wp.com/komiklokal.me/wp-content/uploads/2022/07/What-Do-I-Do-Now.jpg?resize=165,225",
+        "episode": "Chapter 39",
+        "link": "https://www.mirrored.to/files/TDZOMMPS/"
+    },
+    {
+        "title": "My Sister’s Friends",
+        "poster": "https://i3.wp.com/komiklokal.me/wp-content/uploads/2022/04/My-Sisters-Friends.jpg?resize=165,225",
+        "episode": "Chapter 28",
+        "link": "https://www.mirrored.to/files/J9II9ANE/[Doudesu]_My_Sister_s_Friend_28.pdf_links"
+    },
+    {
+        "title": "Resume",
+        "poster": "https://i0.wp.com/komiklokal.me/wp-content/uploads/2022/06/Resume.jpg?resize=165,225",
+        "episode": "Chapter 11",
+        "link": "https://www.mirrored.to/files/MOY188AZ/[Doudesu]_Resume_11.pdf_links"
+    },
+    {
+        "title": "Eskrim Guin dan Rafaela",
+        "poster": "https://i2.wp.com/komiklokal.me/wp-content/uploads/2022/07/Eskrim-Guin-dan-Rafaela.jpg?resize=165,225",
+        "episode": "Chapter 01",
+        "link": "https://www.solidfiles.com/v/peWwZNWLV8qy5"
+    },
+    {
+        "title": "Kaikan Sprint",
+        "poster": "https://i2.wp.com/komiklokal.me/wp-content/uploads/2022/07/Kaikan-Sprint.jpg?resize=165,225",
+        "episode": "Chapter 01",
+        "link": "https://www.mirrored.to/files/5UPR0RGU/[Doudesu]_Kaikan_Sprint.pdf_links"
+    },
+    {
+        "title": "Apakah Ini Bisa Masuk?",
+        "poster": "https://i0.wp.com/komiklokal.me/wp-content/uploads/2022/07/Apakah-Ini-Bisa-MAsuk.jpg?resize=165,225",
+        "episode": "Chapter 01",
+        "link": "https://www.mirrored.to/files/1UI1JQZB/[Doudesu]_Kore_tte_Aishou_desu_ka.pdf_links"
+    },
+    {
+        "title": "Mamaku",
+        "poster": "https://i2.wp.com/komiklokal.me/wp-content/uploads/2022/07/Mamaku.jpg?resize=165,225",
+        "episode": "Chapter 02",
+        "link": "https://www.mirrored.to/files/XTF6SM6Z/[Doudesu]_My_Mother_Special.pdf_links"
+    },
+    {
+        "title": "S-Mate",
+        "poster": "https://i0.wp.com/komiklokal.me/wp-content/uploads/2022/07/S-Mate.jpg?resize=165,225",
         "episode": "Chapter 20"
     },
     {
