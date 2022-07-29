@@ -42,11 +42,6 @@ $(function () {
         "link": "https://streamtape.xyz/e/YqbVLlMypmcvJbp/Tata_Hard2.mp4"
     },
     {
-        "title": "Baby13 Barbar 03.mp4",
-        "poster": "https://thumb.tapecontent.net/thumb/rDBrpeBoLgTYOm/yPqzLYGZrkC1Zwk.jpg",
-        "link": "https://streamtape.xyz/e/eomavAebAdTYPqo/Tante_Viona_Montok_Colmek_Bling2.mp4"
-    },
-    {
         "title": "Baby13 Neng Toge Jumbo Colmek.mp4",
         "poster": "https://thumb.tapecontent.net/thumb/lljRJWxkY9t7xBW/oLOMZkDKBBCJ8D8.jpg",
         "link": "https://streamtape.xyz/e/jA6MqAWa6wtzl98/Tante_Mulus_Sexy.mp4"

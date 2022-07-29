@@ -6875,7 +6875,7 @@ $(function () {
   callback: function (data, pagination) {
       var dataHtml = '';
       $.each(data, function (index, item) {
-          dataHtml += '<div class="row sort-item"><a href="http://adf.ly/19888345/' + item.link + '"  style="color:black"><img id="poster" src="' + item.poster + '" alt="' + item.title + '" width="100%" style="max-inline-size: 100%;block-size: auto;aspect-ratio: 3/4;object-fit: cover;border-radius:5px"></a><span class="kategori-komik">'+ item.episode +'</span><p id="judul-komik" align="left" style="margin-top:-1px"><b>' + item.title + '</b></p></div>';
+          dataHtml += '<div class="row sort-item"><a href="http://adf.ly/19888345/' + item.link + '"  style="color:black"><img id="poster" src="' + item.poster + '" alt="' + item.title + '" width="100%" style="max-inline-size: 100%;block-size: auto;aspect-ratio: 3/4;object-fit: cover;border-radius:5px;max-inline-size: 100%;block-size: auto;aspect-ratio: 3/4;object-fit: cover;}"></a><span class="kategori-komik">'+ item.episode +'</span><p id="judul-komik" align="left" style="margin-top:-1px"><b>' + item.title + '</b></p></div>';
           });
 
           $("#data-komik").html(dataHtml);

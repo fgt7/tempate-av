@@ -6,12 +6,6 @@ a {
   color:white;
   text-decoration:none;
 }
-img {
-  max-inline-size: 100%;
-  block-size: auto;
-  aspect-ratio: 3/4;
-  object-fit: cover;
-}
 @media (max-width: 800px) {
   .grid-movie {
     grid-template-rows: 225px ;
