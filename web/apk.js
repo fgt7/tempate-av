@@ -4,7 +4,7 @@ $(function () {
   pageSize: 30,
   showPageNumbers: false,
   showNavigator: true,
-  formatNavigator: 'Hal. ke-<span style="color: #f00"><b><%= currentPage %></span></b>, <b><%= totalPage %></b> Halaman, <b><%= totalNumber %></b> Aplikasi',
+  formatNavigator: 'Hal. ke-<span style="color: #f00"><b><%= currentPage %></span></b>, <b><%= totalPage %></b> Halaman, Total Aplikasi <b><%= totalNumber %></b>',
   showGoInput: true,
   showGoButton: true,
   formatGoInput: 'Menuju halaman ke- <%= input %>',

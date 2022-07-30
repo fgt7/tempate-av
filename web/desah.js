@@ -3,7 +3,7 @@ $((function() {
 		pageSize: 20,
 		showPageNumbers: !1,
 		showNavigator: !0,
-		formatNavigator: 'Hal. ke-<span style="color: #f00"><b><%= currentPage %></span></b>, <b><%= totalPage %></b> Halaman, <b><%= totalNumber %></b> Desah',
+		formatNavigator: 'Hal. ke-<span style="color: #f00"><b><%= currentPage %></span></b>, <b><%= totalPage %></b> Halaman, Total Desah <b><%= totalNumber %></b>',
 		showGoInput: !0,
 		showGoButton: !0,
 		formatGoInput: "Menuju halaman ke- <%= input %>",
