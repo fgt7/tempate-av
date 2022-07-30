@@ -68,6 +68,41 @@
     <title>Ruang Imajinasi | Nonton Bokep & Cari Asupan Terlengkap</title>
 
     <style>
+      html, body {
+        overflow-x: hidden;
+        width:100%;
+        padding-bottom:60px;
+      }
+      .float{
+      	position:fixed;
+      	z-index: 999;
+      	width:50px;
+      	height:50px;
+      	bottom:130px;
+      	right:20px;
+      	background-color:#2d2c4d;
+      	color:#FFF;
+      	border-radius:50px;
+      	text-align:center;
+      	box-shadow: 2px 2px 3px #999;
+      }
+      #goTop {
+        display: inline-block;
+        background-color: #2d2c4d;
+        width: 50px;
+        height: 50px;
+        text-align: center;a
+        border-radius: 4px;
+        position: fixed;
+        bottom: 185px;
+        right: 20px;
+        transition: background-color .3s, 
+        opacity .5s, visibility .5s;
+        opacity: 0;
+        visibility: hidden;
+        z-index: 1000;
+        border-radius: 50%;
+      }
       .grid-bokep {
         width: 100%;
         list-style: none;
@@ -424,9 +459,6 @@
 </div>
 
 <div id="offcanvasAds" aria-labelledby="offcanvasBottomLabel" style="height:115px;background-color:#f7f7f7">
-  <div class="position-absolute top-0 end-0 translate-middle"  style="background-color:#f7f7f7;margin-top:-10px;margin-right:-17px;border-top-left-radius:10px;padding:5px">
-      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
-  </div>
   <div class="offcanvas-header" align="center">
     <div class="position-absolute top-0 start-50 translate-middle-x">
       <!-- JuicyAds v3.0 -->
