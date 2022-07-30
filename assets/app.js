@@ -22,10 +22,6 @@ m = n.getMonth() + 1;
 d = n.getDate();
 document.getElementById("date").innerHTML = "Tanggal " + d + "/" + m + "/" + y;
 
-$("#bugil-tab").on("click", function() {
-    $("#offcanvasAds").offcanvas.show;
-});
-
 history.pushState(null, null, location.href);
 window.onpopstate = () => {
   history.go(1)

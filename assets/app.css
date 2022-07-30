@@ -1,6 +1,7 @@
 html, body {
   overflow-x: hidden;
   width:100%;
+  padding-bottom:60px;
 }
 a {
   color:white;
@@ -438,7 +439,7 @@ video::-webkit-media-controls-timeline {
   text-align: center;a
   border-radius: 4px;
   position: fixed;
-  bottom: 75px;
+  bottom: 185px;
   right: 20px;
   transition: background-color .3s, 
   opacity .5s, visibility .5s;
@@ -755,7 +756,7 @@ p {
 	z-index: 999;
 	width:50px;
 	height:50px;
-	bottom:20px;
+	bottom:130px;
 	right:20px;
 	background-color:#2d2c4d;
 	color:#FFF;
@@ -916,4 +917,12 @@ video {
   /* override other styles to make responsive */
   width: 100%    !important;
   height: auto   !important;
+}
+
+#offcanvasAds {
+  background-color: #333;
+  overflow: hidden;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
