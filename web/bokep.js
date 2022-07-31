@@ -1,16 +1,4 @@
-$(function () {
-  let container = $('#page-bokep');
-  container.pagination({
-  pageSize: 100,
-  showPageNumbers: false,
-  showNavigator: true,
-  formatNavigator: 'Hal. ke-<span style="color: #f00"><b><%= currentPage %></span></b>, <b><%= totalPage %></b> Halaman, Total Video <b><%= totalNumber %></b>',
-  showGoInput: true,
-  showGoButton: true,
-  formatGoInput: 'Menuju halaman ke- <%= input %>',
-  position: 'top',
-  className: 'paginationjs-theme-blue',
-  dataSource: [
+var data = [
     {
         "title": "Jilbab Ganas Aksi Binal  (9)",
         "poster": "https://img.doodcdn.co/snaps/jgvpcezlv807zr0m.jpg",
@@ -31721,12 +31709,26 @@ $(function () {
 				link: "https://videovard.sx/e/crkzw42ie8ts",
 				poster: "https://thumbs.videovard.sx/mqcl2hhfkx8v_t.jpg"
 			}
-  ],
+  ];
+  
+  $(function () {
+  let container = $('#page-bokep');
+  container.pagination({
+  pageSize: 100,
+  showPageNumbers: false,
+  showNavigator: true,
+  formatNavigator: 'Hal. ke-<span style="color: #f00"><b><%= currentPage %></span></b>, <b><%= totalPage %></b> Halaman, Total Video <b><%= totalNumber %></b>',
+  showGoInput: true,
+  showGoButton: true,
+  formatGoInput: 'Menuju halaman ke- <%= input %>',
+  position: 'top',
+  className: 'paginationjs-theme-blue',
+  dataSource: data,
   
   callback: function (data, pagination) {
       var dataHtml = '';
       $.each(data, function (index, item) {
-          dataHtml += '<div class="row sort-item"><a href="' + item.link + '"  style="color:black"><img id="poster" src="' + item.poster + '"  alt="' + item.title + '" width="100%" style="max-inline-size: 100%;block-size: auto;aspect-ratio: 16/9;object-fit: cover;border-radius:5px"></a><h6 id="judul-bokep" align="left">' + item.title + '</h6></div>';
+          dataHtml += '<div id="video-bokep"><div class="row sort-item"><a href="' + item.link + '"  style="color:black"><img id="poster" src="' + item.poster + '"  alt="' + item.title + '" width="100%" style="max-inline-size: 100%;block-size: auto;aspect-ratio: 16/9;object-fit: cover;border-radius:5px"></a><h6 id="judul-bokep" align="left">' + item.title + '</h6></div></div>';
           });
 
           $("#data-bokep").html(dataHtml);

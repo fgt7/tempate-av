@@ -1,16 +1,4 @@
-$(function () {
-  let container = $('#page-bugil');
-  container.pagination({
-  pageSize: 30,
-  showPageNumbers: false,
-  showNavigator: true,
-  formatNavigator: 'Hal. ke-<span style="color: #f00"><b><%= currentPage %></span></b>, <b><%= totalPage %></b> Halaman, Total Photo <b><%= totalNumber %></b>',
-  showGoInput: true,
-  showGoButton: true,
-  formatGoInput: 'Menuju halaman ke- <%= input %>',
-  position: 'top',
-  className: 'paginationjs-theme-blue',
-  dataSource: [
+var bugil =  [
     {
         "link": "https://telegra.ru.com/p/4d77bd04x1bd89e8180be4dc6cdce5638ba9862676d077ffc"
     },
@@ -37071,7 +37059,21 @@ $(function () {
     {
         "link": "https://telegra.ph/file/b6815832a7d6556b1aa73.jpg"
     },
-],
+]
+
+$(function () {
+  let container = $('#page-bugil');
+  container.pagination({
+  pageSize: 30,
+  showPageNumbers: false,
+  showNavigator: true,
+  formatNavigator: 'Hal. ke-<span style="color: #f00"><b><%= currentPage %></span></b>, <b><%= totalPage %></b> Halaman, Total Photo <b><%= totalNumber %></b>',
+  showGoInput: true,
+  showGoButton: true,
+  formatGoInput: 'Menuju halaman ke- <%= input %>',
+  position: 'top',
+  className: 'paginationjs-theme-blue',
+  dataSource: bugil,
   
   callback: function (data, pagination) {
       var dataHtml = '';

@@ -132,8 +132,14 @@ div.dark {
   background-color: #292c35;
   color: white;
 }
+.cariBokep {
+  margin-right:13px;
+  margin-top:16px;
+}
 .darkmode {
-  padding-right:8px;
+  padding:8px;
+  margin-right:60px;
+  margin-top:13px;
 }
 .checkbox {
   opacity: 0;
@@ -924,4 +930,38 @@ video {
   position: fixed;
   bottom: 0;
   width: 100%;
+}
+
+#blog-wrap #hidden-div {
+  display: none;
+}
+
+#searchText {
+  width: 100%;
+  font-size: 17px;
+  border: 1px solid #ddd;
+  background: #E9EEF0;
+  border: 1px solid #D5D9DB;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'><path fill='%238C92A0' d='M11.44 10.73l4.41 4.42a.5.5 0 1 1-.7.7l-4.42-4.41a6.5 6.5 0 1 1 .7-.7v-.01zM6.5 12a5.5 5.5 0 1 0 0-11 5.5 5.5 0 0 0 0 11z'></path></svg>");
+  background-repeat: no-repeat;
+  background-position: 15px 10px;
+  background-size: 18px 18px;
+  width: 100%;
+  border-radius: 20px;
+  padding: .5em .3em .3em 2.5em;
+} 
+#searchText::placeholder{
+  color: #838D99;
+}
+#searchText:focus {
+  outline: none;
+  background-color: #FFF;
+  border: 1px solid #84A2FA;
+}
+
+#output {
+  padding: 10px;
+  margin-top: 0px;
+  color:black;
+  text-align: center;
 }
