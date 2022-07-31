@@ -924,14 +924,6 @@ video {
   height: auto   !important;
 }
 
-#offcanvasAds {
-  background-color: #333;
-  overflow: hidden;
-  position: fixed;
-  bottom: 0;
-  width: 100%;
-}
-
 #blog-wrap #hidden-div {
   display: none;
 }
