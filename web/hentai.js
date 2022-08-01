@@ -12,6 +12,46 @@ $(function () {
   className: 'paginationjs-theme-blue',
   dataSource: [
     {
+        "title": "搾精病棟 THE ANIMATION 第2巻 ～クロカワ編～",
+        "poster": "https://ovacovid.com/wp-content/uploads/2022/07/搾精病棟-THE-ANIMATION-第2巻-～クロカワ編～.jpg",
+        "link": "https://ovacovid.com/%e6%90%be%e7%b2%be%e7%97%85%e6%a3%9f-the-animation-%e7%ac%ac2%e5%b7%bb-%ef%bd%9e%e3%82%af%e3%83%ad%e3%82%ab%e3%83%af%e7%b7%a8%ef%bd%9e/"
+    },
+    {
+        "title": "同級生リメイク THE ANIMATION 第1巻",
+        "poster": "https://ovacovid.com/wp-content/uploads/2022/07/同級生リメイク-THE-ANIMATION-第1巻.jpg",
+        "link": "https://ovacovid.com/%e5%90%8c%e7%b4%9a%e7%94%9f%e3%83%aa%e3%83%a1%e3%82%a4%e3%82%af-the-animation-%e7%ac%ac1%e5%b7%bb/"
+    },
+    {
+        "title": "コンビニ○○Z 第四話 あなた、コンビニマネですよね。本社に万引きがバレていいんですか？",
+        "poster": "https://ovacovid.com/wp-content/uploads/2022/07/コンビニ○○Z-第四話-あなた、コンビニマネですよね。本社に万引きがバレていいんですか？.jpg",
+        "link": "https://ovacovid.com/%e3%82%b3%e3%83%b3%e3%83%93%e3%83%8b%e2%97%8b%e2%97%8bz-%e7%ac%ac%e5%9b%9b%e8%a9%b1-%e3%81%82%e3%81%aa%e3%81%9f%e3%80%81%e3%82%b3%e3%83%b3%e3%83%93%e3%83%8b%e3%83%9e%e3%83%8d%e3%81%a7%e3%81%99/"
+    },
+    {
+        "title": "ハヂ＋ ～晒される羞チ心～",
+        "poster": "https://ovacovid.com/wp-content/uploads/2022/07/ハヂ＋-～晒される羞チ心～.jpg",
+        "link": "https://ovacovid.com/%e3%83%8f%e3%83%82%ef%bc%8b-%ef%bd%9e%e6%99%92%e3%81%95%e3%82%8c%e3%82%8b%e7%be%9e%e3%83%81%e5%bf%83%ef%bd%9e/"
+    },
+    {
+        "title": "SLEEPLESS ～A Midsummer Night’s Dream～ The Animation 上巻",
+        "poster": "https://ovacovid.com/wp-content/uploads/2022/07/SLEEPLESS-～A-Midsummer-Nights-Dream～-The-Animation-上巻.jpg",
+        "link": "https://ovacovid.com/sleepless-%ef%bd%9ea-midsummer-nights-dream%ef%bd%9e-the-animation-%e4%b8%8a%e5%b7%bb/"
+    },
+    {
+        "title": "SUMMER ～田舎の性活～ 第一話 日焼けの跡とスクール水着",
+        "poster": "https://ovacovid.com/wp-content/uploads/2022/07/SUMMER-～田舎の性活～-第一話-日焼けの跡とスクール水着.jpg",
+        "link": "https://ovacovid.com/summer-%ef%bd%9e%e7%94%b0%e8%88%8e%e3%81%ae%e6%80%a7%e6%b4%bb%ef%bd%9e-%e7%ac%ac%e4%b8%80%e8%a9%b1-%e6%97%a5%e7%84%bc%e3%81%91%e3%81%ae%e8%b7%a1%e3%81%a8%e3%82%b9%e3%82%af%e3%83%bc%e3%83%ab%e6%b0%b4/"
+    },
+    {
+        "title": "聖○○学園2 ～後編～ 剥奪された権力",
+        "poster": "https://ovacovid.com/wp-content/uploads/2022/07/聖○○学園2-～後編～-剥奪された権力.jpg",
+        "link": "https://ovacovid.com/%e8%81%96%e2%97%8b%e2%97%8b%e5%ad%a6%e5%9c%922-%ef%bd%9e%e5%be%8c%e7%b7%a8%ef%bd%9e-%e5%89%a5%e5%a5%aa%e3%81%95%e3%82%8c%e3%81%9f%e6%a8%a9%e5%8a%9b/"
+    },
+    {
+        "title": "ハーレム・カルト 2 side HAREM[宇場義行]",
+        "poster": "https://ovacovid.com/wp-content/uploads/2022/07/ハーレム・カルト-2-side-HAREM宇場義行.jpg",
+        "link": "https://ovacovid.com/%e3%83%8f%e3%83%bc%e3%83%ac%e3%83%a0%e3%83%bb%e3%82%ab%e3%83%ab%e3%83%88-2-side-harem%e5%ae%87%e5%a0%b4%e7%be%a9%e8%a1%8c/"
+    },
+    {
         "title": "夏休み明けの彼女は… 前編",
         "link": "https://ovacovid.com/wp-content/plugins/get-loom/video.php?id=9f67c2fbb32f404b85a63cd0db9683eb",
         "poster": "https://ovacovid.com/wp-content/uploads/2022/07/%E5%A4%8F%E4%BC%91%E3%81%BF%E6%98%8E%E3%81%91%E3%81%AE%E5%BD%BC%E5%A5%B3%E3%81%AF%E2%80%A6-%E5%89%8D%E7%B7%A8.jpg"
@@ -2730,7 +2770,7 @@ $(function () {
   callback: function (data, pagination) {
       var dataHtml = '';
       $.each(data, function (index, item) {
-          dataHtml += '<div class="row sort-item"><a href="' + item.link + '"  style="color:black"><img id="poster" src="' + item.poster + '" alt="' + item.title + '" width="100%" height="200" style="object-fit: cover;border-radius:10px;max-inline-size: 100%;block-size: auto;aspect-ratio: 3/4;object-fit: cover;"></a><p id="judul-semi" align="left"><b>' + item.title + '<b></p></div>';
+          dataHtml += '<div class="row sort-item"><a href="http://adf.ly/19888345/' + item.link + '"  style="color:black"><img id="poster" src="' + item.poster + '" alt="' + item.title + '" width="100%" height="200" style="object-fit: cover;border-radius:10px;max-inline-size: 100%;block-size: auto;aspect-ratio: 3/4;object-fit: cover;"></a><p id="judul-semi" align="left"><b>' + item.title + '<b></p></div>';
           });
 
           $("#data-hentai").html(dataHtml);
