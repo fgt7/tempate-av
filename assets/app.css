@@ -33,6 +33,12 @@ a {
   margin-left:-10px;
   margin-top:-2px;
 }
+.mylogos2 {
+  width:214px;
+  height:30px;
+  margin-bottom:40px;
+  margin-top:20px;
+}
 .smartbanner {
   width:100%;
   font-family: "Helvetica Neue", helvetica, arial, sans-serif;
@@ -954,12 +960,17 @@ video {
 #output {
   padding: 10px;
   margin-top: 0px;
-  color:black;
+  color:white;
   text-align: center;
 }
 .modal-header {
-  height:50px;
+  height:53px;
 }
 .modal {
   z-index: 9999;
+}
+.fa-home {
+  color: white;
+  font-size: 16pt;
+  margin: 10px;
 }
