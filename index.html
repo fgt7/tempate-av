@@ -361,37 +361,30 @@
   </div>
 </div>
 
-<div class="offcanvas offcanvas-bottom" tabindex="-1" id="offcanvasBottom" aria-labelledby="offcanvasBottomLabel" style="height:310px">
+<div class="offcanvas offcanvas-bottom" tabindex="-1" id="offcanvasBottom" aria-labelledby="offcanvasBottomLabel" style="height:270px">
   <div class="offcanvas-header">
-    <h2 class="offcanvas-title" id="offcanvasBottomLabel" style="font-size:15pt">Form Request</h2>
+    <h5 class="offcanvas-title" id="offcanvasBottomLabel">Hubungi Admin</h5>
     <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
   </div>
-  <div class="offcanvas-body small">
-    <div id="donasi">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-6">
-            <div class="alert alert-success alert-dismissible fade show d-none my-alert" role="alert">
-              <strong>Terima Kasih!</strong> Pesan anda sudah kami terima.
-              <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
-            </div>
-            <form name="ruang-imajinasi-form">
-              <label class="from-label mb-2" for="pesan" style="font-size:14pt">Pesan :</label>
-              <div class="mb-3">
-                <textarea class="form-control" id="pesan" rows="4" name="pesan"></textarea>
-              </div>
-              
-              <div class="d-flex justify-content-center">
-                <button type="submit" class="btn btn-primary btn-kirim">Kirim</button>
-                <button class="btn btn-primary btn-loading d-none" type="button" disabled>
-                <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
-                Loading...
-                </button>
-              </div>
-            
-            </form>
-          </div>
+  <div class="offcanvas-body">
+    <div class="row" style="margin-top:-10px">
+      <div class="container-md-12">
+        <div class="alert alert-success alert-dismissible fade show d-none my-alert" role="alert">
+          <strong>Terima Kasih!</strong> Pesan anda sudah kami terima.
+          <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
         </div>
+        <form name="ruang-imajinasi-form">
+          <div class="mb-3">
+            <textarea class="form-control" id="pesan" placeholder="Tulis pesan" rows="4" name="pesan"></textarea>
+          </div>
+          <div class="d-flex justify-content-center">
+            <button type="submit" class="btn btn-primary btn-kirim">Kirim</button>
+            <button class="btn btn-primary btn-loading d-none" type="button" disabled>
+            <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
+            Loading...
+            </button>
+          </div>
+        </form>
       </div>
     </div>
   </div>

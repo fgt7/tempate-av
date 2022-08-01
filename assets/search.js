@@ -24,6 +24,10 @@ $("#searchText, #searchField").on("change paste keyup", function() {
 	var html = template(searchResult);
 
 	$("#output").html(html);
+	$("#data-bokep").css({"display":"none"});
+	$(".judul-awal").css({"display":"none"});
+	$(".player").css({"display":"none"});
+	$(".menupage").css({"display":"none"});
 	$("#output").prepend("Ditemukan <b>" + searchResult.length + "</b> Video. Total Video <b>" + data.length +"</b");
 });
 

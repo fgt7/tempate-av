@@ -957,9 +957,6 @@ video {
   color:black;
   text-align: center;
 }
-.modal {
-  z-index: 9999;
-}
 .modal-header {
   height:50px;
 }
