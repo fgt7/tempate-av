@@ -1,5 +1,65 @@
 var data = [
     {
+        "title": "Host Cantik Berkacamata Colmek Idaman Pascol",
+        "poster": "https://img.doodcdn.co/snaps/ts21oh1xla8r3jvl.jpg",
+        "link": "https://dood.la/e/63gnwcbzlxn3"
+    },
+    {
+        "title": "BOKEP JEPANG SUSTER CANTIK DI EWE PASIEN",
+        "poster": "https://img.doodcdn.co/snaps/g3vj1nok3dy27coa.jpg",
+        "link": "https://dood.la/e/9bmvrrmygoik"
+    },
+    {
+        "title": "BOKEP JEPANG NGEWE PACAR CANTIK",
+        "poster": "https://img.doodcdn.co/snaps/ttbdymp9d93ls6hx.jpg",
+        "link": "https://dood.la/e/une4o7s3stvq"
+    },
+    {
+        "title": "Yang suka t0ge nih cantik bening mulu5",
+        "poster": "https://img.doodcdn.co/snaps/cmi92hlrybjgjh5r.jpg",
+        "link": "https://dood.la/e/hoqhdsxfpi1e"
+    },
+    {
+        "title": "Jilbab Ngentot Di Dapur Sama Guru Agama - DoodStream",
+        "poster": "https://img.doodcdn.co/snaps/xy8p81e9zwocxkwx.jpg",
+        "link": "https://dood.la/e/n8akyp66ajqh"
+    },
+    {
+        "title": "BOCIL DI POS RONDA 8 MENIT - DoodStream",
+        "poster": "https://img.doodcdn.co/snaps/873mk7r7jjzhqhv6.jpg",
+        "link": "https://dood.la/e/kcomf72lrr3p"
+    },
+    {
+        "title": "Anal Bocil",
+        "poster": "https://img.doodcdn.co/snaps/k41q52kgwvuvaf9e.jpg",
+        "link": "https://dood.la/e/h28pouch5j1b"
+    },
+    {
+        "title": "hijab kacamata nyepong - DoodStream",
+        "poster": "https://img.doodcdn.co/snaps/be7glh935i5bcjjh.jpg",
+        "link": "https://dood.la/e/aa9dq0k4h9pw"
+    },
+    {
+        "title": "HIJAB YANG PERNAH VIRAL",
+        "poster": "https://img.doodcdn.co/snaps/e4kysw307c0eaw9c.jpg",
+        "link": "https://dood.la/e/sbfyyo2mhqbw"
+    },
+    {
+        "title": "Hijab sangeee",
+        "poster": "https://img.doodcdn.co/snaps/w3jdxjq8h3t4qfno.jpg",
+        "link": "https://dood.la/e/8b5bu20h5waw"
+    },
+    {
+        "title": "hijab porn 856 videos found on Yandex-Embed Player",
+        "poster": "https://img.doodcdn.co/snaps/tmffksjop3smgfut.jpg",
+        "link": "https://dood.la/e/ydyzpw11w2qw"
+    },
+    {
+        "title": "MINIKMATI HIJAB BINOR DI KAMAR",
+        "poster": "https://img.doodcdn.co/snaps/8vwsjujn5uru9zu5.jpg",
+        "link": "https://dood.la/e/biorj8yf0e0r"
+    },
+    {
         "title": "Pap TT buat Doi yang lagi viral nih!",
         "poster": "https://img.doodcdn.co/snaps/wpxyivatcugubq2f.jpg",
         "link": "https://dood.la/e/nlitkaoc34yz"
@@ -31892,11 +31952,12 @@ var data = [
   
   callback: function (data, pagination) {
       var dataHtml = '';
-      $.each(data, function (index, item) {
-          dataHtml += '<div id="video-bokep"><div class="row sort-item"><a href="' + item.link + '"  style="color:black"><img id="poster" src="' + item.poster + '"  alt="' + item.title + '" width="100%" style="max-inline-size: 100%;block-size: auto;aspect-ratio: 16/9;object-fit: cover;border-radius:5px"></a><h6 id="judul-bokep" align="left">' + item.title + '</h6></div></div>';
+      data.forEach((item, i)=>{
+          dataHtml += '<div id="video-bokep"><div class="row sort-item"><a href="' + item.link + '" data-obj="'+i+'" style="color:black"><img id="poster" src="' + item.poster + '"  alt="' + item.title + '" width="100%" style="max-inline-size: 100%;block-size: auto;aspect-ratio: 16/9;object-fit: cover;border-radius:5px"></a><h6 id="judul-bokep" align="left">' + item.title + '</h6></div></div>';
           });
 
           $("#data-bokep").html(dataHtml);
+          
         }
     })
   })

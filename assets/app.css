@@ -960,3 +960,6 @@ video {
 .modal-header {
   height:50px;
 }
+.modal {
+  z-index: 9999;
+}
