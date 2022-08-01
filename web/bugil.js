@@ -37138,7 +37138,7 @@ $(function () {
   callback: function (data, pagination) {
       var dataHtml = '';
       $.each(data, function (index, item) {
-          dataHtml += '<div style="padding-top:10px"><a href="'+item.link+'"><img width="100%" height="100%" src="' + item.link +'" alt="' + item.link + '" style="border-radius:5px;}"></img></a><div>';
+          dataHtml += '<div style="padding-top:10px"><a href="'+item.link+'"><img width="100%" height="100%" src="' + item.link +'" alt="' + item.link + '" style="border-radius:10px;}"></img></a><div>';
           });
 
           $("#data-bugil").html(dataHtml);

@@ -2730,7 +2730,7 @@ $(function () {
   callback: function (data, pagination) {
       var dataHtml = '';
       $.each(data, function (index, item) {
-          dataHtml += '<div class="row sort-item"><a href="' + item.link + '"  style="color:black"><img id="poster" src="' + item.poster + '" alt="' + item.title + '" width="100%" height="200" style="object-fit: cover;border-radius:5px;max-inline-size: 100%;block-size: auto;aspect-ratio: 3/4;object-fit: cover;"></a><p id="judul-semi" align="left"><b>' + item.title + '<b></p></div>';
+          dataHtml += '<div class="row sort-item"><a href="' + item.link + '"  style="color:black"><img id="poster" src="' + item.poster + '" alt="' + item.title + '" width="100%" height="200" style="object-fit: cover;border-radius:10px;max-inline-size: 100%;block-size: auto;aspect-ratio: 3/4;object-fit: cover;"></a><p id="judul-semi" align="left"><b>' + item.title + '<b></p></div>';
           });
 
           $("#data-hentai").html(dataHtml);
