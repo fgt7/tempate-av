@@ -343,13 +343,6 @@ div.dark {
   font-size:16pt;
   width:90%;
 }
-video::-webkit-media-controls-mute-button {
-  display: none !important;
-  opacity: 1 !important;}
-  
-video::-webkit-media-controls-timeline {
-  display: none !important;
-  opacity: 1 !important;}
 #judul-cersex {
   margin-bottom:7px;
   margin-top:4px;
@@ -974,3 +967,23 @@ video {
   font-size: 16pt;
   margin: 10px;
 }
+
+video::-webkit-media-controls-mute-button {
+  display: none !important;
+  opacity: 1 !important;}
+video::-webkit-media-controls-time-remaining-display {
+  display: none !important;
+  opacity: 1 !important;}
+video::-webkit-media-controls-timeline {
+  display: none !important;
+  opacity: 1 !important;}
+video::-webkit-media-controls-fullscreen-button {
+  display: none !important;
+  opacity: 1 !important;}
+video::-webkit-media-controls-current-time-display {
+  display: none !important;
+  opacity: 1 !important;}
+}
+video::-webkit-media-controls-timeline {
+  display: none !important;
+  opacity: 1 !important;}
