@@ -6,6 +6,17 @@ a {
   color:white;
   text-decoration:none;
 }
+hr {
+  margin-top:0px;
+  margin-bottom:0px;
+}
+.skip {
+  background-color: #212529;
+  font-size: 8pt;
+  text-align: center;
+  color:white;
+  padding:2px;
+}
 @media (max-width: 800px) {
   .grid-movie {
     grid-template-rows: 225px ;
@@ -36,8 +47,7 @@ a {
 .mylogos2 {
   width:214px;
   height:30px;
-  margin-bottom:40px;
-  margin-top:20px;
+  margin-top:11px;
 }
 .smartbanner {
   width:100%;
@@ -77,7 +87,7 @@ a {
 .smartbanner-button{
   position:absolute;
   right:15px;
-  top:14px;
+  top:17px;
   border-bottom:3px solid #2d2c4d;
   padding:0 5px;
   min-width:10%;
@@ -129,6 +139,7 @@ a {
 .navbar-brand {
   color:white;
   margin-left:3px;
+  margin-top:-3px;
 }
 body.dark {
   background-color: #292c35;
@@ -232,7 +243,6 @@ div.dark {
   color:white;
   text-align: center;
   font-size:18pt;
-  margin-bottom:-35px;
 }
 .disabled {
   opacity: .4;
@@ -433,6 +443,7 @@ div.dark {
   margin-top: 10px;
   border-radius: 7px;
   width:100px;
+  background-color: #2d2c4d;
 }
 
 #goTop {
@@ -898,7 +909,7 @@ p {
   height: 100%;
   padding-top: 3px;
   padding-left: 60px;
-  margin-bottom: 5px;
+  margin-bottom: 15px;
   padding-right: 0px;
 }
 
@@ -906,9 +917,7 @@ p {
   background-color: black;
   border-radius: 10px;
 }
-#tombol {
-  background-color: #2d2c4d;
-}
+
 video::-webkit-media-controls-mute-button {
 display: none !important;
 opacity: 1 !important;}
@@ -928,7 +937,6 @@ video {
 }
 
 #searchText {
-  width: 100%;
   font-size: 17px;
   border: 1px solid #ddd;
   background: #E9EEF0;
@@ -937,7 +945,7 @@ video {
   background-repeat: no-repeat;
   background-position: 15px 10px;
   background-size: 18px 18px;
-  width: 100%;
+  width: 70%;
   border-radius: 20px;
   padding: .5em .3em .3em 2.5em;
 } 
@@ -965,7 +973,6 @@ video {
 .fa-home {
   color: white;
   font-size: 16pt;
-  margin: 10px;
 }
 
 video::-webkit-media-controls-mute-button {
@@ -987,3 +994,19 @@ video::-webkit-media-controls-current-time-display {
 video::-webkit-media-controls-timeline {
   display: none !important;
   opacity: 1 !important;}
+  
+.content {
+  height: 100%;
+}
+
+.parallax-container {
+  position: relative;
+  height: 265px;
+}
+
+.parallax {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  z-index: -1;
+}
