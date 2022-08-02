@@ -3096,7 +3096,7 @@ $(function () {
   callback: function (data, pagination) {
       var dataHtml = '';
       $.each(data, function (index, item) {
-          dataHtml += '<div class="row sort-item"><a href="http://adf.ly/19888345/' + item.link + '"  style="color:black"><img id="poster" src="' + item.poster + '" alt="' + item.title + '" width="100%" height="200" style="object-fit: cover;border-radius:10px;max-inline-size: 100%;block-size: auto;aspect-ratio: 3/4;object-fit: cover;"></a><p id="judul-semi" align="left"><b>' + item.title + '</b></p></div>';
+          dataHtml += '<div class="row sort-item"><a href="https://droplink.co/st?api=8b8315c6bc13a8684492a125284cd883e95e6373&url=' + item.link + '"  style="color:black"><img id="poster" src="' + item.poster + '" alt="' + item.title + '" width="100%" height="200" style="object-fit: cover;border-radius:10px;max-inline-size: 100%;block-size: auto;aspect-ratio: 3/4;object-fit: cover;"></a><p id="judul-semi" align="left"><b>' + item.title + '</b></p></div>';
           });
 
           $("#data-semi").html(dataHtml);

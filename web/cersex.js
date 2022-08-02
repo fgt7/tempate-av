@@ -12,6 +12,176 @@ $(function () {
   className: 'paginationjs-theme-blue',
   dataSource: [
     {
+        "title": "Kisah Murid Yang Di Perkosa Guru",
+        "kategori": "Cersex Pemerkosaan",
+        "link": "https://telegra.ph/Kisah-Murid-Yang-Di-Perkosa-Guru-08-02"
+    },
+    {
+        "title": "Perkosa Pacar Adikku Yang Ganas",
+        "kategori": "Cersex Pemerkosaan",
+        "link": "https://telegra.ph/Perkosa-Pacar-Adikku-Yang-Ganas-08-02"
+    },
+    {
+        "title": "Kenikmatan Saat di Perkosa Security",
+        "kategori": "Cersex Pemerkosaan",
+        "link": "https://telegra.ph/Kenikmatan-Saat-di-Perkosa-Security-08-02"
+    },
+    {
+        "title": "Cerita Sex Dijebak Dan Diperkosa Managerku",
+        "kategori": "Cersex Pemerkosaan",
+        "link": "https://telegra.ph/Cerita-Sex-Dijebak-Dan-Diperkosa-Managerku-08-02"
+    },
+    {
+        "title": "Pengalaman Ku Memperkosa Pembantu Karena Bokep",
+        "kategori": "Cersex Pemerkosaan",
+        "link": "https://telegra.ph/Pengalaman-Ku-Memperkosa-Pembantu-Karena-Bokep-08-02"
+    },
+    {
+        "title": "Cerita Seks di Culik dan di Perkosa Part 2",
+        "kategori": "Cersex Pemerkosaan",
+        "link": "https://telegra.ph/Cerita-Seks-di-Culik-dan-di-Perkosa-Part-2-08-02"
+    },
+    {
+        "title": "Cerita Seks di Culik dan di Perkosa Part 1",
+        "kategori": "Cersex Pemerkosaan",
+        "link": "https://telegra.ph/Cerita-Seks-di-Culik-dan-di-Perkosa-Part-1-08-02"
+    },
+    {
+        "title": "Cerita Seks Dewasa Diperkosa Dua Negro",
+        "kategori": "Cersex Pemerkosaan",
+        "link": "https://telegra.ph/Cerita-Seks-Dewasa-Diperkosa-Dua-Negro-08-02"
+    },
+    {
+        "title": "SIALNYA AKU DIPERKOSA PERONDA MALAM",
+        "kategori": "Cersex Pemerkosaan",
+        "link": "https://telegra.ph/SIALNYA-AKU-DIPERKOSA-PERONDA-MALAM-08-02"
+    },
+    {
+        "title": "Cerita Sex Gadis Cantik Diperkosa Oleh Preman Part 2",
+        "kategori": "Cersex Pemerkosaan",
+        "link": "https://telegra.ph/Cerita-Sex-Gadis-Cantik-Diperkosa-Oleh-Preman-Part-2-08-02"
+    },
+    {
+        "title": "Cerita Sex Gadis Cantik Diperkosa Oleh Preman Part 1",
+        "kategori": "Cersex Pemerkosaan",
+        "link": "https://telegra.ph/Cerita-Sex-Gadis-Cantik-Diperkosa-Oleh-Preman-Part-1-08-02"
+    },
+    {
+        "title": "Cerita Sex Aku Di Perkosa Geng Gigolo Part 2",
+        "kategori": "Cersex Pemerkosaan",
+        "link": "https://telegra.ph/Cerita-Sex-Aku-Di-Perkosa-Geng-Gigolo-Part-2-08-02"
+    },
+    {
+        "title": "Cerita Sex Aku Di Perkosa Geng Gigolo Part 1",
+        "kategori": "Cersex Pemerkosaan",
+        "link": "https://telegra.ph/Cerita-Sex-Aku-Di-Perkosa-Geng-Gigolo-Part-1-08-02"
+    },
+    {
+        "title": "Cerita Dewasa Terbaru Nikmatnya Diperkosa Pak Lanang",
+        "kategori": "Cersex Pemerkosaan",
+        "link": "https://telegra.ph/Cerita-Dewasa-Terbaru-Nikmatnya-Diperkosa-Pak-Lanang-08-02"
+    },
+    {
+        "title": "Cerita Hot Terbaru Nikmatnya Diperkosa Pak Supri .",
+        "kategori": "Cersex Pemerkosaan",
+        "link": "https://telegra.ph/Cerita-Hot-Terbaru-Nikmatnya-Diperkosa-Pak-Supri-08-02"
+    },
+    {
+        "title": "Aku Harus Rela Diperkosa Dua Satpam Binal",
+        "kategori": "Cersex Pemerkosaan",
+        "link": "https://telegra.ph/Aku-Harus-Rela-Diperkosa-Dua-Satpam-Binal-08-02"
+    },
+    {
+        "title": "Aku Diperkosa di Bioskop Karena Dihipnotis",
+        "kategori": "Cersex Pemerkosaan",
+        "link": "https://telegra.ph/Aku-Diperkosa-di-Bioskop-Karena-Dihipnotis-08-02"
+    },
+    {
+        "title": "Cerita Pemerkosaan Gadis Penjaga Kasir Swalayan",
+        "kategori": "Cersex Pemerkosaan",
+        "link": "https://telegra.ph/Cerita-Pemerkosaan-Gadis-Penjaga-Kasir-Swalayan-08-02"
+    },
+    {
+        "title": "Pemerkosaan Dokter Amoy Muda yang Belagu",
+        "kategori": "Cersex Pemerkosaan",
+        "link": "https://telegra.ph/Pemerkosaan-Dokter-Amoy-Muda-yang-Belagu-08-02"
+    },
+    {
+        "title": "Ketagihan Diperkosa Tukang Becak Cs Part 2",
+        "kategori": "Cersex Pemerkosaan",
+        "link": "https://telegra.ph/Ketagihan-Diperkosa-Tukang-Becak-Cs-Part-2-08-02"
+    },
+    {
+        "title": "Ketagihan Diperkosa Tukang Becak Cs Part 1",
+        "kategori": "Cersex Pemerkosaan",
+        "link": "https://telegra.ph/Ketagihan-Diperkosa-Tukang-Becak-Cs-08-02"
+    },
+    {
+        "title": "Kagak Usah Di Perkosa Gua Mau",
+        "kategori": "Cersex Pemerkosaan",
+        "link": "https://telegra.ph/Kagak-Usah-Di-Perkosa-Gua-Mau-08-02"
+    },
+    {
+        "title": "Diperkosa Karena Mempunyai Wajah Cantik.",
+        "kategori": "Cersex Pemerkosaan",
+        "link": "https://telegra.ph/Diperkosa-Karena-Mempunyai-Wajah-Cantik-08-02"
+    },
+    {
+        "title": "kuperkosa Tanteku Yang Judes.",
+        "kategori": "Cersex Pemerkosaan",
+        "link": "https://telegra.ph/Kuperkosa-Tanteku-Yang-Judes-08-02"
+    },
+    {
+        "title": "Cerita Sex Jablay di Perkosa Habis-Habisan",
+        "kategori": "Cersex Pemerkosaan",
+        "link": "https://telegra.ph/Cerita-Sex-Jablay-di-Perkosa-Habis-Habisan-08-02"
+    },
+    {
+        "title": "Cerita Sex Ibu Diperkosa Anak Tirinya",
+        "kategori": "Cersex Pemerkosaan",
+        "link": "https://telegra.ph/Cerita-Sex-Ibu-Diperkosa-Anak-Tirinya-08-02"
+    },
+    {
+        "title": "Cerita Seks Pemerkosaan Artis Cantik Terkenal",
+        "kategori": "Cersex Pemerkosaan",
+        "link": "https://telegra.ph/Cerita-Seks-Pemerkosaan-Artis-Cantik-Terkenal-08-02"
+    },
+    {
+        "title": "Cerita Sex Aku Diperkosa Dosen Killer",
+        "kategori": "Cersex Pemerkosaan",
+        "link": "https://telegra.ph/Cerita-Sex-Aku-Diperkosa-Dosen-Killer-08-02"
+    },
+    {
+        "title": "Diperkosa Tukang Pijat Tapi Enak",
+        "kategori": "Cersex Pemerkosaan",
+        "link": "https://telegra.ph/Diperkosa-Tukang-Pijat-Tapi-Enak-08-02"
+    },
+    {
+        "title": "Aku Di Adopsi Hanya Untuk Diperkosa",
+        "kategori": "Cersex Pemerkosaan",
+        "link": "https://telegra.ph/Aku-Di-Adopsi-Hanya-Untuk-Diperkosa-08-02"
+    },
+    {
+        "title": "KUperkosa Tanteku Saat Masak",
+        "kategori": "Cersex Pemerkosaan",
+        "link": "https://telegra.ph/Kuperkosa-Tanteku-Saat-Masak-08-02"
+    },
+    {
+        "title": "Cerita Sex Pemerkosaan Awalnya Ditipu",
+        "kategori": "Cersex Pemerkosaan",
+        "link": "https://telegra.ph/Cerita-Sex-Pemerkosaan-Awalnya-Ditipu-08-02"
+    },
+    {
+        "title": "Cerita Dewasa Dewi Keenakan Diperkosa Perampok",
+        "kategori": "Cersex Pemerkosaan",
+        "link": "https://telegra.ph/Cerita-Dewasa-Dewi-Keenakan-Diperkosa-Perampok-08-02"
+    },
+    {
+        "title": "Cerita Sex Kuli Bangunan Memperkosaku Di Dapur",
+        "kategori": "Cersex Pemerkosaan",
+        "link": "https://telegra.ph/Cerita-Sex-Kuli-Bangunan-Memperkosaku-Di-Dapur-08-02"
+    },
+    {
         "title": "Teman sebangku",
         "kategori": "Cersex Gay",
         "link": "https://telegra.ph/Teman-sebangku-07-29"
@@ -1271,7 +1441,7 @@ $(function () {
   callback: function (data, pagination) {
       var dataHtml = '';
       $.each(data, function (index, item) {
-          dataHtml += '<div class="row sort-item"><a href="http://adf.ly/19888345/' + item.link + '"  style="color:black"><p id="judul-cersex" align="left"><b>' + item.title + '</b></p><p style="margin-left:10px;font-size:14pt">'+ item.kategori +'</p></div>';
+          dataHtml += '<div class="row sort-item"><a href="https://droplink.co/st?api=8b8315c6bc13a8684492a125284cd883e95e6373&url=' + item.link + '"  style="color:black"><p id="judul-cersex" align="left"><b>' + item.title + '</b></p><p style="margin-left:10px;font-size:14pt">'+ item.kategori +'</p></div>';
           });
 
           $("#data-cersex").html(dataHtml);
