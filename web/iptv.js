@@ -274,7 +274,7 @@ $(function () {
 callback: function (data, pagination) {
       var dataHtml = '';
       $.each(data, function (index, item) {
-          dataHtml += '<tr><td><video id="poster" poster="' + item.poster + '" id="' + item.id + '" playsinline controls width="100%" height="100%"><source src="' + item.link + '" type="video/mp4"></video><div id="judul" align="center"><h5>' + item.title + '</h5></div><br></td><tr>';
+          dataHtml += '<tr><td><video id="poster" poster="' + item.poster + '" id="' + item.id + '" playsinline controls width="100%" height="100%"><source src="' + item.link + '" type="video/mp4"></video><div id="judul" align="center"><h5><b>' + item.title + '</b></h5></div><br></td><tr>';
           });
           dataHtml += '<tr>';
 
