@@ -741,7 +741,7 @@ $(function () {
   callback: function (data, pagination) {
       var dataHtml = '';
       $.each(data, function (index, item) {
-          dataHtml += '<div class="row sort-item"><a href="' + item.link + '" style="color:black"><img src="' + item.poster + '" alt="' + item.title + '" width="100%" style="max-inline-size: 100%;block-size: auto;height:100%;aspect-ratio: 1/1;object-fit:fill;border-radius:30px"></a><span id="judul-apk"><b>'+ item.title +'</b></span></div>';
+          dataHtml += '<div class="row sort-item"><a href="' + item.link + '" style="color:black"><img src="' + item.poster + '" alt="' + item.title + '" width="100%" loading=lazy style="max-inline-size:100%;block-size: auto;height:100%;aspect-ratio: 1/1;object-fit:fill;border-radius:30px"></a><span id="judul-apk"><b>'+ item.title +'</b></span></div>';
           });
 
           $("#data-apk").html(dataHtml);

@@ -1,3 +1,7 @@
+var lazyLoadInstance = new LazyLoad({
+  // Your custom settings go here
+});
+
 var btn = $('#goTop');
 $(window).scroll(function() {
   if ($(window).scrollTop() > 300) {
