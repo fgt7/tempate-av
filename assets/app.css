@@ -1034,3 +1034,14 @@ video::-webkit-media-controls-timeline {
   width: 100%;
   z-index: -1;
 }
+
+.full-width-image h1 {
+  color: #000;
+  font-size: 100%;
+  background-color: #fff;
+  display: inline-block;
+  border-radius:10px;
+  padding: 10px;
+  width:100%;
+  text-align: center;
+}
