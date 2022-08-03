@@ -275,12 +275,16 @@
 <div class="modal" id="cari-bokep" tabindex="-1" aria-labelledby="cari-bokepLabel" aria-hidden="true">
   <div class="modal-dialog modal-fullscreen modal-dialog-scrollable">
     <div class="modal-content text-white" style="background-color:#2d2c4d">
-      <div class="text-white">
-        <i class="fas fa-home" data-bs-dismiss="modal"></i>
+      <div class="modal-header">
+        <div class="text-white">
+          <i class="fas fa-home" data-bs-dismiss="modal"></i>
+        </div>
+        <div class="position-absolute top-0 start-50 translate-middle-x">
+          <img src="assets/img/logo.png" alt="Ruang Imajinasi Logo" class="mylogos2">
+        </div>
       </div>
-      <div class="modal-body" style="text-align:center">
-        <img src="assets/img/logo.png" alt="Ruang Imajinasi Logo" class="mylogos2">
-        <form>
+      <div class="container modal-body mt-10" align="center">
+        <form class="mt-5">
     			<div class="form-group">
     				<input id="searchText" class="form-control" type="text" placeholder="Cari bokep...">
       			<label style="display:none">
@@ -302,8 +306,8 @@
         	</div>
         	{{/each}}
         </script>
-        <hr style="visibility:hidden;margin-top:-20px">
-        <div class="row">
+        <hr style="visibility:hidden;margin-top:-10px">
+        <div class="container row">
         	<div id="output"></div>
         </div>
       </div>
@@ -469,17 +473,8 @@
   </script>-->
   
   <script>
-    var btn = $('#goTop');
-    $(window).scroll(function() {
-      if ($(window).scrollTop() > 200) {
-        btn.addClass('show');
-      } else {
-        btn.removeClass('show');
-      }
-    });
-    btn.on('click', function(e) {
-      e.preventDefault();
-      $('html, body').animate({scrollTop:0}, '0');
+    var lazyLoadInstance = new LazyLoad({
+      // Your custom settings go here
     });
   </script>
   
