@@ -221,7 +221,7 @@
   <i class="fa fa-envelope my-float"></i>
 </a>
 
-<nav class="navbar container">
+<nav class="navbar container" id="navbar_top" style="z-index:9999">
   <div class="container" style="color:white">
     <a class="navbar-brand" href="app.html">
       <img src="assets/img/logo.png" alt="Ruang Imajinasi Logo" class="mylogos">
@@ -242,7 +242,7 @@
   </div>
 </nav>
 
-<div id="navbar_top" style="z-index:9999">
+<div>
   <div class="container">
     <div class="nav-scroller">
       <div class="nav nav-justified">
@@ -467,6 +467,21 @@
       $("#myModal").modal("show");
     });
   </script>-->
+  
+  <script>
+    var btn = $('#goTop');
+    $(window).scroll(function() {
+      if ($(window).scrollTop() > 200) {
+        btn.addClass('show');
+      } else {
+        btn.removeClass('show');
+      }
+    });
+    btn.on('click', function(e) {
+      e.preventDefault();
+      $('html, body').animate({scrollTop:0}, '0');
+    });
+  </script>
   
   <script async type="application/javascript" src="https://a.realsrv.com/ad-provider.js"></script>
   <ins class="adsbyexoclick" data-zoneid="4754472"></ins>
