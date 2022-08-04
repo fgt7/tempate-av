@@ -304,9 +304,7 @@ div.dark {
   vertical-align: -0.200em;
 }
 .rounded-social-buttons {
-  margin-top:-5px;
-  padding-bottom:15px;
-  padding-left:3px;
+  margin-top:-20px;
 }
 .rounded-social-buttons .social-button {
   display: inline-block;
@@ -333,14 +331,14 @@ div.dark {
       -ms-transform: rotate(360deg);
           transform: rotate(360deg);
 }
-.rounded-social-buttons .fa-whatsapp, .fa-github, .fa-telegram-plane, .fa-youtube, .fa-instagram, .fa-linkedin {
+.rounded-social-buttons .fa-whatsapp, .fa-facebook, .fa-telegram-plane, .fa-twitter, .fa-instagram, .fa-linkedin {
   font-size: 19px;
   margin-bottom:11px;
 }
-.rounded-social-buttons .social-button.github {
+.rounded-social-buttons .social-button.facebook {
   background: #3b5998;
 }
-.rounded-social-buttons .social-button.github:hover, .rounded-social-buttons .social-button.github:focus {
+.rounded-social-buttons .social-button.facebook:hover, .rounded-social-buttons .social-button.facebook:focus {
   color: #3b5998;
   background: #fefefe;
   border-color: #3b5998;
@@ -361,13 +359,13 @@ div.dark {
   background: #fefefe;
   border-color: #007bb5;
 }
-.rounded-social-buttons .social-button.youtube {
-  background: #bb0000;
+.rounded-social-buttons .social-button.twitter {
+  background: #55ACEE;
 }
-.rounded-social-buttons .social-button.youtube:hover, .rounded-social-buttons .social-button.youtube:focus {
-  color: #bb0000;
+.rounded-social-buttons .social-button.twitter:hover, .rounded-social-buttons .social-button.twitter:focus {
+  color: #55ACEE;
   background: #fefefe;
-  border-color: #bb0000;
+  border-color: #55ACEE;
 }
 .rounded-social-buttons .social-button.instagram {
   background: #125688;
@@ -1044,68 +1042,4 @@ video::-webkit-media-controls-timeline {
   padding: 10px;
   width:100%;
   text-align: center;
-}
-
-.social-buttons {
-  list-style-type: none;
-  box-sizing: border-box;
-  *zoom: 1;
-  margin:-20px;
-  padding-top:15px;
-}
-.social-buttons:before,
-.social-buttons:after {
-  box-sizing: border-box;
-}
-.social-buttons:before,
-.social-buttons:after {
-  content: " ";
-  display: table;
-  line-height: 0;
-}
-.social-buttons:after {
-  clear: both;
-}
-.button__share {
-  float: left;
-  background-color: #888;
-  margin-right: .7em;
-  margin-bottom: .7em;
-  border-radius: 5px;
-}
-.button__share:last-child {
-  margin-right: 0;
-}
-.button__share:hover {
-  -moz-opacity: 0.8;
-  -khtml-opacity: 0.8;
-  -webkit-opacity: 0.8;
-  opacity: 0.8;
-  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(opacity=80);
-  filter: alpha(opacity=80);
-}
-.button__share a {
-  color: #fff;
-  font-family: Arial, Helvetica, -apple-system, sans-serif;
-  font-weight: 700;
-  font-style: normal;
-  line-height: 1.33;
-  text-decoration: none;
-  padding: .35em .7em;
-  display: inline-block;
-}
-.button__share--facebook {
-  background-color: #3b5998;
-}
-.button__share--twitter {
-  background-color: #55acee;
-}
-.button__share--telegram {
-  background-color: #007bb5;
-}
-.button__share--whatsapp {
-  background-color: green;
-}
-.button__share--instagram {
-  background-color: #125688;
 }
