@@ -4155,7 +4155,7 @@ const bokep = [
 
 function randomBokep() {
   let random = bokep[Math.floor(Math.random() * bokep.length)];
-  video.innerHTML = `<div class="row sort-item"><div class="container"><video width="100%" height="208px" id="link" controls controlsList="noplaybackrate nodownload" preload="none" poster="${random.poster}"><source src="${random.link}" type="video/mp4"></video></div></div>`;
+  video.innerHTML = `<div class="row sort-item"><div class="container"><video width="100%" height="208px" id="poster" controls controlsList="noplaybackrate nodownload" preload="none" poster="${random.poster}"><source src="${random.link}" type="video/mp4"></video></div></div>`;
   bokep.innerHTML = random.bokep;
 }
 
