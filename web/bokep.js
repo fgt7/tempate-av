@@ -91,42 +91,42 @@ var data = [
     },
     {
         "title": "Cewenya Gamau Isep Kontol [wa21]",
-        "poster": "https://img.doodcdn.co/snaps/ani51fyp3za4t3hw.jpg",
+        "poster": "https://img.doodcdn.co/splash/ani51fyp3za4t3hw.jpg",
         "link": "https://dood.la/e/ajtiq07x7a8q"
     },
     {
         "title": "Lagi Nonton Bola Dirayu Ajak Ngewe [vxrw]",
-        "poster": "https://img.doodcdn.co/snaps/pw9tgseuukgeu7ye.jpg",
+        "poster": "https://img.doodcdn.co/splash/pw9tgseuukgeu7ye.jpg",
         "link": "https://dood.la/e/tl5l4y7n5kuh"
     },
     {
         "title": "Ngewe Depan Kaca Toilet Mall [peig]",
-        "poster": "https://img.doodcdn.co/snaps/b6be1nbs9i1hodpx.jpg",
+        "poster": "https://img.doodcdn.co/splash/b6be1nbs9i1hodpx.jpg",
         "link": "https://dood.la/e/yvz7lkurcnq5"
     },
     {
         "title": "Booking Ukhti Cantik Di Hotel [sal1]",
-        "poster": "https://img.doodcdn.co/snaps/gt24yry31decu04d.jpg",
+        "poster": "https://img.doodcdn.co/splash/gt24yry31decu04d.jpg",
         "link": "https://dood.la/e/oq8wasbobx0z"
     },
     {
         "title": "Kakak Tiri Ngewe Hanya Ingin Menghisap Kontolku [szjw]",
-        "poster": "https://img.doodcdn.co/snaps/9tbz00g219ugjvkq.jpg",
+        "poster": "https://img.doodcdn.co/splash/9tbz00g219ugjvkq.jpg",
         "link": "https://dood.la/e/6z0dqxf3p83i"
     },
     {
         "title": "Model Cantik Di Genjot [su3q]",
-        "poster": "https://img.doodcdn.co/snaps/res7sb3z7stvu2aw.jpg",
+        "poster": "https://img.doodcdn.co/splash/res7sb3z7stvu2aw.jpg",
         "link": "https://dood.la/e/v6gpuyqi8t15"
     },
     {
         "title": "Pembantu Binal [s5np]",
-        "poster": "https://img.doodcdn.co/snaps/eqrbpzzolrolp0rd.jpg",
+        "poster": "https://img.doodcdn.co/splash/eqrbpzzolrolp0rd.jpg",
         "link": "https://dood.la/e/e5k7lz9154g8"
     },
     {
         "title": "Ngewe Di Tempat Umum [hdp9]",
-        "poster": "https://img.doodcdn.co/snaps/pugh2fri2zicu0xn.jpg",
+        "poster": "https://img.doodcdn.co/splash/pugh2fri2zicu0xn.jpg",
         "link": "https://dood.la/e/xj0lnnnp6hx2"
     },
     {
