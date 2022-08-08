@@ -1,5 +1,60 @@
 var data = [
     {
+        "title": "MD-0174",
+        "poster": "https://img.doodcdn.co/splash/nzx0n1eedpcerwl2.jpg",
+        "link": "https://dood.la/e/2hz0jq4ql9hs"
+    },
+    {
+        "title": "MDX-0098",
+        "poster": "https://img.doodcdn.co/snaps/7zbi80nt9ac0qblt.jpg",
+        "link": "https://dood.la/e/epxn0miwzg9c"
+    },
+    {
+        "title": "MDX-0096",
+        "poster": "https://img.doodcdn.co/snaps/kavkm2tve02uz160.jpg",
+        "link": "https://dood.la/e/s3uyug2el0w1"
+    },
+    {
+        "title": "MDX-0100",
+        "poster": "https://img.doodcdn.co/splash/ta0gn8cf2girsopf.jpg",
+        "link": "https://dood.la/e/rhde51dki5im"
+    },
+    {
+        "title": "MMZ-012",
+        "poster": "https://img.doodcdn.co/snaps/jz6joikclbnkioz0.jpg",
+        "link": "https://dood.la/e/fl5dmc6716mo"
+    },
+    {
+        "title": "MMZ-016",
+        "poster": "https://img.doodcdn.co/snaps/5u4bws00ldq5xerb.jpg",
+        "link": "https://dood.la/e/lzy74f5kttla"
+    },
+    {
+        "title": "MSD-004",
+        "poster": "https://img.doodcdn.co/snaps/wrd5ck6clpbkf7wp.jpg",
+        "link": "https://dood.la/e/804vqh6qv0ct"
+    },
+    {
+        "title": "TM-0112",
+        "poster": "https://img.doodcdn.co/snaps/mz70f49mba390ra2.jpg",
+        "link": "https://dood.la/e/urcy1j6qbb41"
+    },
+    {
+        "title": "TM-0113",
+        "poster": "https://img.doodcdn.co/snaps/m80subg7x2zuetr9.jpg",
+        "link": "https://dood.la/e/qq3giwp0qr1d"
+    },
+    {
+        "title": "XK-8056",
+        "poster": "https://img.doodcdn.co/snaps/qtzbarsyivekd3wa.jpg",
+        "link": "https://dood.la/e/vcvec62r4jtg"
+    },
+    {
+        "title": "91CM-144",
+        "poster": "https://img.doodcdn.co/snaps/8mxjsk9odjg4j9k7.jpg",
+        "link": "https://dood.la/e/qq3q0psanwxs"
+    },
+    {
         "title": "mama muda jilbab oren live kasih lihat nenen",
         "poster": "https://img.doodcdn.co/snaps/f51sbflq6y1h2qbq.jpg",
         "link": "https://dood.la/e/nkj9o42utemi"
@@ -34203,7 +34258,7 @@ var data = [
   callback: function (data, pagination) {
       var dataHtml = '';
       data.forEach((item, i)=>{
-          dataHtml += '<div id="video-bokep"><div class="row sort-item"><a href="' + item.link + '" onclick="myAds()" style="color:black"><img id="poster" src="' + item.poster + '"  alt="' + item.title + '" width="100%" loading=lazy style="max-inline-size:100%;block-size: auto;aspect-ratio: 16/9;object-fit: cover;border-radius:10px"></a><h6 id="judul-bokep" align="left"><b>' + item.title + '</b></h6></div></div>';
+          dataHtml += '<div id="video-bokep" data-nama="' + item.title + '"><div class="row sort-item"><a href="' + item.link + '" onclick="myAds()" style="color:black"><img id="poster" src="' + item.poster + '"  alt="' + item.title + '" width="100%" loading=lazy style="max-inline-size:100%;block-size: auto;aspect-ratio: 16/9;object-fit: cover;border-radius:10px"></a><h6 id="judul-bokep" align="left"><b>' + item.title + '</b></h6></div></div>';
           });
 
           $("#data-bokep").html(dataHtml);
