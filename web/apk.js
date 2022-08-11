@@ -74,7 +74,7 @@ $(function () {
     {
         "title": "THLive Mod",
         "poster": "web/app/thlive.png",
-        "link": "https://apkadmin.com/fypdigj30rtb/THLIVE_MOD.apk.html"
+        "link": "https://www.mediafire.com/download/tyfnmsfbme21cb3"
     },
     {
         "title": "MMLive Mod",
