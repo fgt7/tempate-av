@@ -1023,29 +1023,14 @@ video::-webkit-media-controls-mute-button {
 video::-webkit-media-controls-timeline {
   display: none !important;
   opacity: 1 !important;}
-  
-.content {
-  height: 100%;
-}
-
-.parallax-container {
-  position: relative;
-  height: 265px;
-}
-
-.parallax {
-  position: absolute;
-  height: 100%;
-  width: 100%;
-  z-index: -1;
-}
 
 .full-width-image h1 {
   color: #000;
   font-size: 100%;
   background-color: #fff;
   display: inline-block;
-  border-radius:10px;
+  border-bottom-left-radius:5px;
+  border-bottom-right-radius:5px;
   padding: 10px;
   width:100%;
   text-align: center;
