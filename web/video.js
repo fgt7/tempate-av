@@ -1,5 +1,1633 @@
 const bokep = [
     {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1558057895568502784/img/Gd7n4vX8YyHcIkdk.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1558057895568502784/vid/744x720/QYZJgqjNjVEuNLYA.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1558061185928687616/img/fS2yzzLiVQreRhPn.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1558061185928687616/vid/720x806/pBaxBUEvp8oRtEbF.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1558260619186704384/img/nvjRkallPfmeXzC8.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1558260619186704384/vid/800x720/A-HAA3rZSHZNRj00.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1558261181571567617/img/edw6BemEg0A-LsPq.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1558261181571567617/vid/936x720/hdc14J2pQcjiuDNT.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1558059420713897985/img/mI-FtTWbfl14roRk.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1558059420713897985/vid/720x726/cTa0aHjrVVx_23wB.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1558057895123877888/img/GqRpFOYtuafcQQPz.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1558057895123877888/vid/928x720/ubNURnN97qPGCt_I.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1558063251564675072/img/WHmuHB75ZJegK3gu.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1558063251564675072/vid/720x782/TxtvQfExDFTRyk6k.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1558066924554440704/img/tKrYq-lJRJowfNTx.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1558066924554440704/vid/720x786/uN0bHKQIaE0E4ZHQ.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1558061185639268353/img/z6IC_9DDAr9qJYiG.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1558061185639268353/vid/792x720/AKC6a7oNzsR_znto.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1558059425306673155/img/Bk7euCmnUobaAwA7.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1558059425306673155/vid/720x804/dFV-VanvMwaFovjN.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1558059420730687489/img/-e_nbQOUa5cU4Hig.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1558059420730687489/vid/720x720/RZdx86yGoKXEivlF.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1558057895069364224/img/kg2cj7-Uj7-zwDxf.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1558057895069364224/vid/760x720/mknHYOk231Sy6YmW.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1557551272592814080/img/1qpmdSTg8unSIuer.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1557551272592814080/vid/776x720/yTHVxl81jHgZeZkm.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1557210810304561153/img/HRjvu14bYfr2k-ma.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1557210810304561153/vid/720x756/oMiDgL2neETAfNET.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1557335763846836225/img/b-ekddJyNY81g6_T.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1557335763846836225/vid/800x720/ealstFNVdSbO36Jw.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1557546071521624064/img/3VmljH6xegJfYT6x.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1557546071521624064/vid/720x760/4ynZQ9DhU-UyuyoJ.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1557551797572894720/img/M_piOv-SGEFQIAGw.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1557551797572894720/vid/752x720/8PFIlYVDpaj3eVh_.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1557655626050043904/img/72ljCeSVy7gMu9ir.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1557655626050043904/vid/768x720/WMKjGiGa--v25Zkm.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1556603550347952129/img/ADgwvjR9kaKdYSTH.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1556603550347952129/vid/720x786/s09fbCQbg7EeVC7S.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1557548624632246273/img/2SB0_ZocvUout0yq.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1557548624632246273/vid/1008x720/2OnBKDIbvJrFuwKG.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1557209706758045696/img/Gh-5on_wl9JeSopF.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1557209706758045696/vid/720x738/U0OOamo4kTS0607N.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1557550241511243776/img/eWf_RbZV0hN8_O17.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1557550241511243776/vid/720x798/JNeBlLyXcdUsIDuu.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1557656342130991105/img/Szkyt4Hjky1Cqi33.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1557656342130991105/vid/1040x720/z1sV1noBqw3yuIeO.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1557656848052142080/img/BxrgkWXVHgZAZp09.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1557656848052142080/vid/792x720/uuDiEfuZYV9I_oj5.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1557337426653491202/img/5O9hNaQo_4f8PMiq.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1557337426653491202/vid/720x758/vtjX51N2GMoNJoZ4.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1557336786082603008/img/p6YsbqH3kJ3dkLwF.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1557336786082603008/vid/720x762/ZRTfu00av98GZGEn.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1557546476079034368/img/KTj56boUGG1F2ioR.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1557546476079034368/vid/720x790/pNK2ydm-rQu5yKZc.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1557336347790438400/img/AVc-tSqsH4eX4xaw.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1557336347790438400/vid/720x754/doJCibDSHRsDEae6.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1557335765323251712/img/3jPdIlkryXHtk6s7.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1557335765323251712/vid/952x720/kfFsVkXg7F3PQa2V.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1557209978624438273/img/ymlBvC9xHL4lYWbt.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1557209978624438273/vid/720x738/H35y8We0ENgxC-gB.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1557336786749501440/img/FuFl08zdCi5jwXF-.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1557336786749501440/vid/720x762/hIdJ6b1Eut5vyi4N.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1557336788322381824/img/E3d0djFpIRSPF38Z.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1557336788322381824/vid/952x720/FBUleZruNu72VbNi.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1557336785625427968/img/GYFUJ1-08VRtowel.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1557336785625427968/vid/720x740/YcR6Y5vcbWWhNSva.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1557335763892961280/img/4NdRnEhCQP-kD58r.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1557335763892961280/vid/720x758/DI1P9lrubCxz6p3Q.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1557336265464627200/img/gckh0dA8o_oXSxCo.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1557336265464627200/vid/720x728/2QpLFXdIu0W684FS.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1557337426598961154/img/MluYYz0CRGu-YGF1.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1557337426598961154/vid/736x720/SNAAr-vG-RbZJSyq.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1552246520472547329/img/BUIgeHYor0LaiiQN.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1552246520472547329/vid/720x800/19SbLru4bhTHAwN-.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1557210434130034688/img/anUM6X17K7sh0UnH.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1557210434130034688/vid/904x720/98CoOQDUlJ7Bsipq.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1557210160493654016/img/ggBqHZw_xZh3MQ8J.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1557210160493654016/vid/840x720/UPU6c85hZaKMVhue.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1557211125674311680/img/oLz5Yb5OulskETjT.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1557211125674311680/vid/720x726/-ZMTZMk5cXF1mtYL.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1554056116044447755/img/xCKHzcksbjyhTC6G.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1554056116044447755/vid/1152x720/GNRL4mHYeaP-cn8z.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1556605488904945664/img/-O8E-yFLO0T9Ny8y.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1556605488904945664/vid/720x842/PzLQYJ462HwNxKPB.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1556604220778115072/img/ulEcpsYxGvSUPUM3.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1556604220778115072/vid/720x772/4XXU3PhtilPas1k-.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1556602062200537089/img/UQcyNQxLwjndZOFb.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1556602062200537089/vid/744x720/sMxLrRUP8fo20ePe.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1555130973825941504/img/zn_153pa6yP2xVEU.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1555130973825941504/vid/720x768/jQxgdFlo-tCeviBm.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1556604981851332608/img/TsOi5l6mS-6giIJ6.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1556604981851332608/vid/720x772/Fl6L9dnQlXf5hJSo.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1556601123578204161/img/ochLhao6r9ChQ_Fx.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1556601123578204161/vid/736x720/oC69-2-LVOP2vUHZ.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1556209288313729024/img/JpFxkJouQLJKto-5.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1556209288313729024/vid/784x720/PDnIXIySw_pLmSz5.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1556249176140546050/img/Ohv6Wg39j0YdpV47.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1556249176140546050/vid/800x720/aTj8D9MvrTSrYuyG.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1556254315190587394/img/j2TlXtTNVITvhL1o.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1556254315190587394/vid/752x720/74OWEsG6eFNl4nWh.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1556605960504094720/img/xyFqWKsNTlCgCAF3.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1556605960504094720/vid/720x842/u0GHQ8Pa8pfT8jZF.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1556604481064026112/img/62WtwDWtIUZPtKgs.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1556604481064026112/vid/720x772/vRt7bvCkPwACWspJ.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1556603284236140545/img/J92UZcFIKjU-hKQ2.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1556603284236140545/vid/720x774/yhPNktKNFPNw6CSt.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1554415012034510848/img/OY45UgVftBOycWL3.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1554415012034510848/vid/768x720/YbXdeogi3ugRrVMs.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1554064303975968769/img/lg-gReLc6vvfe_IB.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1554064303975968769/vid/720x784/fiRvxXXuMANerTw-.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1556600838516514819/img/wR0C0I36OitezLR0.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1556600838516514819/vid/744x720/_JQ2Y37fpSvPaOLA.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1556251878740365312/img/BtguNv-UydErP6Q7.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1556251878740365312/vid/720x750/7tCMPkV-ujtNDsHZ.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1556243683821113347/img/PR-zgKU1-Xi5JRqx.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1556243683821113347/vid/720x796/YrPmk0i5vu6KFvaC.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1556254871921491968/img/RkbUl2UK1lDeJSP6.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1556254871921491968/vid/872x720/vy4oPZouK0V-r8Kd.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1556233912309157889/img/gq4eUJ-eTfBEXT_Y.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1556233912309157889/vid/720x824/m2odA4tqDHhQvsuy.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1556240351132024833/img/D_q4KQR-ejs6u-_n.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1556240351132024833/vid/720x762/B32k6hvCbCI0akc4.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1556247154628640768/img/rFK34WNWJPNsuFJK.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1556247154628640768/vid/720x796/DPaKvvI7j4UeFKTs.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1556254385059278848/img/BSqRQZToq-VB6D5B.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1556254385059278848/vid/824x720/e6AX_rC7VqdEsEUw.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1556255622978740227/img/zxL4Ki7bZdXazS80.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1556255622978740227/vid/784x720/jg1Uz4WONuJG_4c7.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1556120458223038465/img/t97VXOyF_e2t7aby.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1556120458223038465/vid/720x740/gZm6M5AGZpY1zGIx.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1554413662886297600/img/aXuDqz0D-am-wKZN.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1554413662886297600/vid/720x772/XhoNNdCG8DRFBBQr.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1556124776514875393/img/OgfLlxJOA9AMR1IL.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1556124776514875393/vid/832x720/fcf3ZqSOCD4_Stvj.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1556121171464458242/img/cedW6OypUeMFV08T.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1556121171464458242/vid/840x720/dkTiMASNj0KSzYIv.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1555130973964369922/img/izIs8w0grYEoZ8UC.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1555130973964369922/vid/720x860/Wn6Hu-l0kQO8aHSY.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1555126682067304448/img/BObQEFLyIrArSe02.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1555126682067304448/vid/736x720/tPR4kb4S3veE9CCb.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1555132556634648577/img/WiipGD0mBY5d_JWT.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1555132556634648577/vid/720x774/RpGOb1hoMAiJf-N_.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1555132335863255041/img/PToOZaKuNqjt2bmW.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1555132335863255041/vid/968x720/4yAUcZE1n3M9pQhf.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1555130395532103681/img/t6Ap-O_sb3XY5-Ba.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1555130395532103681/vid/720x774/iapXpvyFV4nhLRKu.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1555128847921999873/img/tjN9UDg0zyjmnHXH.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1555128847921999873/vid/720x812/YPqbihBZ8ewW_9aC.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1555126682025345025/img/l_sk4QfADLTS5ZLm.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1555126682025345025/vid/736x720/cqS40bw1UdSQtkqh.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1554063701615198209/img/cKpRWeXJDbo4rAZh.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1554063701615198209/vid/720x784/u3hUiM5kcoZ8CNsB.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1555126682054705152/img/6MucbixWETs7cwo2.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1555126682054705152/vid/776x720/siRVh2c8CC8zaFPy.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1555131325639958529/img/JdESFwrFnWN07O78.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1555131325639958529/vid/800x720/zSrcPnpHbkiIrqGo.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1555132581972443136/img/GAgAuJqTBTOP6UTQ.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1555132581972443136/vid/720x774/KX3gOqgesxXZz1sa.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1555132648540217344/img/rZLfZmTUqrVS9HYx.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1555132648540217344/vid/832x720/rLdsHUkE0XcdbsFr.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1554412858829848576/img/4NOP77NoeHkg6Lvo.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1554412858829848576/vid/720x738/9byjbsrqVo-JRcmt.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1555128137872441344/img/fRS1c5qWir38zTE0.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1555128137872441344/vid/840x720/WW85cplJT8Xytnws.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1555128874694221824/img/CKhNvX__AuXLQQEB.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1555128874694221824/vid/720x774/QYzAAYhdYV5aTFfg.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1555126682063106048/img/feYYO67B5jSfjeqh.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1555126682063106048/vid/784x720/r_XoFyrOWRWP6ScD.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1554416416174264320/img/1MTEsbF4yUf-ZDB4.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1554416416174264320/vid/752x720/_D2rD-JVBJVv9O8Y.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1554065339713220611/img/L4WGT9XJJ2rIY8j_.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1554065339713220611/vid/784x720/MEpiW5TBEE9ygNNg.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1554058172507504646/img/mVjFNxeHcV503pbB.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1554058172507504646/vid/720x730/7zFh82ZZcRVUY8ae.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1554061570120257540/img/I1bG40xeM52KAC36.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1554061570120257540/vid/720x762/sPDXJ3eT9GPzzqzC.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1554412145424879616/img/qaxLFtKpu7xHP8_f.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1554412145424879616/vid/720x880/KMEpj5tgv899pXpA.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1552941472198307840/img/m50QNaRPwRa-SCdk.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1552941472198307840/vid/720x744/TS7-UIjJq7Cg4cvx.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1554058728886128642/img/RK9oq0nEPLiizSEa.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1554058728886128642/vid/720x722/gdJr0KbJVnY10PhW.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1554417293232570368/img/zugSx279ICd49DTc.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1554417293232570368/vid/720x860/_iw4NaR8V309ZR2y.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1554413159594991616/img/qEOKvxzlLy5eSbE0.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1554413159594991616/vid/720x750/MwpMorD-tBD3K2a1.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1554061031387054081/img/t4ldDrUnvA7e2KWH.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1554061031387054081/vid/720x794/ENDezBIDsPEc_dy8.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1554414424353828864/img/AuakShUTTFUp9opj.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1554414424353828864/vid/728x720/Av09nSZG4cbP34xO.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1554418005182148608/img/TJWp665-hISrtt1S.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1554418005182148608/vid/720x730/LO_pwwcHx2LpVal_.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1554062485204144128/img/YV5ZsoIPCdTUS82Q.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1554062485204144128/vid/832x720/SJWffDQBG8WAoEFA.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1554059042724925443/img/OndDbb_j6pfu0y8o.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1554059042724925443/vid/800x720/kQmgYpK4mOpk7Lwt.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1554063020430852097/img/td76Th-BD3PyqbRK.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1554063020430852097/vid/776x720/UZxrxDwRmoUUD3mp.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1554064785557569537/img/KMgmbrRVaaU-oCP7.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1554064785557569537/vid/872x720/bRKin03XE3cgsCb-.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1554055913295970305/img/t1ye31QRL3JKCWg_.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1554055913295970305/vid/856x720/rEUXHV4hqSc4vqEZ.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1554060191246983169/img/g7K2uH4H2eCebCfe.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1554060191246983169/vid/768x720/EdfpKgrDser68rb1.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1554059379011637248/img/DOQ4hkeKdE4FJE3P.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1554059379011637248/vid/800x720/qU23S5c49rYxetG-.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1554057481118429184/img/XXiJOfPVjtaVVwHy.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1554057481118429184/vid/856x720/m820rMchNGSwDqhS.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1552927386106478592/img/1_Sqm3Zap0my6eXv.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1552927386106478592/vid/720x744/PC7qw3c0Y7cDQg7R.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1552247986486657027/img/U1uCajIawMZAhYXg.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1552247986486657027/vid/736x720/9MbhdP3aJs_zTaOW.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1552248918209331200/img/t7G_-nYtql_XLkhm.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1552248918209331200/vid/776x720/wezhUEKywWYKhbk3.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1552940962028339200/img/Efi13-ZZYPl-1C87.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1552940962028339200/vid/720x744/tFF3erjUhwPxJAtO.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1552611140798410752/img/5cSOPqrVyBhEPHVA.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1552611140798410752/vid/720x744/6NJQ2ZYv-KC9sTCO.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1552249269960454149/img/TC4rdviBcm1AGMBj.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1552249269960454149/vid/784x720/lUX5FKY3hRgCeNsm.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1551517891920797696/img/J2TQgC7UWhluje0s.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1551517891920797696/vid/720x822/Ob7NokZPNiEn4wui.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1551524953165791233/img/vY_BLvmgZPZjAKZd.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1551524953165791233/vid/744x720/I6AkuCKGWToprKSS.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1552243699719237633/img/mNFrXpLPMwKJDHlM.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1552243699719237633/vid/720x848/u6VDA7BI8hPOSDUI.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1552248362107535360/img/x88G80fvOuaF6EAx.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1552248362107535360/vid/720x794/VlJ8I7AHffX9Rhq5.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1552249538811150336/img/Rj-mgcD5KS87qJwB.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1552249538811150336/vid/720x876/Ocjx-46ORhhqJBuC.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1552247402970906624/img/ReqPU8v83H0_bdL_.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1552247402970906624/vid/752x720/Rr5a9FQMD-bmf0rN.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1552244620603834368/img/pARLTCuS_IDk9k2h.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1552244620603834368/vid/760x720/LGlC3xWdQ1yZ6mw_.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1552250979541995520/img/ptEPbE4Q0RYO26zK.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1552250979541995520/vid/720x768/RMZ5QVBNWeGR7duP.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1552245821382721536/img/fiJF3A5d7rF5a4UV.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1552245821382721536/vid/872x720/YdTg4N0TTULSbwHQ.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1552244147578617857/img/9l_dHTGeXpkTDUXq.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1552244147578617857/vid/720x848/E4GkpDN9_MhdilVh.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1552245264093958144/img/t-Gy8rcGeWJXDlUj.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1552245264093958144/vid/720x736/D-ypmYMssQIirt9-.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1552248592597139456/img/0iCXHppsRssaDwp1.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1552248592597139456/vid/720x744/xtrUYu49m5Xfwgg7.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1552249997357613058/img/QRcUEKlIB1HrR53y.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1552249997357613058/vid/720x794/Zvc_aIYj7brFbyye.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1552251453657739266/img/RlxeD3IRUT12css-.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1552251453657739266/vid/720x828/KdRTTvtzUV4T7fLb.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1551516653275742208/img/68NLCYKHD26q_A_p.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1551516653275742208/vid/720x792/hhzuUxynmzFRBKTQ.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1551890586772426755/img/cg9JSX1Pj6MT0vWp.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1551890586772426755/vid/768x720/LJNync0uouxl8Xyg.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1551889644526125057/img/J6eu9QX65a5AX8uD.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1551889644526125057/vid/720x814/izP87P7w1ZmK0eUU.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1551888961370562561/img/brXQK1NZu5wec2Si.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1551888961370562561/vid/720x800/0I6uG-iu4JauQnta.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1551524704867225600/img/5X4M_jdoxlKfOtjV.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1551524704867225600/vid/816x720/PX-lTXqHLaVnkrtt.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1551521336270663681/img/GPVP03KHE04yxRR5.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1551521336270663681/vid/752x720/7GVcueEi_5CMTESY.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1550796337566056448/img/HI29bHdj-W5pTulW.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1550796337566056448/vid/728x720/iI0CAQ3XFWfhaZIl.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1550799313156341761/img/XVdf5A3I86m4bKHQ.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1550799313156341761/vid/848x720/1aNkoW8y5WQcG1Jn.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1551517369063075840/img/Z4_9KvQnvtLwbCOA.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1551517369063075840/vid/720x796/ToS8z5AEqsilEeDo.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1551518968904826880/img/OYF5M_Kl20ifxjcM.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1551518968904826880/vid/720x726/IhNBeuFIZ9R1sp5K.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1551523148251922432/img/yM3DMHJopg0k3-DD.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1551523148251922432/vid/720x724/zAVJYVZxcZcblfLJ.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1551523418537103360/img/XCASzH2yIHTIm0oQ.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1551523418537103360/vid/864x720/zfYX5LU3-32-z6Xm.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1551522870341545984/img/gZPRvjGqJoEUVAzi.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1551522870341545984/vid/824x720/x4rd6BdOKiTIdawe.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1551523960441176064/img/ubQDmI4Dqo7nWoVe.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1551523960441176064/vid/880x720/2DgmXSwXPbHD69yG.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1551520502451412992/img/4Tfp5gjhd8xoCaO4.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1551520502451412992/vid/776x720/VHNqFOjOPxbZpCsw.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1551518502078775296/img/o_LtnFmkvEz_Wg05.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1551518502078775296/vid/720x822/8_CY2PJXXc6CoMav.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1551155687878987776/img/36i-3FqZMnPk4FAc.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1551155687878987776/vid/1000x720/HHtzSZXDZVa9APGE.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1551155686339674113/img/NshRzIw9_js8xipb.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1551155686339674113/vid/776x720/Kb4BCZig2eFBJGK3.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1551154707686895617/img/ovEad0P1_wSjmClG.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1551154707686895617/vid/880x720/0_QRhNA-uii-ZJ-F.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1551154442216837121/img/lKDdlRfAQL_LRFGp.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1551154442216837121/vid/824x720/0R7kAtB3cyE3QqrJ.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1550793596068306945/img/1QCI075ZBVkwyJb7.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1550793596068306945/vid/888x720/XCVWjYvkGs85ziEF.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1551154162049875968/img/9SZapJIKQ_aLnLuB.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1551154162049875968/vid/792x720/fca_zCdQDSNWRF3R.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1551153893266313216/img/ASZR465w4dWoZjfs.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1551153893266313216/vid/752x720/-9R8skfENfNWN56Z.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1551155685928599552/img/wUjqvFCVaKGRXRN8.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1551155685928599552/vid/720x752/SKZt8MjyO3VkJKHN.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1550799606958931970/img/CLpYrHGshjkqb_mv.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1550799606958931970/vid/848x720/QMK4zTJk7OSSV3qQ.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1550798093826035712/img/D9AUHB5OiwozcMoY.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1550798093826035712/vid/720x820/SZbuFpCPje9ZeM4G.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1550112066060812290/img/N_dh1h-rp1VVytxm.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1550112066060812290/vid/720x722/KQVqS09Ac59xBu-3.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1550798428149776384/img/dy14lVG7O1ABbrmE.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1550798428149776384/vid/976x720/-z5VUD9fXB2Bn0P5.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1550107378125000705/img/VD4ev0KffABv4Y0M.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1550107378125000705/vid/720x736/iJxBEMHYXiDYmDNx.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1550795363770331136/img/NhC2pZITAz9qqk7I.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1550795363770331136/vid/784x720/T8HcyTTk3YeKi-UA.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1550797104196759553/img/tKchIFdeu3VZe8ls.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1550797104196759553/vid/720x776/VVBuXbj4ska0EfBV.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1548253621347037185/img/zJvVedPflExsroMn.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1548253621347037185/vid/720x736/1qLKztU5v2rKiqxP.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1550107378833854464/img/3nlI-kFLojfcX_Wu.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1550107378833854464/vid/720x736/JtH18S2aHvkZqTwI.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1550112065121300480/img/xrj20-ZhfNT5W_fi.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1550112065121300480/vid/720x758/7RLgQDP8kIhunlXr.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1549918133842071553/img/c2kzIb1AkXwu0ug9.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1549918133842071553/vid/720x808/yV1MmIuT01_ybJh5.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1550110715314597889/img/h9qOtT5YjuWa4gBa.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1550110715314597889/vid/744x720/ANwe-LCL38Axa3iF.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1550111571078443008/img/IctDjRmnDVkbpUpq.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1550111571078443008/vid/720x774/v-UKUzoDPJEg2p0l.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1550107377852370944/img/lmbOdB22U1kib1mp.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1550107377852370944/vid/792x720/HYX8WTEWlyYlMp7u.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1550107377827201024/img/zy9OsBs__dubnwZl.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1550107377827201024/vid/728x720/zD_ThXxnITtMlaea.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1550112066065018881/img/dDZMfJ34nSxpr_G1.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1550112066065018881/vid/776x720/aitxJTOdFqkHfI-D.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1549549789121232896/img/nR49GFX5p1p0XXfB.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1549549789121232896/vid/944x720/bo_D7EoeIm_c8sQz.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1549918640715304960/img/nK6mdkEhYL0UIW3p.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1549918640715304960/vid/720x782/Hsd1OkxAThnyfXXt.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1549921159852003335/img/fnvbTy_AVrXAdX14.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1549921159852003335/vid/776x720/zOf3hFeXAtWSRlXs.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1549919883307147264/img/e8mDLgqV3LmNGOQv.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1549919883307147264/vid/792x720/F4WdrKVxeXQutpF8.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1549782786802069504/img/w5-mXbClyhc1WLaI.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1549782786802069504/vid/744x720/9c49-tA6ch3qChwX.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1549782442936270850/img/RiinIYtM8iZlTMnQ.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1549782442936270850/vid/888x720/FMuwM5o2FEW3dm8E.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1549781968178802689/img/N2XXEFCXUiqGn36L.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1549781968178802689/vid/720x822/-C9t6j81116qaegr.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1549781594562793472/img/pPqUvYzHz8TUBt27.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1549781594562793472/vid/744x720/HzmnLEHqFQFwGSG4.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1549548801874358273/img/q1wVel06uJ6n4tZC.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1549548801874358273/vid/744x720/Y19rbzTWLgp2LoZv.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1549549316729339904/img/SDCEGHxto8_TiFgF.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1549549316729339904/vid/808x720/u6IXFtNl7oZRivIV.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1549549507691843584/img/wsRTtUR0TSXzRy4x.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1549549507691843584/vid/720x730/KLhTzT7g2lGcIsbF.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1549549790308225024/img/IYo-bJG7moetF3Jh.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1549549790308225024/vid/976x720/Tjo2rV7pAp7Zq5jL.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1548781040600510464/img/YMCR01qJ49W_NfTJ.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1548781040600510464/vid/720x950/CkPHOZBwtLsJboz_.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1548253851106803712/img/cCX9uLqgUkMiqOuX.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1548253851106803712/vid/736x720/0Ajwj3_Wp198oEaq.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1549382337976467456/img/n_DB_Fkx7vF38XJ2.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1549382337976467456/vid/840x720/-dPQWzwYF65PpkW2.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1549383716044419072/img/iXNtYvYd-sdCsY4Q.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1549383716044419072/vid/768x720/bO8k9lVZopqSh58S.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1549064705951805445/img/qX-lBf8GhSBxYrML.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1549064705951805445/vid/720x794/N8VmDWKpgEdJ6xtm.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1548254924055916546/img/l7eHuZOeJRie7zLL.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1548254924055916546/vid/736x720/V0GMdqAh0VqxwnE1.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1539986724964933635/img/izV39afUyX_1lQba.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1539986724964933635/vid/1032x720/DplmK2tGEWfFH9uT.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1549065776875077632/img/2y6wH2QFffn6Du3Z.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1549065776875077632/vid/720x794/Yws2nbfnHvOSp1p3.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1548780559127937024/img/XuslWYE3eG-vKDoB.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1548780559127937024/vid/720x778/YWho1zJN5nY0o8ih.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1548780057183027200/img/iyYUTIwWNFPnqsRH.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1548780057183027200/vid/720x808/SSNH07hTBOQKrj4-.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1548779368977420288/img/N8EiulT1mtw6c_5P.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1548779368977420288/vid/824x720/fuXs7tp8K0LTO-Ib.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1548778870085943296/img/Obw2xXywQX-6DZ6H.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1548778870085943296/vid/720x836/oW865umhErkxnsEM.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1548254005956345856/img/UT2jdEsXbDuoe7bN.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1548254005956345856/vid/720x762/NwPgLHaMjDotLZdQ.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1548686955764142080/img/gIKsm4TF7kGWUJA1.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1548686955764142080/vid/736x720/DdEvU8zk-TzQytth.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1548636771982151683/img/QKuK1RxekhpNyimM.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1548636771982151683/vid/776x720/uEuikp_h93Z5CU5y.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1548685514253172736/img/sbSCNBpBgfuV1SHb.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1548685514253172736/vid/760x720/-xjMQUciFu5tsXaP.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1548629971861905409/img/TdBPFOBGERd-cald.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1548629971861905409/vid/1064x720/wOait6x9g2LpcnGf.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1548637000886284288/img/PYGtEeqnBB4JnK_E.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1548637000886284288/vid/968x720/aBvMfYjUa6oQ0PEg.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1548636543493218304/img/aEFRt3LgubZwTJYA.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1548636543493218304/vid/720x740/LiyKByf2JkUfo12O.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1548630465263058945/img/IXpUtWwYcqInqAvE.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1548630465263058945/vid/944x720/FOpTXY6GKKvH5yOu.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1548248908253777920/img/T_CdqMXiV9HjQKTa.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1548248908253777920/vid/720x740/QwRyVOg8hZor1AF6.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1548254706317012992/img/0rpBTO8valpmkynF.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1548254706317012992/vid/720x836/9HwQX3SpmJkRHAHs.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1548254345506193408/img/Ci958w9_OE1_YdZS.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1548254345506193408/vid/768x720/pIj6_-JRqWIMQ__t.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1548255554157813761/img/eAbYdfiiK-wwmxv-.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1548255554157813761/vid/800x720/L1gQ-OOKMml--Yxz.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1548259777951969280/img/jR8u5ZQYvqIwFeq3.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1548259777951969280/vid/824x720/XIz2YahhFXgOON4n.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1548248646575333377/img/30UNYsQEVAOuHO-6.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1548248646575333377/vid/752x720/7SZnbqWNWeNcdfGD.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1548255121074946048/img/kiIFqHT6usCqDiaK.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1548255121074946048/vid/848x720/dNefYJYXG0qb-0mH.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1548254483553357824/img/6VK-Z2SjF3IEz6Bq.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1548254483553357824/vid/728x720/Mxu7pFV_ck3KWpcQ.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1548253341918330880/img/d6Va-Jpc7jJYgBg4.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1548253341918330880/vid/832x720/iiDMyT0YKebL-3yc.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1548249287649542144/img/0tiKsZA44XWrccPc.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1548249287649542144/vid/720x740/A5k2Isqxu7Rcn1aD.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1548255323789860864/img/6ZFkcR5D5aBozEBU.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1548255323789860864/vid/776x720/YjHTuc4L4p99CbAm.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1548255781346512896/img/i7DnW9cZD7mnRrP7.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1548255781346512896/vid/936x720/fzSyapruuCpZeISs.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1548119168473788416/img/8lUgYn22xLkR1j-H.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1548119168473788416/vid/768x720/3Hu1vF9VLmBZD5qC.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1546468392072527872/img/6WsgqSu1FmtWWWlF.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1546468392072527872/vid/744x720/LCzWJLpDorHdSvrW.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1546467224109858818/img/hzGujxIkivtoN4xr.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1546467224109858818/vid/1152x720/odsM3Mgx_38PC9L7.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1548118559632793600/img/JxruDyrBlcBC0ppH.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1548118559632793600/vid/720x770/mkwakfoTmay_lWG8.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1546464688183345152/img/il6_LTlBgvXLBTDg.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1546464688183345152/vid/1008x720/irTAnOKpQKLjXlCJ.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1546669053687001089/img/22zh65Ljpvd43-Gc.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1546669053687001089/vid/720x776/lMJX0aG2H-1RefN3.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1546670330298908672/img/THxzOfix7b6CnwNE.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1546670330298908672/vid/736x720/_b11piCBByNw6xpp.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1546467770426355718/img/wkwRabQ4-yBgAZ2E.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1546467770426355718/vid/816x720/adEs2xhSDRYROM7y.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1546669857982525441/img/2Rj5B0YI_G-7MzIX.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1546669857982525441/vid/792x720/HTp1lvkRRDjhmjgO.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1546666912029233152/img/xgpR2Pf-am73bq7p.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1546666912029233152/vid/816x720/iKdXwlnX3_FjX0Ut.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1546468913067995136/img/pmmWS5VV12zfCDnd.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1546468913067995136/vid/840x720/1xhXa5xQohFvKh0a.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1546466555919466499/img/VY_5FunPaIh-tpb1.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1546466555919466499/vid/1280x720/gNlglik73ujsV_aM.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1546670104439832578/img/dFor__iqk7Esvx2q.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1546670104439832578/vid/736x720/EafmSUrFg6azfqpm.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1546669305735311361/img/tvbHO6srwlFQlwL-.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1546669305735311361/vid/792x720/ALO_FvLmjqMYzUdS.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1546669597474299906/img/QtKHCZ7fOSwyIGps.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1546669597474299906/vid/784x720/yAdPUVQejlFCkuel.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1546670662278066176/img/qQ2Wu_h-5wzYjYGT.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1546670662278066176/vid/720x766/Sg5PYz0mU3bRVjE9.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1546469354203942912/img/FFHjwXeW6kVDUqpj.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1546469354203942912/vid/744x720/7YiPgL5sRvNHW8dP.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1546469698698907648/img/wNHXBh6fHVk8SnWl.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1546469698698907648/vid/736x720/i0eEsUC5dS-RZyfM.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1546465086696718336/img/GJjJrGFCVs3MANtF.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1546465086696718336/vid/752x720/yhcng-Bf-22pUr57.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1546464245126426625/img/cqCih7045FVoAZF8.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1546464245126426625/vid/896x720/8DjeNGttVJA-hiux.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1545735329025789953/img/z27HcRvnb0LA5x2A.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1545735329025789953/vid/760x720/FONEhG_yc4ujCFKI.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1545372722741792768/img/vOdOVgp3Oux-DgDG.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1545372722741792768/vid/728x720/0L9RhvbgNMwTfy5b.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1544663714565345283/img/HRO_WBehfadQI1Hb.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1544663714565345283/vid/792x720/scpy7Rihw-uEiPKY.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1545371470523932672/img/tXUTIdyMZ4SsCraN.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1545371470523932672/vid/848x720/ffXJS0in5MGFAr5Q.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1545923574934171648/img/wrTWwfMFYKDxLfvt.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1545923574934171648/vid/744x720/wspboOpRjRLq7j3v.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1545924229283332096/img/VXJr0KV8Vr-9TpGE.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1545924229283332096/vid/776x720/v87e257PHmAcTC6D.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1545924543382171650/img/vrs5GPKAKXYdY3f3.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1545924543382171650/vid/728x720/F9FCnS-8pE3DJhfS.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1545925327419248642/img/yS7FwltWnbe3s7Dz.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1545925327419248642/vid/768x720/wnEbKS9YhhL4fYZd.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1545574533108989952/img/xRIot7EBgMaoCxyp.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1545574533108989952/vid/952x720/jRFmx0-wKoNHnfeL.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1545734997864480770/img/RkIeMbv1V3qDduwP.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1545734997864480770/vid/720x728/J3yBi-zwcjM9tM_1.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1545735663240511488/img/nTXTV8JxMhGpWeiv.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1545735663240511488/vid/920x720/3mpAHrjAK169Nvk3.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1545734672596213761/img/Ni8f492wmDYeHigB.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1545734672596213761/vid/720x760/BURmDpIt75UzL1qw.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1545573794290761728/img/kTXKHRCRLJBhEel-.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1545573794290761728/vid/768x720/jhPjjir8YSeFdJsi.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1545574201633181696/img/OhfV7bdkzNMeKFbT.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1545574201633181696/vid/720x754/LO7ZWO6KDCCmkNhP.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1545010598479802368/img/9EqAXh2qRbQpnJLr.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1545010598479802368/vid/864x720/bf-VuQIhEfqp7YTC.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1545575011251265537/img/3nbkUsvT_X-rGkJT.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1545575011251265537/vid/840x720/_ksiCxZoPN24b2p7.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1539986242334789632/img/7Z8E85BwPzJJCNLm.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1539986242334789632/vid/856x720/eaTNdf28bUWbOSIt.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1545377856272072705/img/aiv42XEd8eLPJZ3T.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1545377856272072705/vid/976x720/e5zIy8WBKUpMHfhB.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1545374908053868544/img/hLiCFlyluN1HnBMm.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1545374908053868544/vid/736x720/krzJOqz9jpFpS4m3.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1545372291084976129/img/VV2dDErZvSNUueI_.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1545372291084976129/vid/1008x720/Y3FSndWe68T172dr.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1545349577683116032/img/2Q1CX95dlCtB8CDS.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1545349577683116032/vid/960x720/owRD5AtUhQ8erRKz.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1545371766742466560/img/VUL5KqsHRPa0XQf6.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1545371766742466560/vid/848x720/Hi-ChzrI6QC0tGpi.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1545376178886045696/img/LR_VX4SdwWECn6GP.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1545376178886045696/vid/904x720/8DruMM3Nd8eldc4F.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1545374410059976704/img/ukiPM6U3n0QKMbaU.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1545374410059976704/vid/856x720/S06WG81pvBs-FO2h.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1545009300082663429/img/S1nX_Q_SARiFxhIK.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1545009300082663429/vid/720x802/P5ERJd8FvV5l2qkB.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1543891412550569984/img/IoATbs2TYFTp5xUX.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1543891412550569984/vid/720x884/iK_6itdNM28Roa9w.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1545011042945998849/img/5w93i1gfBYPaGK2t.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1545011042945998849/vid/752x720/tBbEfOWMvts9x4TD.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1544660033920974849/img/6acHj7llyNaGFfgk.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1544660033920974849/vid/848x720/ieUSCBJNRL6p7-cc.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1545011360094126080/img/zmYlP15qkHFGcJfO.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1545011360094126080/vid/832x720/xJeZ-Q5K-WJ0QQQ-.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1545010175790432257/img/uZhRMwTCFoN4t3lz.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1545010175790432257/vid/1120x720/VVFlFK32BvJgzM7I.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1545009968822521857/img/ApT6Q9-wS8bxPz6z.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1545009968822521857/vid/808x720/N18TczdSh28wFxYl.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1545009524507299840/img/f7VVoEq3JeKuYKrK.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1545009524507299840/vid/720x756/hXyoZgIu0yyFXN8m.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1539986311750516737/img/TxuzGsDjzdWsrEz8.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1539986311750516737/vid/776x720/sgfTxp5wYj3EUHOI.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1539985466615025664/img/t83kT8Xg6HyWO1Ix.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1539985466615025664/vid/720x722/5m53UZdreFmo3Wes.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1539985425791877125/img/_oy_LhvwR0YHPqts.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1539985425791877125/vid/784x720/-yr5YvZHBkJWjqnH.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1539986206729314305/img/08uQIjfjuhixXFAW.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1539986206729314305/vid/792x720/A4NSJft-grTwv3rp.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1544656168551067648/img/QysM4yntNWMw7WsR.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1544656168551067648/vid/1112x720/1sKXleq3hF6HR0qE.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1544658282773901318/img/2LDLmz2Z-R8Ati8O.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1544658282773901318/vid/1112x720/RwKiMPe7rv0Zxb4N.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1544659582077005824/img/28xlgbhGukZndBKd.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1544659582077005824/vid/848x720/OvSmd_dB06mJ5LFA.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1544658672483450880/img/YiSkLmenlptllZvi.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1544658672483450880/vid/1208x720/EzlZVen9toQ6FK2K.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1544665121146171392/img/Tn6QQV3Aw0fr0WSb.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1544665121146171392/vid/720x774/swGzkFJ3FfnwWVqO.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1544654238797938688/img/u8N1zvnfdta2ED6r.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1544654238797938688/vid/1280x720/8PM7Z7n6zyew7vHG.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1544659106602315776/img/X0AAgWO4LUlbUwvJ.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1544659106602315776/vid/1112x720/FRSTys1pw5OeMWjk.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1544661568373542913/img/evaWYOdOTgWwofJN.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1544661568373542913/vid/848x720/iW36kGvKN5tDeC7U.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1544298388841431040/img/rdCLTU6JKLAL-Egm.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1544298388841431040/vid/1000x720/SWympbxSVcBZSGGd.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1543892807387348992/img/12hAKSBGcXKfh4Zc.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1543892807387348992/vid/776x720/4DRIekBnNoCy2H7e.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1539986316561383424/img/mz3ZBPjdy3JSAkGn.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1539986316561383424/vid/856x720/RBu-D7XyV45ZYINe.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1543547740848017408/img/LJ8fQ0Q5w15S-OyV.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1543547740848017408/vid/920x720/OheGgLNXG7-dG1WM.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1543549581019205632/img/I45_3_s2OJA9wGUr.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1543549581019205632/vid/720x826/RdiFXie7kZf-ozvA.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1543891931511803904/img/gQjVfpubP-m9JGEj.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1543891931511803904/vid/728x720/5lI6-OmsEdfpWTje.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1543890950237605888/img/ZASGFN1rVH5KcYp0.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1543890950237605888/vid/816x720/mH_isPuJd5nbxS6_.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1543890398774718470/img/4HZF7O9Ty_BTbqY3.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1543890398774718470/vid/720x780/XJgyBpTCRMukUODd.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1543547222184566785/img/UAhpqHaXmYTTSprL.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1543547222184566785/vid/1016x720/7mnK_XXYEzEwHzyT.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1543546201270030337/img/y6LLvWHRyOO6NT5v.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1543546201270030337/vid/1080x720/VGjrKeusugElh5tF.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1543548322786705408/img/V0IwsKckJMhgcQe6.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1543548322786705408/vid/872x720/Vk8AOQtq6Z-R5Gus.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1543550215294427137/img/inwJXUpjt9mNOfG5.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1543550215294427137/vid/768x720/-AAJMQZKVlKUkE7H.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1539985723071557632/img/Q2JLvGNeeQdfodSn.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1539985723071557632/vid/896x720/hcW3Pb00z18cviB0.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1539986000050790400/img/0I6FfBDFzaPX19yj.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1539986000050790400/vid/768x720/_HIf-09dnT1lC_8W.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1539986100315656193/img/2wiSDh--7DfTh0SX.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1539986100315656193/vid/728x720/RWStpTgaV2eH3Dkz.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1541939387000553472/img/f6cc8cSgC3nFprQa.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1541939387000553472/vid/752x720/JMSxg0cyUUvEQJLC.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1539985111294554112/img/VqjfN6WzYYcWLF_q.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1539985111294554112/vid/1056x720/4iRuAB7zU4_NT5tx.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1539986725128540161/img/n_E1fAb0fkIb2ujI.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1539986725128540161/vid/848x720/GAc11lFX6evRMRRu.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1541939828702736384/img/ASae8Wgqu2ksfuIT.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1541939828702736384/vid/1024x720/ydLciqEceOSpvunH.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1539977344152383490/img/0NmaoWd3Sv5_ZSFP.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1539977344152383490/vid/768x720/EONO6rKp9bRCSHog.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1539977279975342081/img/Yw4BsZlI6EnaRvOF.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1539977279975342081/vid/960x720/kOJfYR-TiuNhKEI-.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1539973246187356160/img/5LX7fXrMDpUYK5UV.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1539973246187356160/vid/792x720/IH17exT4XLYgTN2A.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1539977231912804354/img/9TgBe2SucWOb8v_X.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1539977231912804354/vid/896x720/sSulLJ79bdIicS7c.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1539985435757510656/img/XIzQJurRRnDRlU6y.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1539985435757510656/vid/872x720/-cpD1prZ8LgdDvIk.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1539985794194362368/img/a3178Axjz7rDFba0.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1539985794194362368/vid/1056x720/fItsVhfqcxu4RyYa.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1539973240130781184/img/NpzkYYpaD4R7vuc9.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1539973240130781184/vid/720x782/3hLWmP0jYPYtJwpP.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1539972826392035328/img/E-HNy9t-H1vD9FtR.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1539972826392035328/vid/728x720/St6r9-gpzt8041U1.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1539972354755145729/img/rYqTyGsyCdsagzRQ.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1539972354755145729/vid/784x720/nu81BvUCXNRyHhTw.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1539972354478325760/img/VcIHMAo1YFql_pQ4.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1539972354478325760/vid/728x720/oy5INtvr-yJEuWj1.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1539972354293780480/img/ULXXJ3cqQNFG46_2.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1539972354293780480/vid/864x720/Bn7WWGadGuBTkscL.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1539972354054717440/img/BbuTNp3CxqI9UzY-.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1539972354054717440/vid/744x720/zTbKoit4kz1yD_YB.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1526166014308007937/img/AAHeFLJeOTVNrART.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1526166014308007937/vid/1280x720/sR3yAlT2qgXmKV2c.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1526165671624966144/img/1BugBfu8N0HEjvF5.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1526165671624966144/vid/1280x720/7NivHv-oqprWSinZ.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1526165804697649152/img/5SEgRzFv6mQL_t_T.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1526165804697649152/vid/1280x720/Q-TNaXcdVofmOT6U.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1526165657892831233/img/ABpPpN-uzAT8t4ZO.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1526165657892831233/vid/1280x720/uX8LQD2jdYK3-NiU.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1529526381851312128/img/aPUDHt9Wfy1XzgPl.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1529526381851312128/vid/1024x720/v0Z5ObolEghNB37o.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1529526381843034116/img/1frsgEsOM1N-784R.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1529526381843034116/vid/1280x720/WPT5fW5z0Z9kvMbD.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1529407116280090624/img/KHKQz-hzgwRUKIpp.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1529407116280090624/vid/906x720/THXX2_1MDXcz5SBU.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1529406506042630145/img/DFk5cERKmAqAry4n.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1529406506042630145/vid/1044x720/SY2ikPOq5RZSYe7h.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1526165414040174592/img/P6kwNIw1kfml467n.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1526165414040174592/vid/1280x720/VoGu2BWA50e4exJ0.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1525801528669642754/img/R2igXwxlstqDEvML.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1525801528669642754/vid/1280x720/xQ13LU2KOicTBmup.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1525800707873734657/img/DZmUHszDeNqmFyw5.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1525800707873734657/vid/1280x720/n0cZjRDxSfZ8HFMD.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1525800886781767681/img/TF1zR3M4j1pQuE7z.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1525800886781767681/vid/1280x720/pjFcnyyhGKbMPmHd.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1525800532006535168/img/7vrB391EsL_rqU92.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1525800532006535168/vid/1280x720/QBQSii3xgBOuDqJE.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1525795136084779008/img/cj-hRJA0SysEUF66.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1525795136084779008/vid/1280x720/YFXKlo6kJ0bfLXln.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1525790066073030656/img/_jp_SoWe9A0qB8yk.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1525790066073030656/vid/944x720/owq2R9Vr7v31snsW.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1525794965137555457/img/tQ04bjWaBntAWtOG.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1525794965137555457/vid/1280x720/QJG7MfnhY4gP_Guy.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1525801216655380480/img/Vgt5F8tqx-Mt1ql2.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1525801216655380480/vid/1280x720/A1Ubd7PRxH3MVuCc.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1525801019229503488/img/f6p0Xo_v6wL92sgI.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1525801019229503488/vid/1280x720/RIIinP9kLrMDxp0U.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1525793167601442816/img/04tgScu-n9yet22f.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1525793167601442816/vid/1280x720/WJwkwwD8AvHyMXVN.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1525789822534942721/img/ZkNsVcx_mDsgwDzD.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1525789822534942721/vid/944x720/lUMKbPOFTsNQc1gH.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1525801019229503488/img/f6p0Xo_v6wL92sgI.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1525801019229503488/vid/1280x720/RIIinP9kLrMDxp0U.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1525789822522388481/img/bCXEOKwGNl8eF68j.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1525789822522388481/vid/944x720/ospSSRmsu-NGV58V.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1525790066270179328/img/xLQBB8U3PZS_4jDu.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1525790066270179328/vid/944x720/KHiVAqRiZi4dwPcR.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1525793316511809536/img/L-bawFjNTEjS2Dlf.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1525793316511809536/vid/1280x720/yfiailzmsBHXHGQM.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1525800531427733504/img/oMQKuEADiVV4ByhT.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1525800531427733504/vid/1280x720/QffZTHJ5WjG2kqkf.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1525800987788984320/img/GfbZeSIscXw_rZl9.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1525800987788984320/vid/1280x720/6bBiOUCCDXc7g8VE.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1525801095226101761/img/VzqC40TvuW5Iitci.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1525801095226101761/vid/1280x720/WINtpDSJOGZWZ4ZN.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1525801531685351425/img/e-LGRjdY_9TSjag6.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1525801531685351425/vid/1280x720/xNDYYt-S3USRlprc.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1525789824363667457/img/JHaC1zzHwlWS33xh.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1525789824363667457/vid/944x720/D6Na10YVBRepnjbj.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1525791074790576128/img/xnZbCMVjLPibVJAt.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1525791074790576128/vid/948x720/oHRu3nf0JOdr89Jr.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1525794965460492288/img/x4ksicNMM24hs_oS.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1525794965460492288/vid/1280x720/Oit29kIlqvXgFfaF.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1525800796499374081/img/h8FrR3FKgr5KVitP.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1525800796499374081/vid/1280x720/Z4tkxf5NWXXzQc1L.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1525800799800279041/img/DFWwZvOL-PIf5uP3.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1525800799800279041/vid/1280x720/8XHvq5p1xBfXwrJu.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1525801170530607104/img/JgoT52JPh39F2Tce.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1525801170530607104/vid/1280x720/n-N1odCAyGZHlALn.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1525801528824832000/img/Ej7qv-uqAQYGzRUi.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1525801528824832000/vid/1280x720/MyieE9Rr6XKSP2D1.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1525800956973449216/img/hlsY19eRFwmpEFWa.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1525800956973449216/vid/1280x720/pgY868YStuvYoIU6.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1525789823440941056/img/BoQ_JDpKFEokKaYM.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1525789823440941056/vid/944x720/3IHiBknGGsYMf5Nz.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1525791074043981825/img/S7AYkDy_wTwloqIm.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1525791074043981825/vid/948x720/Jl4PU3mjjWkLFxVf.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1525793143131881473/img/zpU-PNjFPnMlrPrN.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1525793143131881473/vid/1280x720/xoPDj0Nw5cXQvlaB.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1525800531419348997/img/SPBHoa7IxCoMdnZ4.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1525800531419348997/vid/1280x720/bXSBS-J5NbcbO_CM.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1525793343158239233/img/AX64MEqPginFyhc5.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1525793343158239233/vid/1280x720/kQ2u8FvQ476WxSzY.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1525790065875910657/img/tDap-I1kZSJcnbAt.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1525790065875910657/vid/944x720/bxqHmTVq0iN5CEGo.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1525793143807148035/img/ufcpoHVCxCQ3Nqtw.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1525793143807148035/vid/1280x720/zC37LJ4KGTFtl6Hq.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1525793161255452672/img/TkFw67oyzG3pjqPs.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1525793161255452672/vid/1280x720/c_6IaAJ2PbAaGhPi.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1525794965120745472/img/o-hi1o9vksVJ79wv.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1525794965120745472/vid/1280x720/GSc5PyLIBxHbr6AU.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1525794966353887233/img/H7XcAsfqy4i8mjwE.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1525794966353887233/vid/1280x720/Bk8IjIHVr93vMFr1.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1525795155219206144/img/aj3SJhFEDTd1NSdT.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1525795155219206144/vid/1280x720/uUTLGq8OCm_5mM8-.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1525800531427741696/img/cABT53NEtmtMd7Q9.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1525800531427741696/vid/1280x720/w4nc8aWjKla6EqEI.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1525800770826022917/img/GMPhBarB2Y9z_9tL.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1525800770826022917/vid/1280x720/RBYXdPUIcgKTPypi.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1525800941819412481/img/M4xMWlt4rkOgySqc.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1525800941819412481/vid/1280x720/7v9HwDS64MhOKc0p.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1525801145121517568/img/W5gzpmwF3423LDQj.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1525801145121517568/vid/1280x720/FrHEGPjoyq-JM-EK.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1525801530045386753/img/mz-hNkdrqWl5wWxe.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1525801530045386753/vid/1280x720/8dFeH9BlMF63qbkn.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1523966071807512581/img/BdkqCkBI-opv-SZU.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1523966071807512581/vid/1280x720/l0SLk7LNyFV7rxhA.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1524017558352920576/img/d2h6l1eylHXMnNX5.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1524017558352920576/vid/1280x720/-ZutxlSHcEMrUDVF.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1524015794975244289/img/pH72bqcGnh0E5lBL.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1524015794975244289/vid/1280x720/aEySo5f3IjBquovl.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1524015817439862786/img/kOAc0nDdZ6d_WDEp.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1524015817439862786/vid/1280x720/4lKyWfImJnU8ngwu.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1524016228993421312/img/BUc9CzkJAeUids0W.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1524016228993421312/vid/1280x720/PnQdsKfCOsmC2GLG.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1524017560110346240/img/lYunce4zg0kiMprk.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1524017560110346240/vid/1280x720/f_J4cYXLytjd6ANy.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1524016053373661186/img/EOOHt96P704Gpxpt.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1524016053373661186/vid/1280x720/uInQdALb7uuJDB5u.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1523968081118126081/img/WfySgqconU5WE5CC.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1523968081118126081/vid/1280x720/yXfWe0RSAOOstVK0.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1524016219069710338/img/Gy7JaB1mlEtq-6us.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1524016219069710338/vid/1280x720/jDM6Au5IwtUSD1N7.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1524015546869583872/img/XfUge1QyMN9A8NkO.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1524015546869583872/vid/1280x720/bGVs3KypmiWSjzSJ.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1523967415570165760/img/DwVzLm7hvDAIDO-L.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1523967415570165760/vid/1280x720/fSfUme5J5qUXqUSr.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1523966212236931072/img/vULKsCZf8msTleoQ.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1523966212236931072/vid/1280x720/azKQrKGX_CgyfAuT.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1524017773793660929/img/1hY935HSwLIkoqZ6.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1524017773793660929/vid/1280x720/l-qvNRtnMfJBsBeJ.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1524016436720529408/img/AvzZxVbXTPRy78Nw.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1524016436720529408/vid/1280x720/4aCP-_CvMgPUEG7a.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1524016187004182528/img/9lo5WM-rnWrHbQ72.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1524016187004182528/vid/1280x720/wz8nTkng7DZoIp2J.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1524015545917444097/img/FeajOq0hSvG57HIX.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1524015545917444097/vid/1280x720/OAByUc31VSsMhHk6.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1523967412424433667/img/WUBXVS36qYLN75Cs.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1523967412424433667/vid/1280x720/F6vv-GQ9HZ7IOG_4.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1523966068582088705/img/kdPk3dkZYjtUQDwf.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1523966068582088705/vid/1280x720/5B8Oby2O3yv5Kg37.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1523966216410255360/img/G2WZwyq52Agqj9tr.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1523966216410255360/vid/1280x720/8XDmA0NmyZ7nsvf9.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1523968080778465280/img/ZpNE12pPBhYGf5_X.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1523968080778465280/vid/1280x720/P0jkXUPdXXpQ52YR.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1524015550233382912/img/ZkuEwgA044zpJ2FC.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1524015550233382912/vid/1280x720/2o-oO-WYsT4zjrrV.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1524015800440426496/img/wScto6lXzwbuUVTr.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1524015800440426496/vid/1280x720/2CU_INs692-U92KE.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1524016039641583616/img/SJiGy5ylAmnWFGwe.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1524016039641583616/vid/1280x720/KF6OsySz9QawLXbJ.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1524016081584619520/img/3lrG0xLy6hoSF-12.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1524016081584619520/vid/1280x720/qPXwxZijnmrelhWz.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1524016259532165120/img/PXBVGvjW7QrBnnPA.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1524016259532165120/vid/1280x720/itRWREDvKhDWtJL7.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1524016496631975937/img/T0oY72iz9cdYwh5k.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1524016496631975937/vid/1280x720/eFhipEUfHp4q1iQK.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1524017558369628160/img/d95Z_RsqOKn1s154.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1524017558369628160/vid/1280x720/N3_4-s-UCkU7LZys.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1524017709314605056/img/M22KI6JZ3zGUUVXW.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1524017709314605056/vid/1280x720/GOC8utXggeCHTSIR.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1524017781922230275/img/FSH7c55CbSWTKDwE.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1524017781922230275/vid/1280x720/Mzhyi1OX3huXN2WM.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1523966069186056192/img/97OZ038DbAZJpLfj.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1523966069186056192/vid/1280x720/2-5FAAigR0CZXFMU.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1523967409970827264/img/DjAwEePV5osstO3b.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1523967409970827264/vid/1280x720/Fm-6GzeTSAdLtiy0.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1523967413569474560/img/G-yWjYoVWGOrQQZh.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1523967413569474560/vid/1280x720/UN7JoZsjahNbqZJb.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1523968080644239360/img/B8vJuB4_cw1rnev6.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1523968080644239360/vid/1280x720/tD4CNgeK3ImV1ZLw.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1523968080904278019/img/5Sg-9RfNYZ0lWjbl.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1523968080904278019/vid/1280x720/R9LqubBTh1A_NiQT.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1524015545892233217/img/Q6HMvqthU-0cwpW8.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1524015545892233217/vid/1280x720/whelCJs52CkSbZ7S.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1524015800847273984/img/AvkYVNATDPgp7lRM.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1524015800847273984/vid/1280x720/L9H75HCjRFrIXWjf.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1524016064325062656/img/E46xVZUvdRlrKWx6.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1524016064325062656/vid/1280x720/280F0ymJaCT18gud.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1524016323532972032/img/7boVa4fbjzHb9Dtk.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1524016323532972032/vid/1280x720/q5jREFrB0ojs3iFq.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1524016466105831424/img/pgQwGynSMfQhnGHx.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1524016466105831424/vid/1280x720/8a1L58Q84k5zfbIw.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1524017562345910272/img/-lCgUhK5CQmQJxCQ.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1524017562345910272/vid/1280x720/N2ltJmmu8wvyAt3O.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1524017783872565250/img/kdzcrfiyd7f-Z9h1.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1524017783872565250/vid/1280x720/vksCxLHA4APiKieu.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1523966068582100992/img/PWZLSqzso6sR7Vmw.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1523966068582100992/vid/1280x720/PVqdvcchaCRVVhLL.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1521620304103354368/img/2hBZwzf71GK4lrye.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1521620304103354368/vid/1280x720/ak56eLUGrzbZdnPd.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1521620083852083200/img/hzWUI3bgsTjNnMIR.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1521620083852083200/vid/1280x720/ViwnogryEeszNfpS.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1521620293118488577/img/M0elfejWN6fa8cmM.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1521620293118488577/vid/1280x720/4ePCtVpmlJPjBt3x.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1521620475746856961/img/-s4h31lGwB7vlUcs.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1521620475746856961/vid/1280x720/Bdo_xUdP4Uyj5PG5.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1521620085756301312/img/ftQZ2NvEjMy5AXfM.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1521620085756301312/vid/1280x720/qxGzZSc1oOsDZUA5.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1521620083571048448/img/zuvDnw6yFeAAWgSx.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1521620083571048448/vid/1280x720/hawn7NfbjeDu4fip.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1521620498115096576/img/StaHgVBbgIzTETig.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1521620498115096576/vid/1280x720/0V3hX_5dQ7vYk4pM.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1521620283148599296/img/GuNHYy7Nh6UmUh4q.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1521620283148599296/vid/1280x720/oCQjuVO0-DRJtZ7r.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1521620287368085504/img/zoG0bhXZQf3Cgws4.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1521620287368085504/vid/1280x720/NXfATYmXJzuV9ua-.mp4?tag=14"
+    },
+    {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/1521620083575246849/img/en2way0nzn0lqcW6.jpg?name=orig",
+        "link": "https://video.twimg.com/amplify_video/1521620083575246849/vid/1280x720/LYkJQQT5S-kd6xQz.mp4?tag=14"
+    },
+    {
         "poster": "https://pbs.twimg.com/amplify_video_thumb/1556234211732123648/img/zouKBGcTiOzNxrbs.jpg?name=orig",
         "link": "https://video.twimg.com/amplify_video/1556234211732123648/vid/720x720/BtvMVeQrXJmZm3LA.mp4?tag=14"
     },
