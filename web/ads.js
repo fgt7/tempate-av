@@ -1,5 +1,10 @@
 const ads = [
     {
+        "nama": "topi baseball smiley mantap ikimocih ikeh ikeh arenajersey fredom",
+        "photo": "https://cf.shopee.co.id/file/43625082c07cc9a0962a84aff1246d98",
+        "link": "https://shope.ee/Xxkn8PLs"
+    },
+    {
         "nama": "KAIN SPUNBOND BUKET MURAH PER 1 METER TEBAL",
         "photo": "https://cf.shopee.sg/file/4ddd440c16f01238d3ea41df80e0bf86",
         "link": "https://shope.ee/ArB3ISnwH"
