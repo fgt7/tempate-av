@@ -207,6 +207,14 @@
     .nav-scroller {
       height: 50px;
     }
+    .judul-awal {
+      background:#212529;
+      padding:10px;
+      color:white;
+      text-align: center;
+      font-size:18pt;
+      margin-top:-5px;
+    }
     </style>
   
   </head>
@@ -234,8 +242,6 @@
         <span class="ball"></span>
       </label>
     </div>
-    <!--<span class="material-symbols-outlined position-absolute top-0 end-0 cariBokep" id="blog-click">search</span>
-    <span class="material-symbols-outlined position-absolute top-0 end-0 text-white blog-close" style="visibility:hidden">close</span>-->
     <span data-bs-toggle="modal" data-bs-target="#cari-bokep" style="width:30px;height:30px;border-radius:50%;margin:5px;margin-right:-2px;background-color:#2d2c4d">
       <span class="material-symbols-outlined position-absolute top-0 end-0 cariBokep" data-bs-target="#blog-click">search</span>
     </span>
@@ -254,23 +260,6 @@
     </div>
   </div>
 </div>
-
-<!--<div id="blog-wrap" align="center">
-  <div id="hidden-div">
-    <div style="padding:10px;height:62px;background-color:#2d2c4d">
-      <form>
-  			<div class="form-group">
-  				<input id="searchText" class="form-control" type="text" placeholder="Cari bokep...">
-    			<label style="display:none">
-    					<select id="searchField">
-    						<option value="title">Folder</option>
-    					</select>
-    			</label>
-  			</div>
-  		</form>
-   </div>
-  </div>
-</div>-->
 
 <div class="modal" id="cari-bokep" tabindex="-1" aria-labelledby="cari-bokepLabel" aria-hidden="true">
   <div class="modal-dialog modal-fullscreen modal-dialog-scrollable">
@@ -350,34 +339,20 @@
 <div class="col-md-12">
   <div class="row">
     <div>
-      <div style="margin-top:-5px" align="center">
-        <!-- JuicyAds v3.0 -->
-        <script type="text/javascript" data-cfasync="false" async src="https://poweredby.jads.co/js/jads.js"></script>
-        <ins id="972344" data-width="300" data-height="262"></ins>
-        <script type="text/javascript" data-cfasync="false" async>(adsbyjuicy = window.adsbyjuicy || []).push({'adzone':972344});</script>
-        <!--JuicyAds END-->
-      </div>
       <div class="tab-content" id="tabContent">
         <div class="container tab-pane  fade show active" id="vibokep" role="tabpanel" aria-labelledby="vibokep-tab">
-          <div class="judul-awal">For Your Prot</div>
-          <hr style="visibility: hidden">
-          <div class="player" align="center">
-            <div id="video"></div>
-            <div id="bokep"></div>
-            <button type="button" class="btn btn-primary tombolbokep" id="tombol">NEXT</button>
-          </div>
-          <div style="text-align:center;margin-top:25px">
-            <script type="text/javascript">
-            	atOptions = {
-            		'key' : '0aab8e0d8f33ebf3b6ff4f36978af895',
-            		'format' : 'iframe',
-            		'height' : 250,
-            		'width' : 300,
-            		'params' : {}
-            	};
-            	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://contentmentchef.com/0aab8e0d8f33ebf3b6ff4f36978af895/invoke.js"></scr' + 'ipt>');
-            </script>
-          </div>
+        <div class="judul-awal">For Your Prot</div>
+        <hr style="visibility: hidden">
+        <div class="player" align="center" style="padding-bottom:20px">
+          <div id="video"></div>
+          <div id="bokep"></div>
+          <button type="button" class="btn btn-primary tombolbokep" id="tombol">NEXT</button>
+        </div>
+        <div class="mt-2" style="text-align:center">
+          <script type="text/javascript" data-cfasync="false" async src="https://poweredby.jads.co/js/jads.js"></script>
+          <ins id="959232" data-width="300" data-height="112"></ins>
+          <script type="text/javascript" data-cfasync="false" async>(adsbyjuicy = window.adsbyjuicy || []).push({'adzone':959232});</script>
+        </div>
         </div>
         <hr style="visibility: hidden">
         <div class="container tab-pane fade" id="bugil" role="tabpanel" aria-labelledby="bugil-tab">
@@ -409,7 +384,7 @@
         </div>
         <hr style="visibility: hidden">
         <div class="container tab-pane  fade" id="videos" role="tabpanel" aria-labelledby="videos-tab">
-          <div class="judul-awal" style="margin-top:-3px">Koleksi Bokep Terbaru</div>
+          <div class="judul-awal" style="margin-top:-7px">Koleksi Bokep Terbaru</div>
           <hr style="visibility: hidden">
           <div class="mb-3">
             <div class="grid-bokep" id="data-bokep">
@@ -427,9 +402,9 @@
    </div>
   </div> 
 </div>
-
-<!--<div class="offcanvas offcanvas-bottom show" tabindex="-1" id="offcanvasAds" aria-labelledby="offcanvasBottomLabel" style="height:115px;background-color:#f7f7f7">
-  <div class="position-absolute top-0 end-0 translate-middle"  style="background-color:#f7f7f7;margin-top:-10px;margin-right:-17px;border-top-left-radius:12px;padding:5px">
+<!--
+<div class="offcanvas offcanvas-bottom show" style="height:115px;background-color:#f7f7f7">
+  <div class="position-absolute top-0 end-0 translate-middle"  style="background-color:#ffffff;margin-top:-10px;margin-right:-17px;border-top-left-radius:12px;padding:5px">
     <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
   </div>
   <div class="offcanvas-header" align="center">
@@ -458,16 +433,6 @@
   <script src="web/video.js"></script>
   <script src="web/ads.js"></script>
   <script src="assets/app.js"></script>
-  
-  <script>
-    var lazyLoadInstance = new LazyLoad({
-      // Your custom settings go here
-    });
-  </script>
-  
-  <script async type="application/javascript" src="https://a.realsrv.com/ad-provider.js"></script>
-  <ins class="adsbyexoclick" data-zoneid="4754472"></ins>
-  <script>(AdProvider = window.AdProvider || []).push({"serve": {}});</script>
     
   <script>
     document.addEventListener("DOMContentLoaded", function(){
