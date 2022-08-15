@@ -1,10 +1,5 @@
 const ads = [
     {
-        "nama": "topi baseball smiley mantap ikimocih ikeh ikeh arenajersey fredom",
-        "photo": "https://cf.shopee.co.id/file/43625082c07cc9a0962a84aff1246d98",
-        "link": "https://shope.ee/Xxkn8PLs"
-    },
-    {
         "nama": "KAIN SPUNBOND BUKET MURAH PER 1 METER TEBAL",
         "photo": "https://cf.shopee.sg/file/4ddd440c16f01238d3ea41df80e0bf86",
         "link": "https://shope.ee/ArB3ISnwH"
@@ -2308,7 +2303,7 @@ const ads = [
   
 function randomads() {
   let random = ads[Math.floor(Math.random() * ads.length)];
-  iklan.innerHTML = `<a href="${random.link}" onclick="myAds()"><div class="container-fluid full-width-image"><img src="${random.photo}" width="100%"><h1>${random.nama}</h1></div></div><div class="modal-footer" style="border-style:none;margin-top:-6px"><img class="position-absolute bottom-0 start-50 translate-middle-x" src="assets/img/buy.png" height="60px"></a>`;
+  iklan.innerHTML = `<a href="${random.link}" onclick="myAds()"><div class="container-fluid full-width-image"><img src="${random.photo}" width="100%"><h1 style="text-align:left;">${random.nama}<a href="${random.link}" style="color:red"> ${random.link}</a></div></div><div class="modal-footer" style="border-style:none;margin-top:-6px"></a>`;
   ads.innerHTML = random.ads;
 }
 randomads();
