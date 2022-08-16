@@ -38313,7 +38313,7 @@ var data = [
   callback: function (data, pagination) {
       var dataHtml = '';
       data.forEach((item, i)=>{
-          dataHtml += '<div id="video-bokep" data-nama="' + item.title + '"><div class="row sort-item"><a href="' + item.link + '" onclick="myAds()" style="color:black"><img id="poster" src="' + item.poster + '"  alt="' + item.title + '" width="100%" loading=lazy style="max-inline-size:100%;block-size: auto;aspect-ratio: 16/9;object-fit: cover;border-radius:10px"></a><h6 id="judul-bokep" align="left"><b>' + item.title + '</b></h6></div></div>';
+          dataHtml += '<div id="video-bokep" data-nama="' + item.title + '"><div class="row sort-item"><a href="' + item.link + '" onclick="myAds()" style="color:black"><img id="poster" src="' + item.poster + '"  alt="' + item.title + '" width="100%" loading=lazy style="max-inline-size:100%;block-size: auto;aspect-ratio: 16/9;object-fit: cover;border-radius:10px"></a><h6 id="judul-bokep"><b>' + item.title + '</b></h6></div></div>';
           });
 
           $("#data-bokep").html(dataHtml);
