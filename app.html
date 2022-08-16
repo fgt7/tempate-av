@@ -77,144 +77,33 @@
         overflow-x: hidden;
         width:100%;
       }
-      .grid-bokep {
-        width: 100%;
-        list-style: none;
-        display: grid;
-        overflow: hidden;
-        text-overflow: ellipsis;
-        grid-template-rows: 390px;
-        grid-template-columns: 48% 48%;
-        grid-row-gap: 0px;
-        grid-column-gap: 10px; 
+      @media (max-width: 400px) {
+        .grid-bokep {
+          grid-template-rows: auto;
+          grid-template-columns: 48.66% 48.66%;
+          grid-row-gap: 0px;
+          grid-column-gap: 10px; 
+        }
+      }   
+      @media (max-width: 900px) {
+        .grid-bokep {
+          grid-template-rows: auto;
+          grid-template-columns: 48.66% 48.66%;
+          grid-row-gap: 0px;
+          grid-column-gap: 10px; 
+        }
+      }   
+      .nav-scroller {
+        height: 50px;
       }
-      .grid-komik {
-        width: 100%;
-        list-style: none;
-        display: grid;
-        overflow: hidden;
-        text-overflow: ellipsis;
-        grid-template-rows: 560px;
-        grid-template-columns: 31.66% 31.66% 31.66%;
-        grid-row-gap: 0px;
-        grid-column-gap: 10px; 
-      }
-      .grid-semi {
-        width: 100%;
-        list-style: none;
-        display: grid;
-        overflow: hidden;
-        text-overflow: ellipsis;
-        grid-template-rows: 560px;
-        grid-template-columns: 31.66% 31.66% 31.66%;
-        grid-row-gap: 0px;
-        grid-column-gap: 10px; 
-      }
-      .grid-apk {
-        width: 100%;
-        list-style: none;
-        display: grid;
-        overflow: hidden;
-        text-overflow: ellipsis;
-        grid-template-rows: 450px;
-        grid-template-columns: 31.66% 31.66% 31.66%;
-        grid-row-gap: 0px;
-        grid-column-gap: 10px; 
-      }
-      @media (max-width: 1024px) {
-      .grid-bokep {
-        grid-template-rows: 180px;
-        grid-template-columns: 48.66% 48.66%;
-        grid-row-gap: 0px;
-        grid-column-gap: 10px; 
-      }
-      .grid-komik {
-        grid-template-rows: 255px ;
-        grid-template-columns: 31.66% 31.66% 31.66%;
-        grid-row-gap: 0px;
-        grid-column-gap: 10px; 
-      }
-      .grid-semi {
-        grid-template-rows: 235px ;
-        grid-template-columns: 31.66% 31.66% 31.66%;
-        grid-row-gap: 0px;
-        grid-column-gap: 10px; 
-      }
-      .grid-apk {
-        grid-template-rows: 190px;
-        grid-column-gap: 10px; 
-      }
-      #judul-bokep {
-        height:40px;
-        width:100%;
-        margin-bottom:7px;
-        margin-top:5px;
-        overflow: hidden;
-        font-size:12pt;
-        font-style:bold;
-        text-overflow: ellipsis;
-        display: -webkit-box;
-           -webkit-line-clamp: 2;
-                   line-clamp: 2; 
-           -webkit-box-orient: vertical;
-      }
-      #judul-komik {
-        height:40px;
-        width:100%;
-        margin-bottom:7px;
-        margin-top:5px;
-        overflow: hidden;
-        font-size:11pt;
-        text-overflow: ellipsis;
-        display: -webkit-box;
-           -webkit-line-clamp: 2;
-                   line-clamp: 2; 
-           -webkit-box-orient: vertical;
-      }
-      .kategori-komik {
-        margin-top:5px;
-        font-size:10pt;
-      }
-      #judul-semi {
-        height:45px;
-        width:100%;
-        margin-bottom:7px;
-        margin-top:5px;
-        overflow: hidden;
-        font-size:11pt;
-        text-overflow: ellipsis;
-        display: -webkit-box;
-           -webkit-line-clamp: 2;
-                   line-clamp: 2; 
-           -webkit-box-orient: vertical;
-      }
-      #judul-apk {
-        height:40px;
-        width:100%;
-        margin-bottom:7px;
-        margin-top:5px;
-        overflow: hidden;
+      .judul-awal {
+        background:#212529;
+        padding:10px;
+        color:white;
         text-align: center;
-        font-size:11pt;
-        font-style:bold;
-        text-overflow: ellipsis;
-        display: -webkit-box;
-           -webkit-line-clamp: 2;
-                   line-clamp: 2; 
-           -webkit-box-orient: vertical;
+        font-size:18pt;
+        margin-top:-5px;
       }
-    }   
-    .nav-scroller {
-      height: 50px;
-    }
-    .judul-awal {
-      background:#212529;
-      padding:10px;
-      color:white;
-      text-align: center;
-      font-size:18pt;
-      margin-top:-5px;
-    }
     </style>
   
   </head>
