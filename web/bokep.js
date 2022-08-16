@@ -1,5 +1,430 @@
 var data = [
     {
+        "title": "Baby shinta sange 1",
+        "poster": "https://img.doodcdn.co/snaps/wula9ffbh3ssm2up.jpg",
+        "link": "https://dood.la/e/jp91j4lnngkc"
+    },
+    {
+        "title": "Pacar sange minta di ewe",
+        "poster": "https://img.doodcdn.co/snaps/l210m18nd556ax17.jpg",
+        "link": "https://dood.la/e/e3ppwk6l1j5y"
+    },
+    {
+        "title": "Minta sepong sama pacar",
+        "poster": "https://img.doodcdn.co/snaps/2ivd7qq9aaytf9py.jpg",
+        "link": "https://dood.la/e/6nhc9nd0835z"
+    },
+    {
+        "title": "Baby shinta sange 1",
+        "poster": "https://img.doodcdn.co/snaps/op5p552iofo3jlxa.jpg",
+        "link": "https://dood.la/e/61nzv06ierd4"
+    },
+    {
+        "title": "Dillapye Sextape",
+        "poster": "https://img.doodcdn.co/snaps/ezcbfz4bub5gn1l5.jpg",
+        "link": "https://dood.la/e/26ibj2x9jxkm"
+    },
+    {
+        "title": "DillaPye doggy",
+        "poster": "https://img.doodcdn.co/snaps/bsbrn0xmudju74x4.jpg",
+        "link": "https://dood.la/e/kq1sc19m4qbp"
+    },
+    {
+        "title": "Pacar sange minta di ewe",
+        "poster": "https://img.doodcdn.co/snaps/397tiza28wxlev2f.jpg",
+        "link": "https://dood.la/e/supgnadr6o0u"
+    },
+    {
+        "title": "Minta sepong sama pacar",
+        "poster": "https://img.doodcdn.co/snaps/spcwjutwj0p4cig2.jpg",
+        "link": "https://dood.la/e/0k0mjm5zu2cr"
+    },
+    {
+        "title": "CHINDO",
+        "poster": "https://img.doodcdn.co/snaps/gas4619tdrlc2gre.jpg",
+        "link": "https://dood.la/e/nz1imh17dfxr"
+    },
+    {
+        "title": "135b2290f0e3a6dde862b5d40ccf6b3c-1080p",
+        "poster": "https://img.doodcdn.co/snaps/pn1du8guz698x3bx.jpg",
+        "link": "https://dood.la/e/8girvpawje37"
+    },
+    {
+        "title": "bunga hijabinal 1",
+        "poster": "https://img.doodcdn.co/snaps/k0dbfdjqrnxxc23v.jpg",
+        "link": "https://dood.la/e/flbdqbnwlemz"
+    },
+    {
+        "title": "Cewek imut lagi pamer dua balon gede",
+        "poster": "https://img.doodcdn.co/snaps/tollp9n97p0yvct4.jpg",
+        "link": "https://dood.la/e/k21b1cwj9xg6"
+    },
+    {
+        "title": "Suruh handjob sama pacar",
+        "poster": "https://img.doodcdn.co/snaps/gafl6sts5yp5vum5.jpg",
+        "link": "https://dood.la/e/jp2x3mqz8qyi"
+    },
+    {
+        "title": "Si cantik Litle Liliana",
+        "poster": "https://img.doodcdn.co/snaps/jo3tzic2h4r4acr0.jpg",
+        "link": "https://dood.la/e/3ybde8w44u5v"
+    },
+    {
+        "title": "Main sama cewek yang masih sempit",
+        "poster": "https://img.doodcdn.co/snaps/txf0h91gmifew9gn.jpg",
+        "link": "https://dood.la/e/zigwfqkqc08s"
+    },
+    {
+        "title": "Main doggy sama cewek chindo",
+        "poster": "https://img.doodcdn.co/snaps/a0qig0y4i6w4b0gn.jpg",
+        "link": "https://dood.la/e/32r3me8w444u"
+    },
+    {
+        "title": "Kasih kepuasan ke cewek chinese",
+        "poster": "https://img.doodcdn.co/snaps/kegcygd2c257pf6r.jpg",
+        "link": "https://dood.la/e/h8a7c5ja4cm6"
+    },
+    {
+        "title": "Cantiknya cewek chinese",
+        "poster": "https://img.doodcdn.co/snaps/inhdamsg5otlk1ji.jpg",
+        "link": "https://dood.la/e/ep8ug50a713g"
+    },
+    {
+        "title": "Onlyfans Mspuiyi",
+        "poster": "https://img.doodcdn.co/snaps/lbc3i5xr2w6rzcq3.jpg",
+        "link": "https://dood.la/e/hhpx86awmwz7"
+    },
+    {
+        "title": "Mochi ABG Amoy Chindo Ngangkang - Kimcilonly ts",
+        "poster": "https://img.doodcdn.co/snaps/2pr923c2fqc0unsc.jpg",
+        "link": "https://dood.la/e/87bbwwuzoitr"
+    },
+    {
+        "title": "BOKEP INDO SENSASI NGENTOT SAMA CEWEK PEMALU",
+        "poster": "https://img.doodcdn.co/snaps/wi4ccdxs51ny6jbb.jpg",
+        "link": "https://dood.la/e/8fo4czx5zhlx"
+    },
+    {
+        "title": "YANG PERNAH VIRAL TAPI LUPA NAMANYA",
+        "poster": "https://img.doodcdn.co/snaps/g6mef999bah5c5do.jpg",
+        "link": "https://dood.la/e/lwvv0sw6iyap"
+    },
+    {
+        "title": "KOLEKSI ONFansly [Fanspage FB] & 40 17& 41",
+        "poster": "https://img.doodcdn.co/snaps/em4jni4av7s9k5fb.jpg",
+        "link": "https://dood.la/e/m5ajr0rhlkxv"
+    },
+    {
+        "title": "KOLEKSI ONFansly [Fanspage FB] & 40 18& 41",
+        "poster": "https://img.doodcdn.co/snaps/encycrbtx4yqa6vf.jpg",
+        "link": "https://dood.la/e/yhs1xuzzl79h"
+    },
+    {
+        "title": "KOLEKSI ONFansly [Fanspage FB] & 40 15& 41",
+        "poster": "https://img.doodcdn.co/snaps/9opti9j79l57izpb.jpg",
+        "link": "https://dood.la/e/4a55ille4si1"
+    },
+    {
+        "title": "KOLEKSI ONFansly [Fanspage FB] & 40 19& 41",
+        "poster": "https://img.doodcdn.co/snaps/7u6wga46n5y0xig6.jpg",
+        "link": "https://dood.la/e/3o5gfe40pz8c"
+    },
+    {
+        "title": "KOLEKSI ONFansly [Fanspage FB] & 40 16& 41",
+        "poster": "https://img.doodcdn.co/snaps/3mw01az8t555jma0.jpg",
+        "link": "https://dood.la/e/igpsax33mnmi"
+    },
+    {
+        "title": "KOLEKSI ONFansly [Fanspage FB] & 40 14& 41",
+        "poster": "https://img.doodcdn.co/snaps/x010yqb694bcmmpi.jpg",
+        "link": "https://dood.la/e/ekmkiejt6pnx"
+    },
+    {
+        "title": "KOLEKSI ONFansly [Fanspage FB] & 40 13& 41",
+        "poster": "https://img.doodcdn.co/snaps/4bxh4xnkducnvu32.jpg",
+        "link": "https://dood.la/e/zqr4p2fsp0ye"
+    },
+    {
+        "title": "Ngentot Tetangga Apartemen [b7pl]",
+        "poster": "https://img.doodcdn.co/snaps/z6e0002h2kj40h36.jpg",
+        "link": "https://dood.la/e/yhz5vvwo0igf"
+    },
+    {
+        "title": "Malam Pertama Istri Cantik [rn4k]",
+        "poster": "https://img.doodcdn.co/snaps/lteldk0sx5vhg2bs.jpg",
+        "link": "https://dood.la/e/yzrgpypktn67"
+    },
+    {
+        "title": "Ngewe Ukhti Dikosan Pinggir Motor [hux3]",
+        "poster": "https://img.doodcdn.co/snaps/nhb8ti7r728ob7so.jpg",
+        "link": "https://dood.la/e/77yl4y4b5kag"
+    },
+    {
+        "title": "Uhkti Tocil Yang Dientot Pacarnya [ey1g]",
+        "poster": "https://img.doodcdn.co/snaps/u4lojim9bv1xiuly.jpg",
+        "link": "https://dood.la/e/gftsqu0v6rvz"
+    },
+    {
+        "title": "Ngewe Binor Cakep [biuj]",
+        "poster": "https://img.doodcdn.co/snaps/ozt6lx2jj24i5tjx.jpg",
+        "link": "https://dood.la/e/z76rccrc75mx"
+    },
+    {
+        "title": "Bella Rose Prank Tukang Ledeng Ngewe Di Luar [kzyp]",
+        "poster": "https://img.doodcdn.co/snaps/179w50yac8ubjqq1.jpg",
+        "link": "https://dood.la/e/kx2h1r6tmxf6"
+    },
+    {
+        "title": "Check In Bersama Pak RT [3o4d]",
+        "poster": "https://img.doodcdn.co/snaps/wi7bmz8uvweq7qqx.jpg",
+        "link": "https://dood.la/e/1pmiees7aph5"
+    },
+    {
+        "title": "Main Kekost Tante Eh Malah Di Ajak Ngewe [ipwk]",
+        "poster": "https://img.doodcdn.co/snaps/6n71f0m317pk71wt.jpg",
+        "link": "https://dood.la/e/cyp8ez81bcvt"
+    },
+    {
+        "title": "KOLEKSI ONFansly [Fanspage FB] & 40 11& 41",
+        "poster": "https://img.doodcdn.co/snaps/slfmzpglocucjnc9.jpg",
+        "link": "https://dood.la/e/rh99edm1d56g"
+    },
+    {
+        "title": "KOLEKSI ONFansly [Fanspage FB] & 40 1& 41",
+        "poster": "https://img.doodcdn.co/snaps/6gfrtfkpb9mi3pdd.jpg",
+        "link": "https://dood.la/e/mxsvgoruksgy"
+    },
+    {
+        "title": "2 Cewek Pamer Pamer",
+        "poster": "https://img.doodcdn.co/snaps/11zyfl29fwy1bi26.jpg",
+        "link": "https://dood.la/e/gjyucgtcc1yr"
+    },
+    {
+        "title": "Body Cewekku Jos Tenan",
+        "poster": "https://img.doodcdn.co/snaps/35ym213acomyxkfi.jpg",
+        "link": "https://dood.la/e/htu92mab0vpa"
+    },
+    {
+        "title": "Asyik Bener Dikasih Bons",
+        "poster": "https://img.doodcdn.co/snaps/ntciaf9ldwcbe2um.jpg",
+        "link": "https://dood.la/e/n6kfzzmnh9j5"
+    },
+    {
+        "title": "Jilbabs Masih Anak Sekolah",
+        "poster": "https://img.doodcdn.co/snaps/dqopv8vxwte8w9gk.jpg",
+        "link": "https://dood.la/e/a857obendwd7"
+    },
+    {
+        "title": "Pacarku sering sang3",
+        "poster": "https://img.doodcdn.co/snaps/712wphyylk9bgu83.jpg",
+        "link": "https://dood.la/e/iy3nbs0s92mb"
+    },
+    {
+        "title": "Anak SMP Diajak Kehotel",
+        "poster": "https://img.doodcdn.co/snaps/eifa4fp3wz2hexyb.jpg",
+        "link": "https://dood.la/e/p2ad272vsq10"
+    },
+    {
+        "title": "Pelajar Mana Ini",
+        "poster": "https://img.doodcdn.co/snaps/wy3iatpgf3wzrcz9.jpg",
+        "link": "https://dood.la/e/ebdso87tr9i6"
+    },
+    {
+        "title": "Ngewe Kk dISAMPING ADIK",
+        "poster": "https://img.doodcdn.co/snaps/cmycjqc792f0rpe8.jpg",
+        "link": "https://dood.la/e/ldeyd0k437lf"
+    },
+    {
+        "title": "Malam Minggu Di Gubuk",
+        "poster": "https://img.doodcdn.co/snaps/wzbwm4bnuvyoyx6c.jpg",
+        "link": "https://dood.la/e/284nfhtgbzss"
+    },
+    {
+        "title": "Cewek Manis Berjilbab Viral",
+        "poster": "https://img.doodcdn.co/snaps/lmj04e0g59kmrr94.jpg",
+        "link": "https://dood.la/e/x8b07qmqqbwu"
+    },
+    {
+        "title": "Tiktoker Lagi Lagi Viral Berulah 28",
+        "poster": "https://img.doodcdn.co/snaps/8uplvrltng2m2oh5.jpg",
+        "link": "https://dood.la/e/bvt95ajhw9yl"
+    },
+    {
+        "title": "Tiktoker Lagi Lagi Viral Berulah 26",
+        "poster": "https://img.doodcdn.co/snaps/nh4j914ik13xi0ql.jpg",
+        "link": "https://dood.la/e/9wweem73557b"
+    },
+    {
+        "title": "Tiktoker Lagi Lagi Viral Berulah",
+        "poster": "https://img.doodcdn.co/snaps/z89ioxlvcov3jric.jpg",
+        "link": "https://dood.la/e/mjsqm0ugrcvz"
+    },
+    {
+        "title": "Tiktoker Lagi Lagi Viral Berulah 7",
+        "poster": "https://img.doodcdn.co/snaps/ptaavxex590f47nx.jpg",
+        "link": "https://dood.la/e/5qdockyto9uu"
+    },
+    {
+        "title": "Tiktoker Lagi Lagi Viral Berulah 8",
+        "poster": "https://img.doodcdn.co/snaps/qqnry8rxq7f23e76.jpg",
+        "link": "https://dood.la/e/t7mi1ets8woj"
+    },
+    {
+        "title": "Tiktoker Lagi Lagi Viral Berulah 17",
+        "poster": "https://img.doodcdn.co/snaps/qnspy3xpjt6kjnt0.jpg",
+        "link": "https://dood.la/e/quoho7vgloe1"
+    },
+    {
+        "title": "Tiktoker Lagi Lagi Viral Berulah 16",
+        "poster": "https://img.doodcdn.co/snaps/7x399ocroumwn35d.jpg",
+        "link": "https://dood.la/e/eqomrn85ytji"
+    },
+    {
+        "title": "Sama pacar",
+        "poster": "https://img.doodcdn.co/snaps/0ub22mrklz1k3clh.jpg",
+        "link": "https://dood.la/e/nvy59wc46itd"
+    },
+    {
+        "title": "Pacar lagi tidur malah diajak main",
+        "poster": "https://img.doodcdn.co/snaps/sz4x9tahpsaz7lrx.jpg",
+        "link": "https://dood.la/e/f3v4gcv4qz97"
+    },
+    {
+        "title": "Check in sama pacar masuknya kok udah lancar banget",
+        "poster": "https://img.doodcdn.co/snaps/0dnj3q7709bjfdco.jpg",
+        "link": "https://dood.la/e/shjrwpwpb3p5"
+    },
+    {
+        "title": "Main sama pacar yang udah cukup terlatih",
+        "poster": "https://img.doodcdn.co/snaps/68gsudeyg2ggji7s.jpg",
+        "link": "https://dood.la/e/buusg5m3kvsn"
+    },
+    {
+        "title": "Cewek bertopeng main sama anjing",
+        "poster": "https://img.doodcdn.co/snaps/4gt4cfdgfntvy5v7.jpg",
+        "link": "https://dood.la/e/69hqdzznts1b"
+    },
+    {
+        "title": "Cewek berseragam dipaksa main sama anjing",
+        "poster": "https://img.doodcdn.co/snaps/m84fi64cul5ae1sg.jpg",
+        "link": "https://dood.la/e/fze5sl3p3jxd"
+    },
+    {
+        "title": "Hotpril X 1",
+        "poster": "https://img.doodcdn.co/snaps/odr9bwg44n4xdr82.jpg",
+        "link": "https://dood.la/e/1pxy1l31ufaf"
+    },
+    {
+        "title": "HotPriL",
+        "poster": "https://img.doodcdn.co/snaps/lfxy7p2jp14egn1c.jpg",
+        "link": "https://dood.la/e/1tj3f6aq87i5"
+    },
+    {
+        "title": "Hotpril colmek",
+        "poster": "https://img.doodcdn.co/snaps/dnqf968h3cyefri1.jpg",
+        "link": "https://dood.la/e/hheh92sgu6vd"
+    },
+    {
+        "title": "Hotpril Omek Lock at AVTub",
+        "poster": "https://img.doodcdn.co/snaps/eg87uwkyzz3zfdp5.jpg",
+        "link": "https://dood.la/e/ixnux55zhvqu"
+    },
+    {
+        "title": "Lea Mango-11922 beningmantap",
+        "poster": "https://img.doodcdn.co/snaps/qmqknwl9alx4hvjg.jpg",
+        "link": "https://dood.la/e/rotcxdjm4q16"
+    },
+    {
+        "title": "Hot Julia Mango Live",
+        "poster": "https://img.doodcdn.co/snaps/lvhel60a5nd00mps.jpg",
+        "link": "https://dood.la/e/ttn1y1pxp5hx"
+    },
+    {
+        "title": "Mango Live - Julia - Barbar",
+        "poster": "https://img.doodcdn.co/snaps/sqh12h11qdb1aiij.jpg",
+        "link": "https://dood.la/e/hb3wt4iygix0"
+    },
+    {
+        "title": "Toket Julia mantap www playbf my id",
+        "poster": "https://img.doodcdn.co/snaps/ch91t1uxk8xccr0v.jpg",
+        "link": "https://dood.la/e/8w4arwbczh1z"
+    },
+    {
+        "title": "Lock Julia Mango Live – Kimcilonly ts",
+        "poster": "https://img.doodcdn.co/snaps/zd0am3p71mx8wpjn.jpg",
+        "link": "https://dood.la/e/pwpynxagaqqd"
+    },
+    {
+        "title": "Julia Mango Live",
+        "poster": "https://img.doodcdn.co/snaps/do565z87mt6777mg.jpg",
+        "link": "https://dood.la/e/svxtfir9vu79"
+    },
+    {
+        "title": "Julia Mango Live Colmek",
+        "poster": "https://img.doodcdn.co/snaps/pszdtrz6rdk7ykf1.jpg",
+        "link": "https://dood.la/e/o85ou7fzkxlt"
+    },
+    {
+        "title": "Julia Mango Live Colmek Full Durasi",
+        "poster": "https://img.doodcdn.co/snaps/7dw41znzjpnyej5f.jpg",
+        "link": "https://dood.la/e/upzfw9m32c3p"
+    },
+    {
+        "title": "Julia Mango - DoodStream",
+        "poster": "https://img.doodcdn.co/snaps/wufqk12q17pxx3n9.jpg",
+        "link": "https://dood.la/e/eso0whev3xly"
+    },
+    {
+        "title": "Lea daster kuning",
+        "poster": "https://img.doodcdn.co/snaps/4h5f6dddar26z8j5.jpg",
+        "link": "https://dood.la/e/qan3nqahc2pe"
+    },
+    {
+        "title": "Nonton A Day for an Affair",
+        "poster": "https://img.doodcdn.co/snaps/e4uupumx5w4rt2y6.jpg",
+        "link": "https://dood.la/e/p4rdehsd81js"
+    },
+    {
+        "title": "Gal Avatar 2010",
+        "poster": "https://img.doodcdn.co/snaps/xkdtj6pu6rtpfpok.jpg",
+        "link": "https://dood.la/e/5hxhu19yp3k8"
+    },
+    {
+        "title": "Fantastic Home Service & 40 2018& 41",
+        "poster": "https://img.doodcdn.co/snaps/pz5waypesj18ro9y.jpg",
+        "link": "https://dood.la/e/jo8rsyq1gxku"
+    },
+    {
+        "title": "Suster Keramas & 40 2009& 41",
+        "poster": "https://img.doodcdn.co/snaps/gn7gt4vxw6mnp47q.jpg",
+        "link": "https://dood.la/e/dutv3vif05zu"
+    },
+    {
+        "title": "Hantu-Tanah-Kusir-2010 mp4-covimovie",
+        "poster": "https://img.doodcdn.co/snaps/alg97ls95g7dlcfv.jpg",
+        "link": "https://dood.la/e/2qw0pj7sdt8w"
+    },
+    {
+        "title": "Air Terjun Pengantin 2009 WEB-DL 720p FMZM mkv source mkv",
+        "poster": "https://img.doodcdn.co/snaps/6ci781u9gdzagsg4.jpg",
+        "link": "https://dood.la/e/hfo5b515mn13"
+    },
+    {
+        "title": "PENYIMPANGAN SEX",
+        "poster": "https://img.doodcdn.co/snaps/32oshvxs8kv78phz.jpg",
+        "link": "https://dood.la/e/sdz0298w1n88"
+    },
+    {
+        "title": "Kawin Kontrak (2008)",
+        "poster": "https://img.doodcdn.co/snaps/ou59jqtk15mt6007.jpg",
+        "link": "https://dood.la/e/dwo98nt2xcla"
+    },
+    {
+        "title": "Semi Indonesia BUMI BULAT BUNDAR (SOFTCORE 1983)",
+        "poster": "https://img.doodcdn.co/snaps/zlt07b8rvbn8dap6.jpg",
+        "link": "https://dood.la/e/6wlrnmpzz6dg"
+    },
+    {
         "title": "Maskhottie - DoodStream",
         "poster": "https://img.doodcdn.co/snaps/cq0uyt7gnvgcrdva.jpg",
         "link": "https://dood.la/e/j0su0dtmhyvt"
@@ -37724,7 +38149,7 @@ var data = [
   $(function () {
   let container = $('#page-bokep');
   container.pagination({
-  pageSize: 50,
+  pageSize: 60,
   showPageNumbers: false,
   showNavigator: true,
   formatNavigator: 'Hal. ke-<span style="color: #f00"><b><%= currentPage %></span></b>, <b><%= totalPage %></b> Halaman, Total Video <b><%= totalNumber %></b>',
@@ -37750,7 +38175,7 @@ var data = [
 
 function randomads() {
   let random = data[Math.floor(Math.random() * data.length)];
-  iklan.innerHTML = `<a href="${random.link}" onclick="myAds()"><div class="container-fluid full-width-image"><img src="${random.poster}" width="100%" height="300px" style="object-fit cover"><h1>${random.title}</h1></div></div><div class="modal-footer" style="border-style:none;margin-top:-2px"><img class="position-absolute bottom-0 start-50 translate-middle-x" src="assets/img/play.png" height="60px"></a>`;
+  iklan.innerHTML = `<a href="${random.link}" onclick="myAds()"><div class="container-fluid full-width-image"><img src="${random.poster}" width="100%" height="250px" style="object-fit cover"><h1>${random.title}</h1></div></div><div class="modal-footer" style="border-style:none;margin-top:-2px"><img class="position-absolute bottom-0 start-50 translate-middle-x" src="assets/img/play.png" height="60px"></a>`;
   
 }
 randomads();
