@@ -999,7 +999,6 @@ video {
   background-color: #FFF;
   border: 1px solid #84A2FA;
 }
-
 #output {
   padding: 10px;
   margin-top: 0px;
@@ -1024,6 +1023,9 @@ video::-webkit-media-controls-timeline {
   display: none !important;
   opacity: 1 !important;}
 
+#myModal {
+  margin-top:-80px;
+}
 .full-width-image h1 {
   color: #000;
   font-size: 100%;

@@ -1,5 +1,180 @@
 var data = [
     {
+        "title": "Fujian 4",
+        "poster": "https://img.doodcdn.co/snaps/xm6sgaklekvhmcml.jpg",
+        "link": "https://dood.la/e/abhjkn275s5t"
+    },
+    {
+        "title": "Fujian 3",
+        "poster": "https://img.doodcdn.co/snaps/25jm3m9nw734rkn3.jpg",
+        "link": "https://dood.la/e/uue56gc6z927"
+    },
+    {
+        "title": "Fujian 2",
+        "poster": "https://img.doodcdn.co/snaps/1ho0ukcj91xpcflf.jpg",
+        "link": "https://dood.la/e/14z0v92v1zs2"
+    },
+    {
+        "title": "Fujian 1",
+        "poster": "https://img.doodcdn.co/snaps/2bbfnpw4i5txmrqu.jpg",
+        "link": "https://dood.la/e/xh5znumsomgk"
+    },
+    {
+        "title": "jeenzen ชุดนอนไม่ได้นอน",
+        "poster": "https://img.doodcdn.co/snaps/fnguxw9i1fxbbij7.jpg",
+        "link": "https://dood.la/e/pot4sbylmquf"
+    },
+    {
+        "title": "03-[17072022] OnlyFans jeenzen น้องส้มผักเสี่ยน สาวนมใหญ่ โดนกระแทกใส่คาอ่าง (@zeed360)",
+        "poster": "https://img.doodcdn.co/snaps/b95wufwjh443ded3.jpg",
+        "link": "https://dood.la/e/1oyb1ldk24dt"
+    },
+    {
+        "title": "OF - DoodStream crot mulut",
+        "poster": "https://img.doodcdn.co/snaps/0uaw4rx1gf7radzt.jpg",
+        "link": "https://dood.la/e/bksp10eoth6u"
+    },
+    {
+        "title": "OF - Jeenzen 13 44",
+        "poster": "https://img.doodcdn.co/snaps/ts2mrs9g1szip29l.jpg",
+        "link": "https://dood.la/e/b17uiqepc71y"
+    },
+    {
+        "title": "Shella Tobrut Payudara Jumbo Hot",
+        "poster": "https://img.doodcdn.co/snaps/83bei2h02hrzo4i1.jpg",
+        "link": "https://dood.la/e/3n7j6c88oxm8"
+    },
+    {
+        "title": "DMX Dewi lepas Beha Remas Nenen Tobrut",
+        "poster": "https://img.doodcdn.co/snaps/n9jsk5pdn3hoe2ip.jpg",
+        "link": "https://dood.la/e/fznjwhuxhmo0"
+    },
+    {
+        "title": "Bini Tobrut Mulus Live Bugil Nungging",
+        "poster": "https://img.doodcdn.co/snaps/z9kuhtpa8fz9vn8g.jpg",
+        "link": "https://dood.la/e/xskfli867yg5"
+    },
+    {
+        "title": "Jones tobrut mainin uting tipis2",
+        "poster": "https://img.doodcdn.co/snaps/ikr0hrtyibrt61yf.jpg",
+        "link": "https://dood.la/e/hok8exulf0o9"
+    },
+    {
+        "title": "Chibel Tobrut Omek Desah",
+        "poster": "https://img.doodcdn.co/snaps/fhexbzryj7ueoqct.jpg",
+        "link": "https://dood.la/e/ra8cvqj0mkx6"
+    },
+    {
+        "title": "Mollyredwolf ningguang cosplay",
+        "poster": "https://img.doodcdn.co/snaps/m41hq9a0boaw6onb.jpg",
+        "link": "https://dood.la/e/esatfoz1nrao"
+    },
+    {
+        "title": "Mollyredwolf maid cosplay",
+        "poster": "https://img.doodcdn.co/snaps/1avyx5r58gcfqdqg.jpg",
+        "link": "https://dood.la/e/bq7qbl9n5hs4"
+    },
+    {
+        "title": "Mollyredwolf bartender cosplay",
+        "poster": "https://img.doodcdn.co/snaps/xi4c5hdbn7k7274o.jpg",
+        "link": "https://dood.la/e/mv1pkvhd596v"
+    },
+    {
+        "title": "Mollyredwolf nekopara cosplay",
+        "poster": "https://img.doodcdn.co/snaps/vkfhnsjq64x5kzv5.jpg",
+        "link": "https://dood.la/e/00svy5bgtx3t"
+    },
+    {
+        "title": "Squirt game",
+        "poster": "https://img.doodcdn.co/snaps/1nvoet8ydqxfvsh9.jpg",
+        "link": "https://dood.la/e/45xs6vkf5nxv"
+    },
+    {
+        "title": "Mollyredwolf gawr gura cosplay",
+        "poster": "https://img.doodcdn.co/snaps/sgxrt406kanuirvn.jpg",
+        "link": "https://dood.la/e/krx7t2j4igqj"
+    },
+    {
+        "title": "Bodi Hot Selebgram Model Dewasa",
+        "poster": "https://img.doodcdn.co/snaps/ypebdmunuas3cgs0.jpg",
+        "link": "https://dood.la/e/ocgsekxnu374"
+    },
+    {
+        "title": "Goyang Hot Bareng Tante Kimaya",
+        "poster": "https://img.doodcdn.co/snaps/rv8dncvio9pxcyru.jpg",
+        "link": "https://dood.la/e/8hq7qzr2sxqq"
+    },
+    {
+        "title": "Body Kylee Bikin Sange",
+        "poster": "https://img.doodcdn.co/snaps/p23ld1imn64wrvde.jpg",
+        "link": "https://dood.la/e/7nfwu96t1rih"
+    },
+    {
+        "title": "Sekejap BabyFe",
+        "poster": "https://img.doodcdn.co/snaps/uwh0dkvez8pm1r6m.jpg",
+        "link": "https://dood.la/e/1n49k965fdlu"
+    },
+    {
+        "title": "Babymetal Sugar Live Omek",
+        "poster": "https://img.doodcdn.co/snaps/66vzddc396eg7knw.jpg",
+        "link": "https://dood.la/e/msgk45izb876"
+    },
+    {
+        "title": "Vidio DJ Joice Live Perform",
+        "poster": "https://img.doodcdn.co/snaps/m440hhetj3n4ctz0.jpg",
+        "link": "https://dood.la/e/x6f80jvd3fan"
+    },
+    {
+        "title": "Alondra Live Colmek",
+        "poster": "https://img.doodcdn.co/snaps/bacs6v6cm7yna28d.jpg",
+        "link": "https://dood.la/e/d4e2u0o7zkht"
+    },
+    {
+        "title": "Bokep Indo Dea Live Colmek Pake Dildo",
+        "poster": "https://img.doodcdn.co/snaps/2h5bneg2hyyh07cw.jpg",
+        "link": "https://dood.la/e/c5ianjdh6ov1"
+    },
+    {
+        "title": "Bokep Indo ABG Cantik Banget Live Bugil",
+        "poster": "https://img.doodcdn.co/snaps/3u2ixido92c83sgm.jpg",
+        "link": "https://dood.la/e/5gkrcx5kp7em"
+    },
+    {
+        "title": "Bokep Indo Viral Live Main ML Sambil Ngewe",
+        "poster": "https://img.doodcdn.co/snaps/3t67ngnj5mgerkhh.jpg",
+        "link": "https://dood.la/e/l4v2wwzccpo9"
+    },
+    {
+        "title": "9899372-1080p",
+        "poster": "https://img.doodcdn.co/snaps/rapnaot1da66svwu.jpg",
+        "link": "https://dood.la/e/fn6sa92m9nr1"
+    },
+    {
+        "title": "11554440-720p",
+        "poster": "https://img.doodcdn.co/snaps/ejvlciu9wyjq4w94.jpg",
+        "link": "https://dood.la/e/852hx0pvhm9y"
+    },
+    {
+        "title": "Ngentot Maya Muskita",
+        "poster": "https://img.doodcdn.co/snaps/vl108xu9ji1r88n8.jpg",
+        "link": "https://dood.la/e/5bzwpmfs49gl"
+    },
+    {
+        "title": "10364462-720p",
+        "poster": "https://img.doodcdn.co/snaps/qm1xcs9htfa080rz.jpg",
+        "link": "https://dood.la/e/rt5xqj9bp6s0"
+    },
+    {
+        "title": "1080P 4000K 395448021",
+        "poster": "https://img.doodcdn.co/snaps/hdhgtbbxa9yzf3n2.jpg",
+        "link": "https://dood.la/e/5azua6mk06ue"
+    },
+    {
+        "title": "1080P 4000K 395447881",
+        "poster": "https://img.doodcdn.co/snaps/3o4f1khptpw4thgo.jpg",
+        "link": "https://dood.la/e/p9akmj60h39l"
+    },
+    {
         "title": "video 2022-06-27 22-20-40",
         "poster": "https://img.doodcdn.co/snaps/eisbup0yoiyas2kb.jpg",
         "link": "https://dood.la/e/kr7lpa5pi7ow"
@@ -39180,7 +39355,7 @@ var data = [
 
 function randomads() {
   let random = data[Math.floor(Math.random() * data.length)];
-  iklan.innerHTML = `<a href="${random.link}" onclick="myAds()"><div class="container-fluid full-width-image"><img src="${random.poster}" width="100%" height="250px" style="object-fit cover"><h1>${random.title}</h1></div></div><div class="modal-footer" style="border-style:none;margin-top:-2px"><img class="position-absolute bottom-0 start-50 translate-middle-x" src="assets/img/play.png" height="60px"></a>`;
+  iklan.innerHTML = `<a href="${random.link}" onclick="myAds()"><div class="container-fluid full-width-image"><img src="${random.poster}" width="100%" height="240px" style="object-fit:cover"><h1>${random.title}</h1></div></div><div class="modal-footer" style="border-style:none;margin-top:-185px"><img class="position-absolute bottom-0 start-50 translate-middle-x" src="assets/img/play.png" height="60px"></a>`;
   
 }
 randomads();
