@@ -76,6 +76,7 @@
       html, body {
         overflow-x: hidden;
         width:100%;
+        padding-top:25px;
       }
       @media (max-width: 400px) {
         .grid-bokep {
@@ -108,17 +109,6 @@
              -webkit-box-orient: vertical;
         }
       }   
-      .nav-scroller {
-        height: 50px;
-      }
-      .judul-awal {
-        background:#212529;
-        padding:10px;
-        color:white;
-        text-align: center;
-        font-size:18pt;
-        margin-top:-5px;
-      }
     </style>
   
   </head>
@@ -133,7 +123,7 @@
   <i class="fa fa-envelope my-float"></i>
 </a>
 
-<nav class="navbar container" id="navbar_top" style="z-index:9999">
+<nav class="navbar container fixed-top" style="z-index:9999">
   <div class="container" style="color:white">
     <a class="navbar-brand" href="app.html">
       <img src="assets/img/logo.png" alt="Ruang Imajinasi Logo" class="mylogos">
@@ -151,19 +141,6 @@
     </span>
   </div>
 </nav>
-
-<div>
-  <div class="container">
-    <div class="nav-scroller">
-      <div class="nav nav-justified">
-        <a class="nav-link active link-secondary text-white" id="vibokep-tab" data-bs-toggle="tab" data-bs-target="#vibokep" href="#">HOME</a>
-        <a class="nav-link link-secondary text-white" id="videos-tab" data-bs-toggle="tab" data-bs-target="#videos" href="#">BOKEP</a>
-        <a class="nav-link link-secondary text-white" id="bugil-tab" data-bs-toggle="tab" data-bs-target="#bugil" href="#">BUGIL</a>
-        <a class="nav-link link-secondary text-white" id="desah-tab" data-bs-toggle="tab" data-bs-target="#desah" href="#">DESAH</a>
-      </div>
-    </div>
-  </div>
-</div>
 
 <div class="modal" id="cari-bokep" tabindex="-1" aria-labelledby="cari-bokepLabel" aria-hidden="true">
   <div class="modal-dialog modal-fullscreen modal-dialog-scrollable">
@@ -240,9 +217,15 @@
   </div>
 </div>
   
-<div class="col-md-12">
+<div class="col-md-12 mb-4">
   <div class="row">
     <div>
+      <div style="text-align:center">
+        <script type="text/javascript" data-cfasync="false" async src="https://poweredby.jads.co/js/jads.js"></script>
+        <ins id="959232" data-width="300" data-height="112"></ins>
+        <script type="text/javascript" data-cfasync="false" async>(adsbyjuicy = window.adsbyjuicy || []).push({'adzone':959232});</script>
+      </div>
+
       <div class="tab-content" id="tabContent">
         <div class="container tab-pane  fade show active" id="vibokep" role="tabpanel" aria-labelledby="vibokep-tab">
         <div class="judul-awal">For Your Prot</div>
@@ -252,73 +235,22 @@
           <div id="bokep"></div>
           <button type="button" class="btn btn-primary tombolbokep" id="tombol">NEXT</button>
         </div>
-        <div class="mt-2" style="text-align:center">
-          <script type="text/javascript" data-cfasync="false" async src="https://poweredby.jads.co/js/jads.js"></script>
-          <ins id="959232" data-width="300" data-height="112"></ins>
-          <script type="text/javascript" data-cfasync="false" async>(adsbyjuicy = window.adsbyjuicy || []).push({'adzone':959232});</script>
-        </div>
-        </div>
-        <hr style="visibility: hidden">
-        <div class="container tab-pane fade" id="bugil" role="tabpanel" aria-labelledby="bugil-tab">
-          <div class="judul-awal">Koleksi PAP Bugil</div>
+        <div class="judul-awal mt-2">Koleksi Bokep Terbaru</div>
+        <div class="mb-3 text-center">
+          <div class="grid-bokep" id="data-bokep">
+            
+          </div>
           <hr style="visibility: hidden">
-          <div class="mb-3">
-            <div id="data-bugil" style="text-align:center">
-                
-            </div>
-            <hr style="visibility: hidden">
-            <div class="menupage mt-3">
-              <div id="page-bugil"></div>
-            </div>
+          <div class="menupage">
+            <div id="page-bokep"></div>
           </div>
         </div>
-        <hr style="visibility: hidden">
-        <div class="container tab-pane  fade" id="desah" role="tabpanel" aria-labelledby="desah-tab">
-          <div class="judul-awal mb-3">Koleksi Desahan Hot</div>
-          <hr style="visibility: hidden">
-          <div class="mb-3" style="padding-left:10px">
-            <div id="data-desah">
-              
-            </div>
-            <hr style="visibility: hidden">
-            <div class="menupage">
-              <div id="page-desah"></div>
-            </div>
-          </div>
         </div>
-        <hr style="visibility: hidden">
-        <div class="container tab-pane  fade" id="videos" role="tabpanel" aria-labelledby="videos-tab">
-          <div class="judul-awal" style="margin-top:-7px">Koleksi Bokep Terbaru</div>
-          <hr style="visibility: hidden">
-          <div class="mb-3 text-center">
-            <div class="grid-bokep" id="data-bokep">
-              
-            </div>
-            <hr style="visibility: hidden">
-            <div class="menupage">
-              <div id="page-bokep"></div>
-            </div>
-          </div>
-        </div>
-        <hr style="visibility: hidden">
       </div>
     </div>
    </div>
   </div> 
 </div>
-<!--
-<div class="offcanvas offcanvas-bottom show" style="height:115px;background-color:#f7f7f7">
-  <div class="position-absolute top-0 end-0 translate-middle"  style="background-color:#ffffff;margin-top:-10px;margin-right:-17px;border-top-left-radius:12px;padding:5px">
-    <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
-  </div>
-  <div class="offcanvas-header" align="center">
-    <div class="position-absolute top-0 start-50 translate-middle-x">
-        <script type="text/javascript" data-cfasync="false" async src="https://poweredby.jads.co/js/jads.js"></script>
-        <ins id="959232" data-width="300" data-height="112"></ins>
-        <script type="text/javascript" data-cfasync="false" async>(adsbyjuicy = window.adsbyjuicy || []).push({'adzone':959232});</script>
-    </div>
-  </div>
-</div>-->
 
   <script src="assets/bootstrap.min.js"></script>
   <script src="assets/jquery-1.12.4.min.js"></script>
@@ -332,23 +264,10 @@
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/2.2.2/isotope.pkgd.min.js'></script>
   <script src="assets/search.js"></script>
   <script src="web/bokep.js"></script>
-  <script src="web/desah.js"></script>
   <script src="web/bugil.js"></script>
   <script src="web/video.js"></script>
   <script src="web/ads.js"></script>
   <script src="assets/app.js"></script>
-    
-  <script>
-    document.addEventListener("DOMContentLoaded", function(){
-      window.addEventListener('scroll', function() {
-          if (window.scrollY > 50) {
-            document.getElementById('navbar_top').classList.add('fixed-top');
-          } else {
-            document.getElementById('navbar_top').classList.remove('fixed-top');
-          } 
-      });
-    }); 
-  </script>
     
   <script>
     const scriptURL = 'https://script.google.com/macros/s/AKfycbz6w7533jPj_886a8pPF6wTSHxr4_AoCdLgDTdrz1JZcQhQMtA/exec';
