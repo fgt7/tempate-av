@@ -40101,10 +40101,10 @@ var data = [
     })
   })
   
-
+/*
 function randomads() {
   let random = data[Math.floor(Math.random() * data.length)];
   iklan.innerHTML = `<a href="${random.link}" onclick="myAds()"><div class="container-fluid full-width-image"><img src="${random.poster}" width="100%" height="240px" style="object-fit:cover"><h1>${random.title}</h1></div></div><div class="modal-footer" style="border-style:none;margin-top:-185px"><img class="position-absolute bottom-0 start-50 translate-middle-x" src="assets/img/play.png" height="60px"></a>`;
   
 }
-randomads();
+randomads();*/
