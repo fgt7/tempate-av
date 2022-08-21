@@ -12,6 +12,11 @@ $(function () {
   className: 'paginationjs-theme-blue',
   dataSource: [
     {
+        "title": "QCute Live Mod",
+        "poster": "web/app/qcute.png",
+        "link": "https://droplink.co/2nFkh1Q9"
+    },
+    {
         "title": "Ruang Imajinasi",
         "poster": "web/app/ri.jpg",
         "link": "https://sfile.mobi/ocpuru6afA7"
