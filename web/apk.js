@@ -12,6 +12,16 @@ $(function () {
   className: 'paginationjs-theme-blue',
   dataSource: [
     {
+        "title": "HOT51 Unlocked Room",
+        "poster": "web/app/hot51.jpg",
+        "link": "https://droplink.co/dPrVpt1"
+    },
+    {
+        "title": "UF Live Unlocked Room",
+        "poster": "web/app/uflive.png",
+        "link": "https://droplink.co/M5dH3wM"
+    },
+    {
         "title": "QCute Live Mod",
         "poster": "web/app/qcute.png",
         "link": "https://droplink.co/2nFkh1Q9"
