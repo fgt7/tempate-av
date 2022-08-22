@@ -41368,6 +41368,20 @@ var data = [
     })
   })
   
+$(function() {
+  $("#search-movie").on("keyup", function() {
+    var value = $(this).val().toLowerCase();
+    if (value.length) {
+      $("#data-bokep #video-bokep").filter(function() {
+        $("#data-bokep").show();
+        $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+      });
+    } else {
+      $("#data-bokep").hide();
+    }
+  });
+});
+
 /*
 function randomads() {
   let random = data[Math.floor(Math.random() * data.length)];
