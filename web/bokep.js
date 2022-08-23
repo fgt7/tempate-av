@@ -26,11 +26,6 @@ var data = [
     },
     {
         "title": "Pergoki mesum",
-        "poster": "https://img.doodcdn.co/snaps/u178o89p2ijn0ust.jpg",
-        "link": "https://dood.la/e/t7a88lev4wkm"
-    },
-    {
-        "title": "Pergoki mesum",
         "poster": "https://img.doodcdn.co/snaps/avrbebvowydt9uc4.jpg",
         "link": "https://dood.la/e/x4m1rz4ixyka"
     },
