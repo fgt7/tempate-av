@@ -1,5 +1,140 @@
 var data = [
     {
+        "title": "@Nud3Cloud Telegram (31)",
+        "poster": "https://img.doodcdn.co/snaps/flk5t5c6psesqhaq.jpg",
+        "link": "https://dood.la/e/4ov4q4pc29yw"
+    },
+    {
+        "title": "@Nud3Cloud Telegram (21)",
+        "poster": "https://img.doodcdn.co/snaps/xro95ff74yxmi0al.jpg",
+        "link": "https://dood.la/e/cqoy1vit8erq"
+    },
+    {
+        "title": "@Nud3Cloud Telegram (13)",
+        "poster": "https://img.doodcdn.co/snaps/9fexqg38s23fw7q6.jpg",
+        "link": "https://dood.la/e/wy8papkpf6js"
+    },
+    {
+        "title": "@Nud3Cloud Telegram (25)",
+        "poster": "https://img.doodcdn.co/snaps/m47eroqxfxps21g5.jpg",
+        "link": "https://dood.la/e/m8lotcatquwu"
+    },
+    {
+        "title": "@Nud3Cloud Telegram (28)",
+        "poster": "https://img.doodcdn.co/snaps/ppi7kc9m5b7t1fui.jpg",
+        "link": "https://dood.la/e/htx031ay13yc"
+    },
+    {
+        "title": "@Nud3Cloud Telegram (8)",
+        "poster": "https://img.doodcdn.co/snaps/je60p3x4ubci8wr6.jpg",
+        "link": "https://dood.la/e/gsnvyz88vpmk"
+    },
+    {
+        "title": "VID 20211102 115623 564",
+        "poster": "https://img.doodcdn.co/snaps/ffpbaqf3rhbbskuq.jpg",
+        "link": "https://dood.la/e/09vpbgco11mu"
+    },
+    {
+        "title": "@Nud3Cloud Telegram (24)",
+        "poster": "https://img.doodcdn.co/snaps/92abiw6r2xbvgz1h.jpg",
+        "link": "https://dood.la/e/c0uam5rxlxav"
+    },
+    {
+        "title": "@Nud3Cloud Telegram (27)",
+        "poster": "https://img.doodcdn.co/snaps/ygxqabdp97brvj52.jpg",
+        "link": "https://dood.la/e/hfs4hq3uufyy"
+    },
+    {
+        "title": "NSFW ????-Hot Cosplay (1)",
+        "poster": "https://img.doodcdn.co/snaps/cnxt26196kd8zdob.jpg",
+        "link": "https://dood.la/e/n4pctf5iql7v"
+    },
+    {
+        "title": "ABG Indo Terbaru ngewe di kost",
+        "poster": "https://img.doodcdn.co/snaps/crpo00xij4oija2d.jpg",
+        "link": "https://dood.la/e/vg0j2b045tis"
+    },
+    {
+        "title": "Dicekik",
+        "poster": "https://img.doodcdn.co/snaps/x7xri0m9z5qc0x5v.jpg",
+        "link": "https://dood.la/e/il5vfsa125my"
+    },
+    {
+        "title": "Layani berondong hingga muncrat || bokep indonesia terbaru",
+        "poster": "https://img.doodcdn.co/splash/3cmsua35j21ntmtq.jpg",
+        "link": "https://dood.la/e/6unb5eg8fw37"
+    },
+    {
+        "title": "BARU BANGUN TIDUR UDAH DIAJAK LAGI",
+        "poster": "https://img.doodcdn.co/snaps/xn5ogdkv0ud2rkd6.jpg",
+        "link": "https://dood.la/e/kferogf2u8ct"
+    },
+    {
+        "title": "Baru Pulang Kerja Malah di Paksa Sex dulu",
+        "poster": "https://img.doodcdn.co/snaps/182ymaqs1q7l4hkm.jpg",
+        "link": "https://dood.la/e/5wq6ya5ejzyq"
+    },
+    {
+        "title": "Hadiah Tahun Baru Dari Pacar Dikasih Woman on Top [ovzq]",
+        "poster": "https://img.doodcdn.co/snaps/xw9k54giurtdz7f9.jpg",
+        "link": "https://dood.la/e/8r2w39iy6zzx"
+    },
+    {
+        "title": "NENEN PACAR HIJAB",
+        "poster": "https://img.doodcdn.co/snaps/w7qh6p6303pf6rwt.jpg",
+        "link": "https://dood.la/e/budur8u9502w"
+    },
+    {
+        "title": "Ome tv tante daster item - DoodStream",
+        "poster": "https://img.doodcdn.co/snaps/bclxk55j8hnqpyfg.jpg",
+        "link": "https://dood.la/e/cdu2etm7953c"
+    },
+    {
+        "title": "Live Ome TV hijab berkacamata - DoodStream",
+        "poster": "https://img.doodcdn.co/snaps/xjwows4jn3i8azr3.jpg",
+        "link": "https://dood.la/e/d0t58a8lc6sk"
+    },
+    {
+        "title": "Situs Bokep Indo Body Cewenya Mantap Cok - Pasarbokep com - DoodStream",
+        "poster": "https://img.doodcdn.co/snaps/4aey6bbqtnvdmf38.jpg",
+        "link": "https://dood.la/e/w0cyjq47ffxf"
+    },
+    {
+        "title": "Ayang malu-malu takut sampe viral - DoodStream",
+        "poster": "https://img.doodcdn.co/snaps/nydyb99jdjon821k.jpg",
+        "link": "https://dood.la/e/l9lcof02m1q6"
+    },
+    {
+        "title": "Ayue Taniya si Bening Bikin Pening- Sepong dan Menggoyang Dildo 480p",
+        "poster": "https://img.doodcdn.co/snaps/s7nx4m1zffkw7pc6.jpg",
+        "link": "https://dood.la/e/6cmxq2m4zt2u"
+    },
+    {
+        "title": "Dildo Mesin",
+        "poster": "https://img.doodcdn.co/snaps/dy3bnlawrm8jjhll.jpg",
+        "link": "https://dood.la/e/7gehp87lfd8n"
+    },
+    {
+        "title": "Fitriyana Live sh0w C0lmek",
+        "poster": "https://img.doodcdn.co/snaps/nvgrlfr7pz844m5g.jpg",
+        "link": "https://dood.la/e/ql2slht2fdu8"
+    },
+    {
+        "title": "Mulus Bening",
+        "poster": "https://img.doodcdn.co/snaps/ty3vvlv2sop0dmv5.jpg",
+        "link": "https://dood.la/e/qfor4cwjqj0h"
+    },
+    {
+        "title": "Nonton Film Bokep Indo Bersenggama Dengan Cewe SMA - BokepHub",
+        "poster": "https://img.doodcdn.co/snaps/h8nn5b5j03kslm1t.jpg",
+        "link": "https://dood.la/e/2zc6qexgkyk9"
+    },
+    {
+        "title": "Bokepin Indo Duh Pinter Bet Gelekan Doi",
+        "poster": "https://img.doodcdn.co/snaps/6yez1gmihfzb157i.jpg",
+        "link": "https://dood.la/e/exqb0fkx39ip"
+    },
+    {
         "title": "WOTPart2",
         "poster": "https://img.doodcdn.co/snaps/44hkoivprotg2m9f.jpg",
         "link": "https://dood.la/e/bi7lx3tp7c3w"
@@ -42862,10 +42997,9 @@ $(function() {
   });
 });
 
-/*
 function randomads() {
   let random = data[Math.floor(Math.random() * data.length)];
   iklan.innerHTML = `<a href="${random.link}" onclick="myAds()"><div class="container-fluid full-width-image"><img src="${random.poster}" width="100%" height="240px" style="object-fit:cover"><h1>${random.title}</h1></div></div><div class="modal-footer" style="border-style:none;margin-top:-185px"><img class="position-absolute bottom-0 start-50 translate-middle-x" src="assets/img/play.png" height="60px"></a>`;
   
 }
-randomads();*/
+randomads();
