@@ -116,7 +116,7 @@ var data = [
     },
     {
         "title": "Diatas Sepeda Motor",
-        "poster": "https://img.doodcdn.co/snaps/ee3x5l21ryxif231.jpg",
+        "poster": "https://img.doodcdn.co/splash/ee3x5l21ryxif231.jpg",
         "link": "https://dood.la/e/ofj6pznei3cs"
     },
     {

@@ -1,14 +1,34 @@
 html, body {
   overflow-x: hidden;
   width:100%;
+  padding-top:25px;
+  padding-bottom:25px;
+  z-index:-999;
 }
 a {
-  color:red;
+  color:white;
   text-decoration:none;
 }
 hr {
   margin-top:0px;
   margin-bottom:0px;
+}
+ #myVideo {
+  position: fixed;
+  background-color: #000;
+  right: 0;
+  top:0;
+  min-width: 100%;
+  min-height: 100%;
+}
+video::-webkit-media-controls-fullscreen-button {
+  display: none !important;
+  opacity: 1 !important;
+}
+.mylogos {
+  width:214px;
+  height:27px;
+  margin-left:-10px;
 }
 @font-face {
 	font-family: 'proxima_nova_rgregular';
@@ -47,129 +67,29 @@ body{
 h1{
    font-family: 'proxima_nova_rgbold', Helvetica, Arial, sans-serif;
 }
-.skip {
-  background-color: #212529;
-  font-size: 8pt;
-  text-align: center;
-  color:white;
-  padding:2px;
-}
-@media (max-width: 800px) {
-  .grid-movie {
-    grid-template-rows: 225px ;
-  }
-}
 ::-webkit-scrollbar {
     display: none;
 }
-.custom-toggler .navbar-toggler-icon {
-  background-image: url("../assets/img/menu.png");
-  color:white;
-  width:20px;
-  height:20px;
-  margin-top:-2px;
-  margin-left:-10px;
-}
 .mylogo {
-  width:214px;
-  height:27px;
-  margin-left:-10px;
-}
-.mylogos {
-  width:214px;
-  height:27px;
-  margin-left:-10px;
-  margin-top:-2px;
-}
-.mylogos2 {
-  width:214px;
-  height:30px;
+  width:230px;
+  height:32px;
   margin-top:11px;
 }
-.mylogos3 {
-  width:30px;
-  height:30px;
-  margin-top:11px;
-  margin-right:11px;
-  border-radius:50%;
-}
-.smartbanner {
-  width:100%;
-  font-family: "Helvetica Neue", helvetica, arial, sans-serif;
-  overflow:hidden;
-}
-.smartbanner-icon{
-  position:absolute;
-  left:10px;
-  top:12px;
-  display:block;
+.mylogo-2 {
   width:35px;
   height:35px;
-  background-color: #fff;
-  background-size:cover;
-  background-image: url("../assets/img/favicon.jpg");
-  border-radius: 15%;
-}
-.smartbanner-info{
-  position:absolute;
-  left:55px;
-  top:10px;
-  right:5px;
-  width:50%;
-  font-size:10px;
-  line-height:1.2em;
-  font-weight:bold;
-  color:#999;
-}
-.smartbanner-title {
-  font-size:13px;
-  margin-bottom:2px;
-  line-height:17px;
-  color:#000;
-  font-weight:bold;
-}
-.smartbanner-button{
-  position:absolute;
-  right:15px;
-  top:17px;
-  border-bottom:3px solid #2d2c4d;
-  padding:0 5px;
-  min-width:10%;
-  height:24px;
-  font-size:11px;
-  line-height:24px;
-  text-align:center;
-  font-weight:bold;
-  color:#fff;
-  background-color:#2d2c4d;
-  text-decoration:none;
-  border-radius:5px;
-}
-.smartbanner-button:hover {
-  background-color: #2d2c4d;
-  border-bottom:3px solid #2d2c4d;
-}
-.smartbanner-button-text {
-  text-align:center;
-  display:block;
-  padding:0 5px;
+  border-radius:50%;
 }
 .nav-scroller {
   position: relative;
-  -ms-overflow-style: none;
-  scrollbar-width: none; 
   overflow-x: scroll;
-  overflow-y: hidden;
-  z-index: 2;
   height: 3rem;
-  margin:-12px;
-  margin-bottom:0px;
+  overflow-y: hidden;
   background-color: #2d2c4d;
 }
 .nav-scroller .nav {
+  margin:-15px;
   display: flex;
-  padding-top:10px;
-  margin-bottom:10px;
   flex-wrap: nowrap;
   overflow-x: auto;
   text-align: center;
@@ -287,6 +207,7 @@ div.dark {
   color:white;
   text-align: center;
   font-size:18pt;
+  border-radius:10px;
 }
 .disabled {
   opacity: .4;
@@ -497,8 +418,8 @@ div.dark {
   text-align: center;a
   border-radius: 4px;
   position: fixed;
-  bottom: 140px;
-  right: 20px;
+  bottom: 60px;
+  right: 10px;
   transition: background-color .3s, 
   opacity .5s, visibility .5s;
   opacity: 0;
@@ -784,36 +705,12 @@ p {
   margin-top:-15px;
   margin-bottom:-20px;
 }
-
-.search-custom {
-  width: 100%;
-  font-size: 16px;
-  border: 1px solid #ddd;
-  background: #E9EEF0;
-  border: 1px solid #D5D9DB;
-  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'><path fill='%238C92A0' d='M11.44 10.73l4.41 4.42a.5.5 0 1 1-.7.7l-4.42-4.41a6.5 6.5 0 1 1 .7-.7v-.01zM6.5 12a5.5 5.5 0 1 0 0-11 5.5 5.5 0 0 0 0 11z'></path></svg>");
-  background-repeat: no-repeat;
-  background-position: 15px 10px;
-  background-size: 20px 20px;
-  width: 100%;
-  border-radius: 20px;
-  margin-top:6px;
-  padding: .5em 2.5em .5em 2.5em;
-} 
-.search-custom::placeholder{
-  color: #838D99;
-}
-.search-custom:focus {
-  outline: none;
-  background-color: #FFF;
-  border: 1px solid #84A2FA;
-}
 .float{
 	position:fixed;
 	z-index: 999;
 	width:50px;
 	height:50px;
-	bottom:30px;
+	bottom:70px;
 	right:20px;
 	background-color:#2d2c4d;
 	color:#FFF;
@@ -838,6 +735,10 @@ p {
 	border-radius:50px;
 	text-align:center;
 	box-shadow: 2px 2px 3px #999;
+}
+.ads{
+	position:fixed;
+	z-index: 999;
 }
 
 .my-donasi{
@@ -987,8 +888,8 @@ video {
   background-repeat: no-repeat;
   background-position: 15px 10px;
   background-size: 18px 18px;
-  width: 100%;
-  border-radius: 20px;
+  width: 85vw;
+  border-radius: 5px;
   padding: .5em .3em .3em 2.5em;
 } 
 #searchText::placeholder{
@@ -1058,3 +959,69 @@ video::-webkit-media-controls-timeline {
     height: 100%;
   }  
 }
+.grid-apk {
+  width: 100%;
+  list-style: none;
+  display: grid;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  grid-template-rows: auto;
+  grid-template-columns: 31.66% 31.66% 31.66%;
+  grid-row-gap: 0px;
+  grid-column-gap: 10px; 
+}
+@media (max-width: 1024px) {
+  .grid-apk {
+    grid-template-rows: auto;
+    grid-column-gap: 10px; 
+  }
+  #judul-apk {
+    height:40px;
+    width:100%;
+    margin-bottom:7px;
+    margin-top:5px;
+    overflow: hidden;
+    text-align: center;
+    font-size:11pt;
+    font-style:bold;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+       -webkit-line-clamp: 2;
+               line-clamp: 2; 
+       -webkit-box-orient: vertical;
+  }
+}
+
+.grid-bokep {
+  width: 100%;
+  list-style: none;
+  display: grid;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  grid-template-rows: auto;
+  grid-template-columns: 48.66% 48.66%;
+  grid-row-gap: 0px;
+  grid-column-gap: 10px; 
+}
+@media (max-width: 1024px) {
+  .grid-bokep {
+    grid-template-rows: auto;
+    grid-template-columns: 48.66% 48.66%;
+    grid-row-gap: 0px;
+    grid-column-gap: 10px; 
+  }
+  #judul-bokep {
+    height:40px;
+    width:100%;
+    margin-bottom:7px;
+    margin-top:5px;
+    overflow: hidden;
+    font-size:12pt;
+    font-style:bold;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+       -webkit-line-clamp: 2;
+               line-clamp: 2; 
+       -webkit-box-orient: vertical;
+  }
+}      
