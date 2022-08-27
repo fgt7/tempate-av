@@ -86,6 +86,7 @@ h1{
 }
 .nav-scroller .nav {
   margin:-15px;
+  margin-left:-5px;
   display: flex;
   flex-wrap: nowrap;
   overflow-x: auto;
