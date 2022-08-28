@@ -522,7 +522,7 @@ video {
   .grid-bokep {
     grid-template-rows: auto;
     grid-template-columns: 48.66% 48.66%;
-    grid-row-gap: 0px;
+    grid-row-gap: 10px;
     grid-column-gap: 10px; 
   }
   #judul-bokep {
@@ -550,6 +550,9 @@ video {
   display: block;
   margin-top:5px;
   font-size:6pt;
+}
+.fixed-top {
+  z-index:1;
 }
 .fixed-bottom {
   z-index:1;
