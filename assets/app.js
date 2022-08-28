@@ -15,3 +15,10 @@ history.pushState(null, null, location.href);
 window.onpopstate = () => {
   history.go(1)
 }
+
+$(document).ready(function() {
+  $("#aa1").click(function() {
+    $("#sociallist").toggleClass("remove");
+    $(".btnopenclose").toggleClass("as_selected");
+  });
+});
