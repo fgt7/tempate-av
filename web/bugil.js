@@ -35477,13 +35477,13 @@ var bugil =  [
 $(function () {
   let container = $('#page-bugil');
   container.pagination({
-  pageSize: 30,
+  pageSize: 20,
   showPageNumbers: false,
   showNavigator: true,
-  formatNavigator: 'Hal. ke-<span style="color: #f00"><b><%= currentPage %></span></b>, <b><%= totalPage %></b> Halaman, Total Photo <b><%= totalNumber %></b>',
+  formatNavigator: 'Hal. ke-<span style="color: #f00"><b><%= currentPage %></span></b>, <b><%= totalPage %></b> Halaman.',
   showGoInput: true,
   showGoButton: true,
-  formatGoInput: 'Menuju halaman ke- <%= input %>',
+  formatGoInput: 'Menuju <%= input %>',
   position: 'top',
   className: 'paginationjs-theme-blue',
   dataSource: bugil,
@@ -35491,7 +35491,8 @@ $(function () {
   callback: function (data, pagination) {
       var dataHtml = '';
       $.each(data, function (index, item) {
-          dataHtml += '<div style="padding-top:10px"><a href="https://shope.ee/5UtF0ZUcOP"><img width="100%" height="100%" loading=lazy src="https://telegra.ph/file/' + item.link +'" alt="' + item.link + '" style="border-radius:10px;}"></img></a><div>';
+          let random = bugil[Math.floor(Math.random() * bugil.length)];
+          dataHtml += '<div style="padding-top:10px"><a href="https://shope.ee/5UtF0ZUcOP"><img width="100%" height="100%" loading=lazy src="https://telegra.ph/file/' + random.link +'" alt="' + random.link + '" style="border-radius:10px;}"></img></a><div>';
           });
 
           $("#data-bugil").html(dataHtml);

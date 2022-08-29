@@ -1,8 +1,8 @@
 html, body {
   overflow-x: hidden;
   width:100%;
-  padding-top:35px;
-  padding-bottom:25px;
+  padding-top:30px;
+  padding-bottom:60px;
   z-index:-999;
 }
 a {
