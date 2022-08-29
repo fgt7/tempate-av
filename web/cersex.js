@@ -12,6 +12,326 @@ $(function () {
   className: 'paginationjs-theme-blue',
   dataSource: [
     {
+        "title": "Cerita Bokep, Belajar Ngentot",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Cerita-Bokep-Belajar-Ngentot-08-29"
+    },
+    {
+        "title": "Cerita Dewasa Jeritan Cewek SMP Saat Kuambil Keperawanannya",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Cerita-Dewasa-Jeritan-Cewek-SMP-Saat-Kuambil-Keperawanannya-08-29"
+    },
+    {
+        "title": "Ngentot Dengan Cewek SMA Bispak",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Ngentot-Dengan-Cewek-SMA-Bispak-08-29"
+    },
+    {
+        "title": "Dua Wanita Puaskan Nafsu Seksku",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Dua-Wanita-Puaskan-Nafsu-Seksku-08-29"
+    },
+    {
+        "title": "Nikmat Di Balik Posesif",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Nikmat-Di-Balik-Posesif-08-29"
+    },
+    {
+        "title": "Ngentot Memek Anak Rekan Bisnisku",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Ngentot-Memek-Anak-Rekan-Bisnisku-08-29"
+    },
+    {
+        "title": "Kecanduan Memek Sempit Adikku",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Kecanduan-Memek-Sempit-Adikku-08-29"
+    },
+    {
+        "title": "Ngentot Lembur Setengah Hari",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Ngentot-Lembur-Setengah-Hari-08-29"
+    },
+    {
+        "title": "Ngentot Dengan Ibu Bidan",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Ngentot-Dengan-Ibu-Bidan-08-29"
+    },
+    {
+        "title": "Cerita Sex Di Villa Akibat Foto Bugilku",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Cerita-Sex-Di-Villa-Akibat-Foto-Bugilku-08-29"
+    },
+    {
+        "title": "Kontolku Disepong Suster Cantik Sampai Muncrat",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Kontolku-Disepong-Suster-Cantik-Sampai-Muncrat-08-29"
+    },
+    {
+        "title": "Perawanku Direnggut Ayahku Sendiri",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Perawanku-Direnggut-Ayahku-Sendiri-08-29"
+    },
+    {
+        "title": "Malu Malu Tapi Mau Dan Menikmatinya",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Malu-Malu-Tapi-Mau-Dan-Menikmatinya-08-29"
+    },
+    {
+        "title": "Arisan Sex Yang Bikin Ketagihan",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Arisan-Sex-Yang-Bikin-Ketagihan-08-29"
+    },
+    {
+        "title": "Cerita Sex Para Cewek ABG Buas",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Cerita-Sex-Para-Cewek-ABG-Buas-08-29"
+    },
+    {
+        "title": "Cerita Sex Dukun Cabul Gilak Sex",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Cerita-Sex-Dukun-Cabul-Gilak-Sex-08-29"
+    },
+    {
+        "title": "Cerita Sex Enaknya Bercinta Dengan Pacar Kesayangan Di Kost",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Cerita-Sex-Enaknya-Bercinta-Dengan-Pacar-Kesayangan-Di-Kost-08-29"
+    },
+    {
+        "title": "Cerita Bugil Crot Masuk Lubang Perawan",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Cerita-Bugil-Crot-Masuk-Lubang-Perawan-08-29"
+    },
+    {
+        "title": "Cerita Panas ML Dengan Therapist Panti Pijat",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Cerita-Panas-ML-Dengan-Therapist-Panti-Pijat-08-29"
+    },
+    {
+        "title": "Cerita Dewasa Di Entot Akhirya Aku Langsung Pasrah Keenakan",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Cerita-Dewasa-Di-Entot-Akhirya-Aku-Langsung-Pasrah-Keenakan-08-29"
+    },
+    {
+        "title": "Betapa Nikmatnya Tubuh Istri Temanku",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Betapa-Nikmatnya-Tubuh-Istri-Temanku-08-29"
+    },
+    {
+        "title": "Cerita Dewasa Kugoda Majikanku Hingga Horny Saat Diriku Nungging",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Cerita-Dewasa-Kugoda-Majikanku-Hingga-Horny-Saat-Diriku-Nungging-08-29"
+    },
+    {
+        "title": "Bekas Muridku Ku Entot",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Bekas-Muridku-Ku-Entot-08-29"
+    },
+    {
+        "title": "ML Dengan Anak Pak RT Yang Cantik",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/ML-Dengan-Anak-Pak-RT-Yang-Cantik-08-29"
+    },
+    {
+        "title": "Cerita Bokep Threesome Dengan Kakak Beradik",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Cerita-Bokep-Threesome-Dengan-Kakak-Beradik-08-29"
+    },
+    {
+        "title": "Cerita Dewasa Suami Tetangga Baruku Bikin Horny",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Cerita-Dewasa-Suami-Tetangga-Baruku-Bikin-Horny-08-29"
+    },
+    {
+        "title": "Ibuku Tukang Selingkuh",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Ibuku-Tukang-Selingkuh-08-29"
+    },
+    {
+        "title": "Cerita Sex Ngentot dengan Teman Pacarku",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Cerita-Sex-Ngentot-dengan-Teman-Pacarku-08-29"
+    },
+    {
+        "title": "Cerita Dewasa Sebagai Pemuas Nafsu Papaku",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Cerita-Dewasa-Sebagai-Pemuas-Nafsu-Papaku-08-29"
+    },
+    {
+        "title": "Cerita Masturbasi Yang Aku Lakukan Di Saat Aku Terangsang",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Cerita-Masturbasi-Yang-Aku-Lakukan-Di-Saat-Aku-Terangsang-08-29"
+    },
+    {
+        "title": "Janda Semok Dientot Tiga Pelajar Karna Kecelakaan",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Janda-Semok-Dientot-Tiga-Pelajar-Karna-Kecelakaan-08-29"
+    },
+    {
+        "title": "Nikmatnya Toket Super Janda Muda Dengan Temanku",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Nikmatnya-Toket-Super-Janda-Muda-Dengan-Temanku-08-29"
+    },
+    {
+        "title": "Ngentot Dengan Tante Henny di Kamar Mandi",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Ngentot-Dengan-Tante-Henny-di-Kamar-Mandi-08-29"
+    },
+    {
+        "title": "Cerita Dewasa Nikmatnya Buah Dada Pembantuku Yang Polos",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Cerita-Dewasa-Nikmatnya-Buah-Dada-Pembantuku-Yang-Polos-08-29"
+    },
+    {
+        "title": "Cerita Dewasa Bapak Kost Tergoda Dengan Janda Montok",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Cerita-Dewasa-Bapak-Kost-Tergoda-Dengan-Janda-Montok-08-29"
+    },
+    {
+        "title": "Kemaluan Perempuan Berkerudung",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Kemaluan-Perempuan-Berkerudung-08-29"
+    },
+    {
+        "title": "Guru Berjilbab Penggila Sex",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Guru-Berjilbab-Penggila-Sex-08-29"
+    },
+    {
+        "title": "Cerita Ngentot Pacar Baru",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Cerita-Ngentot-Pacar-Baru-08-29"
+    },
+    {
+        "title": "Belajar Threesome dari Teman Teman Suamiku",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Belajar-Threesome-dari-Teman-Teman-Suamiku-08-29"
+    },
+    {
+        "title": "Kuperkosa Ibu Penjual Sayur Saat Sedang Mabuk",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Kuperkosa-Ibu-Penjual-Sayur-Saat-Sedang-Mabuk-08-29"
+    },
+    {
+        "title": "Ngentotin Tante Titik Semok Montok Toge Seger",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Ngentotin-Tante-Titik-Semok-Montok-Toge-Seger-08-29"
+    },
+    {
+        "title": "Nikmatnya Bercinta dengan Pacar Ku yang Keren",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Nikmatnya-Bercinta-dengan-Pacar-Ku-yang-Keren-08-29"
+    },
+    {
+        "title": "Memberikan Tumpangan Menghasilkan Kenikmatan Semalam",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Memberikan-Tumpangan-Menghasilkan-Kenikmatan-Semalam-08-29"
+    },
+    {
+        "title": "Cerita Sex Bercinta di Jok Mobil",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Cerita-Sex-Bercinta-di-Jok-Mobil-08-29"
+    },
+    {
+        "title": "Cerita Sex Dewasa Selingkuh Dengan Istri Pak RT",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Cerita-Sex-Dewasa-Selingkuh-Dengan-Istri-Pak-RT-08-29"
+    },
+    {
+        "title": "CERITA DEWASA Aku Ngewe dengan Lima Laki-Laki di Tempat Karaoke Mesum",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/CERITA-DEWASA-Aku-Ngewe-dengan-Lima-Laki-Laki-di-Tempat-Karaoke-Mesum-08-29"
+    },
+    {
+        "title": "Cerita Sex Janda Montok Goda Bapak Kost",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Cerita-Sex-Janda-Montok-Goda-Bapak-Kost-08-29"
+    },
+    {
+        "title": "Cerita Porno Menikmati Tubuh Wanita China",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Cerita-Porno-Menikmati-Tubuh-Wanita-China-08-29"
+    },
+    {
+        "title": "Cerita Ngewe Tante Nakal Gara2 Melihat Memek Mulusnya",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Cerita-Ngewe-Tante-Nakal-Gara2-Melihat-Memek-Mulusnya-08-29"
+    },
+    {
+        "title": "Cerita Pelarian Patah Hati di Saat Pacarku Pergi",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Cerita-Pelarian-Patah-Hati-di-Saat-Pacarku-Pergi-08-29"
+    },
+    {
+        "title": "Cerita Porno Perkosa Cewek Cantik Di Kontrakan",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Cerita-Porno-Perkosa-Cewek-Cantik-Di-Kontrakan-08-29"
+    },
+    {
+        "title": "Ku Garap Dua Gadis Sekaligus dalam Satu Waktu",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Ku-Garap-Dua-Gadis-Sekaligus-dalam-Satu-Waktu-08-29"
+    },
+    {
+        "title": "Aku Gadis Korban Kawin Kontrak",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Aku-Gadis-Korban-Kawin-Kontrak-08-29"
+    },
+    {
+        "title": "Cerita Panas di Malam Minggu",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Cerita-Panas-di-Malam-Minggu-08-29"
+    },
+    {
+        "title": "Cerita Sex Perkosa Memek Sempit",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Cerita-Sex-Perkosa-Memek-Sempit-08-29"
+    },
+    {
+        "title": "Ngintip Kakak yang Lagi Ngentot",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Ngintip-Kakak-yang-Lagi-Ngentot-08-29"
+    },
+    {
+        "title": "Kisah Wanita yang Bersuami Dua",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Kisah-Wanita-yang-Bersuami-Dua-08-29"
+    },
+    {
+        "title": "Kenikmatan Sex Ketika dengan Istri yang Hamil",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Kenikmatan-Sex-Ketika-dengan-Istri-yang-Hamil-08-29"
+    },
+    {
+        "title": "Nikmat Bertukar Pasangan",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Nikmat-Bertukar-Pasangan-08-29"
+    },
+    {
+        "title": "Gairah Sex Meningkat Setelah Pulang Dari Dugem",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Gairah-Sex-Meningkat-Setelah-Pulang-Dari-Dugem-08-29"
+    },
+    {
+        "title": "Cerita Memek Sempit Punya Muridku Yg Begitu Lezat",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Cerita-Memek-Sempit-Punya-Muridku-Yg-Begitu-Lezat-08-29"
+    },
+    {
+        "title": "Gara Gara Selingkuh",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Gara-Gara-Selingkuh-08-29"
+    },
+    {
+        "title": "Kisah Bokep Si Bocah Lugu",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Kisah-Bokep-Si-Bocah-Lugu-08-29"
+    },
+    {
+        "title": "Devira dan Dokter Kandungan",
+        "kategori": "Cersex Ngentot",
+        "link": "https://telegra.ph/Devira-dan-Dokter-Kandungan-08-29"
+    },
+    {
         "title": "Cerita Sex Rintihan Orgasme Tante",
         "kategori": "Cersex Tante",
         "link": "https://telegra.ph/Cerita-Sex-Rintihan-Orgasme-Tante-08-27"
@@ -2821,7 +3141,7 @@ $(function () {
   callback: function (data, pagination) {
       var dataHtml = '';
       $.each(data, function (index, item) {
-          dataHtml += '<div class="row sort-item"><a href="http://adf.ly/19888345/' + item.link + '" onclick="myAds()" style="color:black"><p id="judul-cersex" align="left"><b>' + item.title + '</b></p><p style="margin-left:10px;font-size:14pt">'+ item.kategori +'</p></div>';
+          dataHtml += '<div class="row sort-item mb-2"><a href="http://adf.ly/19888345/' + item.link + '" onclick="myAds()" style="color:black"><p id="judul-cersex" align="left"><b>' + item.title + '</b></p><p style="margin-left:10px;font-size:12pt">'+ item.kategori +'</p></div>';
           });
 
           $("#data-cersex").html(dataHtml);
