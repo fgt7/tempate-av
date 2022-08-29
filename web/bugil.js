@@ -35491,7 +35491,7 @@ $(function () {
   callback: function (data, pagination) {
       var dataHtml = '';
       $.each(data, function (index, item) {
-          dataHtml += '<div style="padding-top:10px"><a href="https://contentmentchef.com/z5qmn0r5?key=c2197669323798a5c07418beaadbc791"><img width="100%" height="100%" loading=lazy src="https://telegra.ph/file/' + item.link +'" alt="' + item.link + '" style="border-radius:10px;}"></img></a><div>';
+          dataHtml += '<div style="padding-top:10px"><a href="https://shope.ee/5UtF0ZUcOP"><img width="100%" height="100%" loading=lazy src="https://telegra.ph/file/' + item.link +'" alt="' + item.link + '" style="border-radius:10px;}"></img></a><div>';
           });
 
           $("#data-bugil").html(dataHtml);

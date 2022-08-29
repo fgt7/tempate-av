@@ -561,7 +561,7 @@ video {
 #socialarea {
   position: fixed;
   left: 0;
-  top: 42%;
+  top: 40%;
   width: 35px;
   z-index: 9999;
 }
@@ -610,6 +610,15 @@ video {
 }
 
 #socialarea .pinterest_social:hover {
+  background-color: #b0171a;
+}
+
+#socialarea .whatsapp_social {
+  background-color: green;
+  transition: 400ms;
+}
+
+#socialarea .whatsapp_social:hover {
   background-color: #b0171a;
 }
 
