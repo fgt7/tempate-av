@@ -208,7 +208,7 @@
         	{{#each this}}
         	<div class="sort-item" data-title="{{title}}" data-link="{{link}}" data-img="{{poster}}">
         		<div style="margin-top:30px">
-              <a href="{{link}}" target="_self"><img id="poster" src="{{poster}}" width="100%" style="max-inline-size: 100%;block-size: auto;aspect-ratio: 16/9;object-fit: cover;border-radius:5px"></a>
+              <a href="{{link}}" onclick="myAds()" target="_self"><img id="poster" src="{{poster}}" width="100%" style="max-inline-size: 100%;block-size: auto;aspect-ratio: 16/9;object-fit: cover;border-radius:5px"></a>
               <div class="judul-search">
         			<h1 class="mt-2" style="width:100%;font-size:15pt;"><a href="{{link}}" style="color:white">{{title}}</a></h1>
         			</div>
@@ -238,7 +238,7 @@
         <div id="video" >
           <div id="bokep"></div>
         </div>
-        <button type="button" class="tombolbokep float"><i class="fa fa-arrow-right my-float mt-1"></i></button>
+        <button type="button" class="tombolbokep float" onclick="Adsterra()"><i class="fa fa-arrow-right my-float mt-1"></i></button>
       </div>
       <div class="tab-pane fade" id="videos-bokep" role="tabpanel" aria-labelledby="bokep-tab">
         <div style="text-align:center">
@@ -364,21 +364,6 @@
   </div>
 </div>
 
-<div class="modal fade" id="myModal" tabindex="-1">
-  <div class="modal-dialog modal-dialog-centered">
-    <div class="modal-content" style="background-color:transparent;border-style:none;margin-top:-100px;padding:0">
-      <div class="modal-header" style="border-style:none;margin-bottom:-38px;z-index:999">
-        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close" style="background-color:white;border-radius:50%" onclick="myAds()"></button>
-      </div>
-      <div class="modal-body">
-        <div id="iklan">
-          <div id="ads"></div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
 <div class="container fixed-bottom">
   <div class="row">
     <div class="nav-scroller">
@@ -413,23 +398,19 @@
   <script src="web/apk.js"></script>
   <script src="web/video.js"></script>
   <script src="assets/app.js"></script>
-  
   <script>
-    $(document).ready(function () {
-      $("#myModal").modal("show");
-    });
+    function myAds() {
+      window.open("https://shope.ee/4V0P2vy8LR");
+    }
   </script>
-  
   <script>
-  function myAds() {
-    window.open("https://shope.ee/4V0P2vy8LR");
-  }
+    function Adsterra() {
+      window.open("https://contentmentchef.com/z5qmn0r5?key=c2197669323798a5c07418beaadbc791");
+    }
   </script>
-  
   <script>
      (AdProvider = window.AdProvider || []).push({"serve": {}});</script>
   <script src="https://syndication.realsrv.com/splash.php?idzone=4591772"></script>
-   
   <script type="text/javascript">
      var uid = '344715';
      var wid = '647062';
