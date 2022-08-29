@@ -1,8 +1,8 @@
 html, body {
   overflow-x: hidden;
   width:100%;
-  padding-top:30px;
-  padding-bottom:60px;
+  padding-top:35px;
+  padding-bottom:20px;
   z-index:-999;
 }
 a {
@@ -238,7 +238,7 @@ h1{
   opacity .5s, visibility .5s;
   opacity: 0;
   visibility: hidden;
-  z-index: 1000;
+  z-index:1;
   border-radius: 50%;
 }
 #goTop::after {
@@ -561,8 +561,8 @@ video {
 #socialarea {
   position: fixed;
   left: 0;
-  top: 40%;
-  width: 35px;
+  bottom: 8%;
+  width: 40px;
   z-index: 9999;
 }
 
@@ -582,7 +582,7 @@ video {
 }
 
 #socialarea li a {
-  line-height: 30px;
+  line-height: 40px;
   color: white;
 }
 
