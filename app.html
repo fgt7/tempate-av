@@ -78,7 +78,13 @@
 <body>
   
 <a id="goTop">
-  <i class="fa fa-chevron-up my-float"></i>
+  <i class="fa fa-chevron-up my-icon"></i>
+</a>
+<a href="https://saweria.co/RuangImajinasiGroup" class="donasi">
+  <i class="fa fa-donate my-icon"></i>
+</a>
+<a href="#" class="feedback" data-bs-toggle="offcanvas" data-bs-target="#offcanvasBottom">
+  <i class="fa fa-upload my-icon"></i>
 </a>
 
 <nav class="navbar container fixed-top" style="z-index:9999" id="header">
@@ -141,7 +147,7 @@
         <div id="video" >
           <div id="bokep"></div>
         </div>
-        <button type="button" class="tombolbokep float"><i class="fa fa-arrow-right my-float mt-1"></i></button>
+        <button type="button" class="tombolbokep float"><i class="fa fa-arrow-right my-icon mt-1"></i></button>
       </div>
       <div class="tab-pane fade" id="videos-bokep" role="tabpanel" aria-labelledby="bokep-tab">
         <div style="text-align:center">
@@ -267,6 +273,48 @@
   </div>
 </div>
 
+<div class="offcanvas offcanvas-bottom" tabindex="-1" id="offcanvasBottom" aria-labelledby="offcanvasBottomLabel" style="height:550px">
+  <div class="offcanvas-header">
+    <h1 class="offcanvas-title" id="offcanvasBottomLabel" style="font-size:15pt">Form Upload Video</h1>
+    <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close" onclick="myAds()"></button>
+  </div>
+  <div class="offcanvas-body">
+    <div class="row" style="margin-top:-10px">
+      <div class="container-md-12">
+        <div class="alert alert-success alert-dismissible fade show d-none my-alert" role="alert">
+          <strong>Upload Berhasil.</strong> Tunggu moderasi admin & video akan ditampilkan di Tab Bokep.
+          <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+        <form name="ruang-imajinasi-form">
+          <div class="mb-3">
+            <label for="form-title" class="form-label">Judul Video</label>
+            <input class="form-control" id="form-title" name="form-title" placeholder="Salsa Santri Diajak Main Kepuncak">
+          </div>
+          <div class="mb-3">
+            <label for="form-poster" class="form-label">Link Poster Video</label>
+            <input class="form-control" id="form-poster" name="form-poster" placeholder="https://img.doodcdn.co/snaps/zw1vpg30w2hvjvhx.jpg">
+          </div>
+          <div class="mb-3">
+            <label for="form-link" class="form-label">Link Video (Doodstream, Streamtape, dll)</label>
+            <input class="form-control" id="form-link" name="form-link" placeholder="https://dood.wf/d/u51lpkh2xv38">
+          </div>
+          <div class="mb-3">
+            <label for="pesan" class="form-label">Pesan</label>
+            <textarea class="form-control" id="pesan" placeholder="Tulis pesan" rows="4" name="pesan"></textarea>
+          </div>
+          <div class="d-flex justify-content-center">
+            <button type="submit" class="btn btn-primary btn-kirim">Kirim</button>
+            <button class="btn btn-primary btn-loading d-none" type="button" disabled>
+            <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
+            Loading...
+            </button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+
 <script type='text/javascript'>
   $(document).ready(function() {$(&#39;img#closed&#39;).click(function(){$(&#39;#btm_banner&#39;).hide(90);});});
 </script>
@@ -316,6 +364,28 @@
   <script src="web/apk.js"></script>
   <script src="web/video.js"></script>
   <script src="assets/app.js"></script>
+  <script>
+    const scriptURL = 'https://script.google.com/macros/s/AKfycbz6w7533jPj_886a8pPF6wTSHxr4_AoCdLgDTdrz1JZcQhQMtA/exec';
+    const form = document.forms['ruang-imajinasi-form'];
+    const btnKirim = document.querySelector('.btn-kirim');
+    const btnLoading = document.querySelector('.btn-loading');
+    const myAlert = document.querySelector('.my-alert');
+    
+    form.addEventListener('submit', (e) => {
+      e.preventDefault();
+      btnLoading.classList.toggle('d-none');
+      btnKirim.classList.toggle('d-none');
+      fetch(scriptURL, { method: 'POST', body: new FormData(form) })
+        .then((response) => {
+          btnLoading.classList.toggle('d-none');
+          btnKirim.classList.toggle('d-none');
+          myAlert.classList.toggle('d-none');
+          form.reset();
+          console.log('Success!', response);
+        })
+        .catch((error) => console.error('Error!', error.message));
+    });
+  </script>
 
    
 </body>

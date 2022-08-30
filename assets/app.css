@@ -222,7 +222,49 @@ h1{
   width:100px;
   background-color: #2d2c4d;
 }
-
+.feedback{
+	position:fixed;
+	z-index: 999;
+	width:50px;
+	height:50px;
+	bottom:80px;
+	left:7px;
+	background-color:#2d2c4d;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+	box-shadow: 2px 2px 3px #999;
+}
+.tombolbokep{
+	position:fixed;
+	z-index:1;
+	width:50px;
+	height:50px;
+	bottom:80px;
+	right:20px;
+	background-color:#2d2c4d;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+	box-shadow: 2px 2px 3px #999;
+}
+.donasi{
+	position:fixed;
+	z-index: 999;
+	width:50px;
+	height:50px;
+	bottom:140px;
+	left:7px;
+	background-color:#2d2c4d;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+	box-shadow: 2px 2px 3px #999;
+}
+.my-icon{
+	margin-top:13px;
+	font-size:18pt;
+}
 #goTop {
   display: inline-block;
   background-color: #2d2c4d;
@@ -279,46 +321,9 @@ h1{
   border-radius:20px;
   padding:5px;
 }
-
-.float{
-	position:fixed;
-	z-index: 1;
-	width:50px;
-	height:50px;
-	bottom:80px;
-	right:20px;
-	background-color:#2d2c4d;
-	color:#FFF;
-	border-radius:50px;
-	text-align:center;
-	box-shadow: 2px 2px 3px #999;
-}
-
-.my-float{
-	margin-top:13px;
-	font-size:18pt;
-}
-.donasi{
-	position:fixed;
-	z-index: 999;
-	width:50px;
-	height:50px;
-	bottom:85px;
-	right:20px;
-	background-color:#2d2c4d;
-	color:#FFF;
-	border-radius:50px;
-	text-align:center;
-	box-shadow: 2px 2px 3px #999;
-}
 .ads{
 	position:fixed;
 	z-index: 999;
-}
-
-.my-donasi{
-	margin-top:13px;
-	font-size:18pt;
 }
 
 #judul-apk {
@@ -561,7 +566,7 @@ video {
 #socialarea {
   position: fixed;
   left: 0;
-  bottom: 8%;
+  bottom: 33%;
   width: 40px;
   z-index: 9999;
 }
@@ -676,4 +681,9 @@ video {
   left: 0px;
   position: relative;
   color: white;
+}
+.offcanvas-bottom {
+  z-index: 9999;
+  border-top-left-radius:10px;
+  border-top-right-radius:10px;
 }
