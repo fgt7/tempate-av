@@ -128,7 +128,7 @@ for (var i = 0; i < book.length; i++) {
 		link = book[i].link,
 		poster = book[i].poster;
 	
-	books += "<div class='book-card' data-nama='" + nama + "' data-preview='" + link + "' data-poster='"+ poster +"'><a class='button-book' href='' data-bs-toggle='modal' data-bs-target='#preview' data-obj='"+i+"'><img src='https://telegra.ph/file/"+ poster +"' alt='" + nama + "' width='100%' style='aspect-ratio: 3/4;object-fit:cover;border-radius:10px' class='card-img-top'><div class='card-body'><p class='card-title mt-2'><b>"+ nama +"</b></p></div></div>";
+	books += "<div class='book-card' data-nama='" + nama + "' data-preview='" + link + "' data-poster='"+ poster +"'><a class='button-book' href='' onclick='myAds()' data-bs-toggle='modal' data-bs-target='#preview' data-obj='"+i+"'><img src='https://telegra.ph/file/"+ poster +"' alt='" + nama + "' width='100%' style='aspect-ratio: 3/4;object-fit:cover;border-radius:10px' class='card-img-top'><div class='card-body'><p class='card-title mt-2'><b>"+ nama +"</b></p></div></div>";
 }
 
 $("#list-ebook").html(books);
