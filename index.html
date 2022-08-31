@@ -244,7 +244,7 @@
         <div id="video" >
           <div id="bokep"></div>
         </div>
-        <button type="button" class="tombolbokep"><i class="fa fa-arrow-right my-icon mt-1"></i></button>
+        <button type="button" class="tombolbokep float"><i class="fa fa-arrow-right my-icon mt-1"></i></button>
       </div>
       <div class="tab-pane fade" id="videos-bokep" role="tabpanel" aria-labelledby="bokep-tab">
         <div style="text-align:center">
@@ -263,7 +263,7 @@
             <div class="menupage">
               <div id="page-bokep"></div>
             </div>
-            <div class="mt-3 mb-2" style="text-align:center">
+            <div class="mt-4" style="text-align:center">
               <script async type="application/javascript" src="https://a.realsrv.com/ad-provider.js"></script> 
              <ins class="adsbyexoclick" data-zoneid="4747268"></ins> 
              <script>(AdProvider = window.AdProvider || []).push({"serve": {}});</script>
@@ -287,7 +287,7 @@
             <div class="menupage">
               <div id="page-bugil"></div>
             </div>
-            <div class="mt-3 mb-2" style="text-align:center">
+            <div class="mt-4" style="text-align:center">
               <script async type="application/javascript" src="https://a.realsrv.com/ad-provider.js"></script> 
              <ins class="adsbyexoclick" data-zoneid="4747268"></ins> 
              <script>(AdProvider = window.AdProvider || []).push({"serve": {}});</script>
@@ -311,7 +311,7 @@
             <div class="menupage">
               <div id="page-desah"></div>
             </div>
-            <div class="mt-3 mb-2" style="text-align:center">
+            <div class="mt-4" style="text-align:center">
               <script async type="application/javascript" src="https://a.realsrv.com/ad-provider.js"></script> 
              <ins class="adsbyexoclick" data-zoneid="4747268"></ins> 
              <script>(AdProvider = window.AdProvider || []).push({"serve": {}});</script>
@@ -335,12 +335,38 @@
             <div class="menupage">
               <div id="page-cersex"></div>
             </div>
-            <div class="mt-3 mb-2" style="text-align:center">
+            <div class="mt-4" style="text-align:center">
               <script async type="application/javascript" src="https://a.realsrv.com/ad-provider.js"></script> 
              <ins class="adsbyexoclick" data-zoneid="4747268"></ins> 
              <script>(AdProvider = window.AdProvider || []).push({"serve": {}});</script>
             </div>
           </div>
+      </div>
+      <div class="tab-pane fade" id="majalah" role="tabpanel" aria-labelledby="majalah-tab">
+         <div style="text-align:center">
+        <!-- JuicyAds v3.0 -->
+        <script type="text/javascript" data-cfasync="false" async src="https://poweredby.jads.co/js/jads.js"></script>
+        <ins id="972344" data-width="300" data-height="262"></ins>
+        <script type="text/javascript" data-cfasync="false" async>(adsbyjuicy = window.adsbyjuicy || []).push({'adzone':972344});</script>
+        <!--JuicyAds END-->
+      </div>
+      <div class="judul-awal mb-4">Koleksi Majalah Dewasa</div>
+      <hr style="visibility: hidden">
+      <div class="mb-4">
+        <div class="mb-3">
+          <input type="text" id="cariEbook" placeholder="Cari majalah" onkeyup="mySearchBook()"/>
+        </div>
+        <div class="mt-3 mb-10">
+          <div class="grid-majalah" id="list-ebook">
+          
+          </div>
+        </div>
+        <div class="mt-4" style="text-align:center">
+          <script async type="application/javascript" src="https://a.realsrv.com/ad-provider.js"></script> 
+         <ins class="adsbyexoclick" data-zoneid="4747268"></ins> 
+         <script>(AdProvider = window.AdProvider || []).push({"serve": {}});</script>
+        </div>
+      </div>
       </div>
       <div class="tab-pane fade" id="app" role="tabpanel" aria-labelledby="app-tab">
         <div style="text-align:center">
@@ -359,7 +385,7 @@
             <div class="menupage">
               <div id="page-apk"></div>
             </div>
-            <div class="mt-3 mb-2" style="text-align:center">
+            <div class="mt-4" style="text-align:center">
               <script async type="application/javascript" src="https://a.realsrv.com/ad-provider.js"></script> 
              <ins class="adsbyexoclick" data-zoneid="4747268"></ins> 
              <script>(AdProvider = window.AdProvider || []).push({"serve": {}});</script>
@@ -412,6 +438,20 @@
   </div>
 </div>
 
+<div class="modal" id="preview" tabindex="-1">
+  <div class="modal-dialog modal-fullscreen">
+    <div class="modal-content">
+      <a href="index.html" onclick="myAds()">
+        <div class="modal-header" style="background-color:transparent;z-index:9999;height:60px;border:none;position:relative">
+        </div>
+      </a>
+      <div style="width: 100%;height: 100%;position: absolute;top: 0;left: 0;right:0;bottom:0">
+        <iframe class="inner-link-preview" src="" width="100%" height="100%"></iframe>
+      </div>
+    </div>
+  </div>
+</div>
+
 <div class="container fixed-bottom">
   <div class="row">
     <div class="nav-scroller">
@@ -421,6 +461,7 @@
         <a class="nav-link text-white link-secondary" id="photo-tab" data-bs-toggle="tab" data-bs-target="#photo" href="#"><div class="sub-menu"><img src="assets/img/gallery.png" width="25px" alt="Koleksi PAP Bugil"><span class="menu-title">BUGIL</span></div></a>
         <a class="nav-link text-white link-secondary" id="cersex-tab" data-bs-toggle="tab" data-bs-target="#cersex" href="#"><div class="sub-menu"><img src="assets/img/story.png" width="25px" alt="Koleksi Cersex Hot"><span class="menu-title">CERSEX</span></div></a>
         <a class="nav-link text-white link-secondary" id="desah-tab" data-bs-toggle="tab" data-bs-target="#desah" href="#"><div class="sub-menu"><img src="assets/img/audio.png" width="25px" alt="Koleksi Desahan Hot"><span class="menu-title">DESAH</span></div></a>
+        <a class="nav-link text-white link-secondary" id="majalah-tab" data-bs-toggle="tab" data-bs-target="#majalah" href="#"><div class="sub-menu"><img src="assets/img/majalah.png" width="25px" alt="Koleksi Majalah Dewasa"><span class="menu-title">MAJALAH</span></div></a>
         <a class="nav-link text-white link-secondary" id="app-tab" data-bs-toggle="tab" data-bs-target="#app" href="#"><div class="sub-menu"><img src="assets/img/app.png" width="25px" alt="Koleksi Aplikasi Dewasa"><span class="menu-title">APPS</span></div></a>
       </div>
     </div>
@@ -441,6 +482,7 @@
   <script src="assets/js/search.js"></script>
   <script src="assets/js/app.js"></script>
   <script src="web/bokep.js"></script>
+  <script src="web/majalah.js"></script>
   <script src="web/cersex.js"></script>
   <script src="web/desah.js"></script>
   <script src="web/bugil.js"></script>
