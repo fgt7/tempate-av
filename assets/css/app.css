@@ -93,6 +93,7 @@ h1{
 .navbar {
   background-color: #2d2c4d;
   height: 55px;
+  z-index:9999;
 }
 .navbar-brand {
   color:white;
@@ -565,7 +566,7 @@ video {
 
 #socialarea {
   position: fixed;
-  left: 0;
+  right: 0;
   bottom: 33%;
   width: 40px;
   z-index: 9999;
